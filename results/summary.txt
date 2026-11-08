@@ -1,0 +1,20 @@
+150 objects, 1050 pairs; damage visible: 98% (invisible ones dropped)
+  rule            pref std 0.234, ties 68%
+  clip            pref std 0.436, ties 14%
+  qwen7b_score    pref std 0.432, ties 14% answer mass min 0.999
+  qwen7b_pair     pref std 0.081, ties 13% answer mass min 0.999
+  qwen32b_score   pref std 0.429, ties 14% answer mass min 0.687
+  qwen32b_pair    pref std 0.196, ties 13% answer mass min 1.000
+  combo           pref std 0.234, ties 13%
+
+Picks the undamaged original (accuracy, 95% CI over objects; 50% = chance)
+Geometry rule (loose part)   73% [71%, 75%]  remove 66%  float 90%  shrink 82%  grow 57%  rotate 70% | harmless turn: prefers original 50%
+CLIP text match              65% [60%, 69%]  remove 63%  float 63%  shrink 65%  grow 70%  rotate 63% | harmless turn: prefers original 85%
+Qwen2.5-VL-7B, yes/no        67% [62%, 72%]  remove 70%  float 69%  shrink 65%  grow 63%  rotate 66% | harmless turn: prefers original 85%
+Qwen2.5-VL-7B, A vs B        71% [67%, 74%]  remove 79%  float 71%  shrink 74%  grow 56%  rotate 73% | harmless turn: prefers original 85% | identical pair: picks 'first' 43%
+Qwen2.5-VL-32B, yes/no       70% [65%, 74%]  remove 70%  float 73%  shrink 65%  grow 72%  rotate 70% | harmless turn: prefers original 75%
+Qwen2.5-VL-32B, A vs B       80% [77%, 84%]  remove 77%  float 85%  shrink 77%  grow 77%  rotate 86% | harmless turn: prefers original 85% | identical pair: picks 'first' 84%
+Rule first, then 32B A vs B  88% [85%, 90%]  remove 84%  float 93%  shrink 91%  grow 80%  rotate 91% | harmless turn: prefers original 85%
+
+Damaged objects that every VLM judge prefers to the original: 42 of 734 (6%)
+Damage the geometry rule catches: 46%

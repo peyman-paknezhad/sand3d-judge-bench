@@ -1,0 +1,1051 @@
+oid,kind,damage,part,n_copies,part_share,n_parts,n_groups,pix_diff,visible,detached_after,entry,name,family
+objaverse-848f2e9de8aa48ccaecaad4e0aa917fb,remove,True,tire,4,0.09222518793059027,21,8,0.029766082763671875,True,0.07380981782407947,sedan,sedan,vehicle
+objaverse-848f2e9de8aa48ccaecaad4e0aa917fb,float,True,rim,4,0.03963933893104157,21,8,0.135986328125,True,0.06700269350413113,sedan,sedan,vehicle
+objaverse-848f2e9de8aa48ccaecaad4e0aa917fb,shrink,True,tire,4,0.09222518793059027,21,8,0.029748916625976562,True,0.08862437962889091,sedan,sedan,vehicle
+objaverse-848f2e9de8aa48ccaecaad4e0aa917fb,grow,True,tire,4,0.09222518793059027,21,8,0.09738731384277344,True,0.05248216179929899,sedan,sedan,vehicle
+objaverse-848f2e9de8aa48ccaecaad4e0aa917fb,rotate,True,rim,4,0.03963933893104157,21,8,0.11205768585205078,True,0.05717961682209516,sedan,sedan,vehicle
+objaverse-848f2e9de8aa48ccaecaad4e0aa917fb,same,False,,0,0.0,21,8,0.0,False,0.0,sedan,sedan,vehicle
+objaverse-848f2e9de8aa48ccaecaad4e0aa917fb,turn,False,,0,0.0,21,8,0.14609241485595703,True,0.0,sedan,sedan,vehicle
+objaverse-42e097aebea143b69beb9276ffd1cbc2,remove,True,neck,1,0.16826093902154274,21,9,0.01823139190673828,True,0.11768569629008874,lute,lute,musical instrument
+objaverse-42e097aebea143b69beb9276ffd1cbc2,float,True,string,6,0.04317265659725795,21,9,0.07358360290527344,True,0.043172656597258,lute,lute,musical instrument
+objaverse-42e097aebea143b69beb9276ffd1cbc2,shrink,True,knob,6,0.016961663678222095,21,9,0.007313728332519531,True,0.0,lute,lute,musical instrument
+objaverse-42e097aebea143b69beb9276ffd1cbc2,grow,True,string,6,0.04317265659725795,21,9,0.06798267364501953,True,1.1102230246251565e-16,lute,lute,musical instrument
+objaverse-42e097aebea143b69beb9276ffd1cbc2,rotate,True,pegbox,1,0.06612037948840255,21,9,0.012053489685058594,True,0.0,lute,lute,musical instrument
+objaverse-42e097aebea143b69beb9276ffd1cbc2,same,False,,0,0.0,21,9,0.0,False,0.0,lute,lute,musical instrument
+objaverse-42e097aebea143b69beb9276ffd1cbc2,turn,False,,0,0.0,21,9,0.10527801513671875,True,0.0,lute,lute,musical instrument
+objaverse-95396541f878416ba5a8339d33da0102,remove,True,body,1,0.3233787878929621,14,6,0.06380367279052734,True,0.24450716242934734,airlifter,airlifter,aircraft or spacecraft
+objaverse-95396541f878416ba5a8339d33da0102,float,True,pylon,4,0.0421015265705904,14,6,0.03833770751953125,True,0.1299702111689125,airlifter,airlifter,aircraft or spacecraft
+objaverse-95396541f878416ba5a8339d33da0102,shrink,True,tailplane,2,0.06800725453417567,14,6,0.0063323974609375,True,0.011540419831345239,airlifter,airlifter,aircraft or spacecraft
+objaverse-95396541f878416ba5a8339d33da0102,grow,True,nacelle,4,0.08786868459832227,14,6,0.009823799133300781,True,0.0,airlifter,airlifter,aircraft or spacecraft
+objaverse-95396541f878416ba5a8339d33da0102,rotate,True,fin,1,0.09743147807762198,14,6,0.0069713592529296875,True,0.16543873261179742,airlifter,airlifter,aircraft or spacecraft
+objaverse-95396541f878416ba5a8339d33da0102,same,False,,0,0.0,14,6,0.0,False,-2.220446049250313e-16,airlifter,airlifter,aircraft or spacecraft
+objaverse-95396541f878416ba5a8339d33da0102,turn,False,,0,0.0,14,6,0.08134078979492188,True,-2.220446049250313e-16,airlifter,airlifter,aircraft or spacecraft
+objaverse-1e4b2643b1374d10a827e7cc8e43f37b,remove,True,lid,1,0.14848661746490174,3,3,0.020998001098632812,True,0.018248077782063388,can,can,packaging
+objaverse-1e4b2643b1374d10a827e7cc8e43f37b,float,True,tab,1,0.015538482436968403,3,3,0.08629131317138672,True,0.015538482436968426,can,can,packaging
+objaverse-1e4b2643b1374d10a827e7cc8e43f37b,shrink,True,lid,1,0.14848661746490174,3,3,0.01799297332763672,True,0.04489618689135033,can,can,packaging
+objaverse-1e4b2643b1374d10a827e7cc8e43f37b,grow,True,lid,1,0.14848661746490174,3,3,0.12028026580810547,True,0.010749854042106821,can,can,packaging
+objaverse-1e4b2643b1374d10a827e7cc8e43f37b,rotate,True,tab,1,0.015538482436968403,3,3,0.06035423278808594,True,0.0,can,can,packaging
+objaverse-1e4b2643b1374d10a827e7cc8e43f37b,same,False,,0,0.0,3,3,0.0,False,0.0,can,can,packaging
+objaverse-1e4b2643b1374d10a827e7cc8e43f37b,turn,False,,0,0.0,3,3,0.0015153884887695312,False,0.0,can,can,packaging
+objaverse-50e31d461023475796a281239d7a0c0c,remove,True,top,1,0.060152865063431114,3,3,0.030817031860351562,True,0.0,bottle,bottle,medical or personal care
+objaverse-50e31d461023475796a281239d7a0c0c,float,True,collar,1,0.04912480156751437,3,3,0.061092376708984375,True,0.10927766663094551,bottle,bottle,medical or personal care
+objaverse-50e31d461023475796a281239d7a0c0c,shrink,True,top,1,0.060152865063431114,3,3,0.014716148376464844,True,0.010136647033561541,bottle,bottle,medical or personal care
+objaverse-50e31d461023475796a281239d7a0c0c,grow,True,collar,1,0.04912480156751437,3,3,0.0226898193359375,True,0.0,bottle,bottle,medical or personal care
+objaverse-50e31d461023475796a281239d7a0c0c,rotate,True,collar,1,0.04912480156751437,3,3,0.0053615570068359375,True,0.0,bottle,bottle,medical or personal care
+objaverse-50e31d461023475796a281239d7a0c0c,same,False,,0,0.0,3,3,0.0,False,0.0,bottle,bottle,medical or personal care
+objaverse-50e31d461023475796a281239d7a0c0c,turn,False,,0,0.0,3,3,0.10711288452148438,True,0.0,bottle,bottle,medical or personal care
+objaverse-91302dd4723e49dfa40b9e8e01db0bd4,remove,True,platform,1,0.13416293185710895,14,7,0.015941619873046875,True,0.029694770543467808,pagoda,pagoda,building
+objaverse-91302dd4723e49dfa40b9e8e01db0bd4,float,True,red_eave,1,0.02183529439706194,14,7,0.005923271179199219,True,-2.220446049250313e-16,pagoda,pagoda,building
+objaverse-91302dd4723e49dfa40b9e8e01db0bd4,shrink,True,platform,1,0.13416293185710895,14,7,0.015941619873046875,True,0.02897638021038229,pagoda,pagoda,building
+objaverse-91302dd4723e49dfa40b9e8e01db0bd4,grow,True,panels,5,0.31723779682712366,14,7,0.1591815948486328,True,0.08191457091156706,pagoda,pagoda,building
+objaverse-91302dd4723e49dfa40b9e8e01db0bd4,rotate,True,panels,5,0.31723779682712366,14,7,0.1021718978881836,True,0.4679349989610695,pagoda,pagoda,building
+objaverse-91302dd4723e49dfa40b9e8e01db0bd4,same,False,,0,0.0,14,7,0.0,False,-2.220446049250313e-16,pagoda,pagoda,building
+objaverse-91302dd4723e49dfa40b9e8e01db0bd4,turn,False,,0,0.0,14,7,0.112548828125,True,0.0,pagoda,pagoda,building
+objaverse-61d5ad6897954f2484b9ca8dc5998096,remove,True,plinth,1,0.17663476286536306,100,8,0.02231121063232422,True,0.0011312246853579788,piano,piano,musical instrument
+objaverse-61d5ad6897954f2484b9ca8dc5998096,float,True,white_key,52,0.15148763203403443,100,8,0.11281204223632812,True,3.219646771412954e-15,piano,piano,musical instrument
+objaverse-61d5ad6897954f2484b9ca8dc5998096,shrink,True,support,2,0.013168473932998687,100,8,0.0028257369995117188,False,0.0021305226440806457,piano,piano,musical instrument
+objaverse-61d5ad6897954f2484b9ca8dc5998096,grow,True,key_bed,1,0.12041550876679168,100,8,0.20092201232910156,True,2.3314683517128287e-15,piano,piano,musical instrument
+objaverse-61d5ad6897954f2484b9ca8dc5998096,rotate,True,key_bed,1,0.12041550876679168,100,8,0.11141204833984375,True,3.219646771412954e-15,piano,piano,musical instrument
+objaverse-61d5ad6897954f2484b9ca8dc5998096,same,False,,0,0.0,100,8,0.0,False,3.219646771412954e-15,piano,piano,musical instrument
+objaverse-61d5ad6897954f2484b9ca8dc5998096,turn,False,,0,0.0,100,8,0.21738052368164062,True,3.219646771412954e-15,piano,piano,musical instrument
+objaverse-dd3247b6003840cc95fba0016541e3ff,remove,True,shaft,1,0.39990345733217647,4,4,0.12218093872070312,True,0.03156159320691265,paddle,paddle,lighting
+objaverse-dd3247b6003840cc95fba0016541e3ff,float,True,shaft,1,0.39990345733217647,4,4,0.014389991760253906,True,0.3999034573321766,paddle,paddle,lighting
+objaverse-dd3247b6003840cc95fba0016541e3ff,shrink,True,shaft,1,0.39990345733217647,4,4,0.02735614776611328,True,0.12487112892845065,paddle,paddle,lighting
+objaverse-dd3247b6003840cc95fba0016541e3ff,grow,True,shaft,1,0.39990345733217647,4,4,0.026956558227539062,True,0.0,paddle,paddle,lighting
+objaverse-dd3247b6003840cc95fba0016541e3ff,rotate,True,peg,1,0.040824465684077445,4,4,0.005476951599121094,True,0.0,paddle,paddle,lighting
+objaverse-dd3247b6003840cc95fba0016541e3ff,same,False,,0,0.0,4,4,0.0,False,0.0,paddle,paddle,lighting
+objaverse-dd3247b6003840cc95fba0016541e3ff,turn,False,,0,0.0,4,4,0.04512310028076172,True,0.0,paddle,paddle,lighting
+objaverse-3f32df3023964c80a6234c7f37ec0670,remove,True,door,2,0.22392423343892898,6,4,0.10206222534179688,True,0.001636187587615301,cabinet,cabinet,furniture
+objaverse-3f32df3023964c80a6234c7f37ec0670,float,True,door,2,0.22392423343892898,6,4,0.10744094848632812,True,0.22519403897522527,cabinet,cabinet,furniture
+objaverse-3f32df3023964c80a6234c7f37ec0670,shrink,True,top,1,0.13265727768491423,6,4,0.04211711883544922,True,0.02388693621074478,cabinet,cabinet,furniture
+objaverse-3f32df3023964c80a6234c7f37ec0670,grow,True,door,2,0.22392423343892898,6,4,0.1943531036376953,True,0.0,cabinet,cabinet,furniture
+objaverse-3f32df3023964c80a6234c7f37ec0670,rotate,True,top,1,0.13265727768491423,6,4,0.16280841827392578,True,0.0,cabinet,cabinet,furniture
+objaverse-3f32df3023964c80a6234c7f37ec0670,same,False,,0,0.0,6,4,0.0,False,0.0,cabinet,cabinet,furniture
+objaverse-3f32df3023964c80a6234c7f37ec0670,turn,False,,0,0.0,6,4,0.2252798080444336,True,0.0,cabinet,cabinet,furniture
+objaverse-5a1cf6e2e70e4fb3be358505fa0ccdd6,remove,True,foot,4,0.023812873329440674,10,5,0.0590362548828125,True,0.0,barrel,barrel,container
+objaverse-5a1cf6e2e70e4fb3be358505fa0ccdd6,float,True,wood,1,0.3358265193277209,10,5,0.08041667938232422,True,0.3379071446203823,barrel,barrel,container
+objaverse-5a1cf6e2e70e4fb3be358505fa0ccdd6,shrink,True,wood,1,0.3358265193277209,10,5,0.054576873779296875,True,0.5455303875543038,barrel,barrel,container
+objaverse-5a1cf6e2e70e4fb3be358505fa0ccdd6,grow,True,foot,4,0.023812873329440674,10,5,0.061615943908691406,True,-2.220446049250313e-16,barrel,barrel,container
+objaverse-5a1cf6e2e70e4fb3be358505fa0ccdd6,rotate,True,valve,1,0.011640808568485561,10,5,0.011822700500488281,True,0.0,barrel,barrel,container
+objaverse-5a1cf6e2e70e4fb3be358505fa0ccdd6,same,False,,0,0.0,10,5,0.0,False,0.0,barrel,barrel,container
+objaverse-5a1cf6e2e70e4fb3be358505fa0ccdd6,turn,False,,0,0.0,10,5,0.18409442901611328,True,-2.220446049250313e-16,barrel,barrel,container
+objaverse-353fcdcd34fb4ee58c31b94ef007b73a,remove,True,curved_leg,2,0.06233884420178445,10,7,0.005366325378417969,True,2.220446049250313e-16,screen,screen,electronics
+objaverse-353fcdcd34fb4ee58c31b94ef007b73a,float,True,housing,1,0.032188991258470356,10,7,0.0050449371337890625,True,0.12219142341716804,screen,screen,electronics
+objaverse-353fcdcd34fb4ee58c31b94ef007b73a,shrink,True,rear_leg,1,0.027663587956913382,10,7,0.03076171875,True,0.004531473805426622,screen,screen,electronics
+objaverse-353fcdcd34fb4ee58c31b94ef007b73a,grow,True,curved_leg,2,0.06233884420178445,10,7,0.06744861602783203,True,1.1102230246251565e-16,screen,screen,electronics
+objaverse-353fcdcd34fb4ee58c31b94ef007b73a,rotate,True,rear_leg,1,0.027663587956913382,10,7,0.076995849609375,True,0.0,screen,screen,electronics
+objaverse-353fcdcd34fb4ee58c31b94ef007b73a,same,False,,0,0.0,10,7,0.0,False,0.0,screen,screen,electronics
+objaverse-353fcdcd34fb4ee58c31b94ef007b73a,turn,False,,0,0.0,10,7,0.14328384399414062,True,0.0,screen,screen,electronics
+objaverse-165ae5498e724cd8ad58683edbbc8812,remove,True,nacelle,2,0.2052942905881817,6,4,0.02398681640625,True,0.0,concorde,concorde,aircraft or spacecraft
+objaverse-165ae5498e724cd8ad58683edbbc8812,float,True,fuselage,1,0.2382147070479109,6,4,0.057648658752441406,True,0.3019149103175034,concorde,concorde,aircraft or spacecraft
+objaverse-165ae5498e724cd8ad58683edbbc8812,shrink,True,fin,1,0.06370020326959257,6,4,0.028562545776367188,True,0.010768220293219666,concorde,concorde,aircraft or spacecraft
+objaverse-165ae5498e724cd8ad58683edbbc8812,grow,True,nacelle,2,0.2052942905881817,6,4,0.03158283233642578,True,0.0,concorde,concorde,aircraft or spacecraft
+objaverse-165ae5498e724cd8ad58683edbbc8812,rotate,True,fin,1,0.06370020326959257,6,4,0.04091072082519531,True,0.0,concorde,concorde,aircraft or spacecraft
+objaverse-165ae5498e724cd8ad58683edbbc8812,same,False,,0,0.0,6,4,0.0,False,0.0,concorde,concorde,aircraft or spacecraft
+objaverse-165ae5498e724cd8ad58683edbbc8812,turn,False,,0,0.0,6,4,0.05782794952392578,True,0.0,concorde,concorde,aircraft or spacecraft
+objaverse-9e7702fad3364c4abc18988fb849a8ba,remove,True,collar,1,0.15319090694650073,6,6,0.00949859619140625,True,0.20077283934089996,pedestal,pedestal,container
+objaverse-9e7702fad3364c4abc18988fb849a8ba,float,True,knob,1,0.014675038424168285,6,6,0.058808326721191406,True,0.014675038424168285,pedestal,pedestal,container
+objaverse-9e7702fad3364c4abc18988fb849a8ba,shrink,True,knob,1,0.014675038424168285,6,6,0.02153491973876953,True,0.002377311341504429,pedestal,pedestal,container
+objaverse-9e7702fad3364c4abc18988fb849a8ba,grow,True,cap,1,0.1470110164711502,6,6,0.0926523208618164,True,0.0,pedestal,pedestal,container
+objaverse-9e7702fad3364c4abc18988fb849a8ba,rotate,True,knob,1,0.014675038424168285,6,6,0.013379096984863281,True,0.014675038424168285,pedestal,pedestal,container
+objaverse-9e7702fad3364c4abc18988fb849a8ba,same,False,,0,0.0,6,6,0.0,False,0.0,pedestal,pedestal,container
+objaverse-9e7702fad3364c4abc18988fb849a8ba,turn,False,,0,0.0,6,6,0.013048171997070312,True,0.0,pedestal,pedestal,container
+objaverse-0e7aa96706064f449063319856d151e1,remove,True,reservoir,1,0.3624533908108434,3,3,0.24834632873535156,True,0.0,waterer,waterer,animal gear
+objaverse-0e7aa96706064f449063319856d151e1,float,True,reservoir,1,0.3624533908108434,3,3,0.10503292083740234,True,0.3624533908108434,waterer,waterer,animal gear
+objaverse-0e7aa96706064f449063319856d151e1,shrink,True,seat,1,0.09032642401614724,3,3,0.009608268737792969,True,0.40785098424133504,waterer,waterer,animal gear
+objaverse-0e7aa96706064f449063319856d151e1,grow,True,reservoir,1,0.3624533908108434,3,3,0.17809295654296875,True,0.0,waterer,waterer,animal gear
+objaverse-0e7aa96706064f449063319856d151e1,rotate,True,reservoir,1,0.3624533908108434,3,3,0.15421676635742188,True,0.3624533908108434,waterer,waterer,animal gear
+objaverse-0e7aa96706064f449063319856d151e1,same,False,,0,0.0,3,3,0.0,False,0.0,waterer,waterer,animal gear
+objaverse-0e7aa96706064f449063319856d151e1,turn,False,,0,0.0,3,3,0.19275665283203125,True,0.0,waterer,waterer,animal gear
+objaverse-17165b740b1b43659a74c40e2ed550cc,remove,True,leaf_top,1,0.11901731444894148,37,12,0.009860038757324219,True,1.1102230246251565e-16,gate,gate,container
+objaverse-17165b740b1b43659a74c40e2ed550cc,float,True,upright,2,0.2204490078267889,37,12,0.12955951690673828,True,0.452947871399082,gate,gate,container
+objaverse-17165b740b1b43659a74c40e2ed550cc,shrink,True,upright,2,0.2204490078267889,37,12,0.05706024169921875,True,0.3069805777863085,gate,gate,container
+objaverse-17165b740b1b43659a74c40e2ed550cc,grow,True,bottom_tie,1,0.0703548971691156,37,12,0.100860595703125,True,-2.220446049250313e-16,gate,gate,container
+objaverse-17165b740b1b43659a74c40e2ed550cc,rotate,True,top_beam,1,0.12727607203943672,37,12,0.039508819580078125,True,1.1102230246251565e-16,gate,gate,container
+objaverse-17165b740b1b43659a74c40e2ed550cc,same,False,,0,0.0,37,12,0.0,False,1.1102230246251565e-16,gate,gate,container
+objaverse-17165b740b1b43659a74c40e2ed550cc,turn,False,,0,0.0,37,12,0.11864185333251953,True,0.0,gate,gate,container
+objaverse-f44732f403bc427ba1f148ffec94f71a,remove,True,column_web,1,0.1994047533239962,5,3,0.0843505859375,True,0.0,steel_cross,steel cross,aircraft or spacecraft
+objaverse-f44732f403bc427ba1f148ffec94f71a,float,True,column_web,1,0.1994047533239962,5,3,0.10097694396972656,True,0.0,steel_cross,steel cross,aircraft or spacecraft
+objaverse-f44732f403bc427ba1f148ffec94f71a,shrink,True,column_web,1,0.1994047533239962,5,3,0.06631183624267578,True,0.0,steel_cross,steel cross,aircraft or spacecraft
+objaverse-f44732f403bc427ba1f148ffec94f71a,grow,True,cap_plate,1,0.023750135956637282,5,3,0.005084037780761719,True,0.0,steel_cross,steel cross,aircraft or spacecraft
+objaverse-f44732f403bc427ba1f148ffec94f71a,rotate,True,column_web,1,0.1994047533239962,5,3,0.07129669189453125,True,0.0,steel_cross,steel cross,aircraft or spacecraft
+objaverse-f44732f403bc427ba1f148ffec94f71a,same,False,,0,0.0,5,3,0.0,False,0.0,steel_cross,steel cross,aircraft or spacecraft
+objaverse-f44732f403bc427ba1f148ffec94f71a,turn,False,,0,0.0,5,3,0.13335514068603516,True,0.0,steel_cross,steel cross,aircraft or spacecraft
+objaverse-411446b9be884eb59c93885a7ccac923,remove,True,foot,2,0.29239642240811325,3,2,0.18346500396728516,True,0.0,bench,bench,garden or outdoor
+objaverse-411446b9be884eb59c93885a7ccac923,float,True,foot,2,0.29239642240811325,3,2,0.1427927017211914,True,0.29239642240811314,bench,bench,garden or outdoor
+objaverse-411446b9be884eb59c93885a7ccac923,shrink,True,foot,2,0.29239642240811325,3,2,0.09366703033447266,True,0.06201515570156191,bench,bench,garden or outdoor
+objaverse-411446b9be884eb59c93885a7ccac923,grow,True,foot,2,0.29239642240811325,3,2,0.13000774383544922,True,0.0,bench,bench,garden or outdoor
+objaverse-411446b9be884eb59c93885a7ccac923,rotate,True,foot,2,0.29239642240811325,3,2,0.0939340591430664,True,0.29239642240811325,bench,bench,garden or outdoor
+objaverse-411446b9be884eb59c93885a7ccac923,same,False,,0,0.0,3,2,0.0,False,0.0,bench,bench,garden or outdoor
+objaverse-411446b9be884eb59c93885a7ccac923,turn,False,,0,0.0,3,2,0.1495990753173828,True,0.0,bench,bench,garden or outdoor
+objaverse-f37d609af24d4c0fa94a89775f40a9fe,remove,True,curved_back,1,0.2272191070579757,26,10,0.02591705322265625,True,-4.440892098500626e-16,chair,chair,furniture
+objaverse-f37d609af24d4c0fa94a89775f40a9fe,float,True,fork,5,0.017920929400974336,26,10,0.08378982543945312,True,0.017920929400974228,chair,chair,furniture
+objaverse-f37d609af24d4c0fa94a89775f40a9fe,shrink,True,curved_back,1,0.2272191070579757,26,10,0.02193927764892578,True,0.04493071544537386,chair,chair,furniture
+objaverse-f37d609af24d4c0fa94a89775f40a9fe,grow,True,wheel,5,0.03610704305062551,26,10,0.046146392822265625,True,-2.220446049250313e-16,chair,chair,furniture
+objaverse-f37d609af24d4c0fa94a89775f40a9fe,rotate,True,fork,5,0.017920929400974336,26,10,0.10127067565917969,True,0.014336743520779294,chair,chair,furniture
+objaverse-f37d609af24d4c0fa94a89775f40a9fe,same,False,,0,0.0,26,10,0.0,False,-2.220446049250313e-16,chair,chair,furniture
+objaverse-f37d609af24d4c0fa94a89775f40a9fe,turn,False,,0,0.0,26,10,0.08524322509765625,True,-2.220446049250313e-16,chair,chair,furniture
+objaverse-addace41dc3a44f0a4f0452b6e838481,remove,True,pommel,1,0.09436815764037082,4,4,0.007129669189453125,True,0.0,dagger,dagger,weapon or armour
+objaverse-addace41dc3a44f0a4f0452b6e838481,float,True,pommel,1,0.09436815764037082,4,4,0.010590553283691406,True,0.09436815764037076,dagger,dagger,weapon or armour
+objaverse-addace41dc3a44f0a4f0452b6e838481,shrink,True,pommel,1,0.09436815764037082,4,4,0.005123138427734375,True,0.016398828063590054,dagger,dagger,weapon or armour
+objaverse-addace41dc3a44f0a4f0452b6e838481,grow,True,pommel,1,0.09436815764037082,4,4,0.010776519775390625,True,0.0,dagger,dagger,weapon or armour
+objaverse-addace41dc3a44f0a4f0452b6e838481,rotate,True,pommel,1,0.09436815764037082,4,4,0.0050907135009765625,True,0.09436815764037076,dagger,dagger,weapon or armour
+objaverse-addace41dc3a44f0a4f0452b6e838481,same,False,,0,0.0,4,4,0.0,False,0.0,dagger,dagger,weapon or armour
+objaverse-addace41dc3a44f0a4f0452b6e838481,turn,False,,0,0.0,4,4,0.04013347625732422,True,0.0,dagger,dagger,weapon or armour
+objaverse-02ff6520d3d3480a834db1a5da124150,remove,True,band,1,0.29772468849447203,3,3,0.08187007904052734,True,0.02198603136181565,flattened_housing,flattened housing,medical or personal care
+objaverse-02ff6520d3d3480a834db1a5da124150,float,True,block,1,0.015440247023389387,3,3,0.022078514099121094,True,0.01544024702338942,flattened_housing,flattened housing,medical or personal care
+objaverse-02ff6520d3d3480a834db1a5da124150,shrink,True,band,1,0.29772468849447203,3,3,0.07107734680175781,True,0.08411154813502764,flattened_housing,flattened housing,medical or personal care
+objaverse-02ff6520d3d3480a834db1a5da124150,grow,True,band,1,0.29772468849447203,3,3,0.08718109130859375,True,0.008155746111727424,flattened_housing,flattened housing,medical or personal care
+objaverse-02ff6520d3d3480a834db1a5da124150,rotate,True,band,1,0.29772468849447203,3,3,0.10247516632080078,True,0.3131649355178614,flattened_housing,flattened housing,medical or personal care
+objaverse-02ff6520d3d3480a834db1a5da124150,same,False,,0,0.0,3,3,0.0,False,0.0,flattened_housing,flattened housing,medical or personal care
+objaverse-02ff6520d3d3480a834db1a5da124150,turn,False,,0,0.0,3,3,0.12920761108398438,True,0.0,flattened_housing,flattened housing,medical or personal care
+objaverse-b3dd7946419e47418fb15be01530d5b7,remove,True,wall,1,0.3412026501398726,5,5,0.06361675262451172,True,0.1370500672249192,lever_press,lever press,furniture
+objaverse-b3dd7946419e47418fb15be01530d5b7,float,True,rounded_stop,1,0.07500193028567463,5,5,0.05648994445800781,True,0.033191796020143105,lever_press,lever press,furniture
+objaverse-b3dd7946419e47418fb15be01530d5b7,shrink,True,wall,1,0.3412026501398726,5,5,0.06001567840576172,True,0.2030876393417017,lever_press,lever press,furniture
+objaverse-b3dd7946419e47418fb15be01530d5b7,grow,True,wall,1,0.3412026501398726,5,5,0.15066242218017578,True,0.0,lever_press,lever press,furniture
+objaverse-b3dd7946419e47418fb15be01530d5b7,rotate,True,rounded_stop,1,0.07500193028567463,5,5,0.011621475219726562,True,0.1081937263058177,lever_press,lever press,furniture
+objaverse-b3dd7946419e47418fb15be01530d5b7,same,False,,0,0.0,5,5,0.0,False,0.0,lever_press,lever press,furniture
+objaverse-b3dd7946419e47418fb15be01530d5b7,turn,False,,0,0.0,5,5,0.11935043334960938,True,0.0,lever_press,lever press,furniture
+objaverse-54532adbb047423681a0b6537aed5641,remove,True,bowl,1,0.33768061688609424,5,5,0.1767597198486328,True,0.0,capsule,capsule,toy or game
+objaverse-54532adbb047423681a0b6537aed5641,float,True,band,1,0.2814272981311795,5,5,0.09130668640136719,True,0.0,capsule,capsule,toy or game
+objaverse-54532adbb047423681a0b6537aed5641,shrink,True,bowl,1,0.33768061688609424,5,5,0.05860614776611328,True,0.07542266809774645,capsule,capsule,toy or game
+objaverse-54532adbb047423681a0b6537aed5641,grow,True,frame,1,0.027722697814457818,5,5,0.014924049377441406,True,0.0,capsule,capsule,toy or game
+objaverse-54532adbb047423681a0b6537aed5641,rotate,True,bowl,1,0.33768061688609424,5,5,0.11964225769042969,True,0.0,capsule,capsule,toy or game
+objaverse-54532adbb047423681a0b6537aed5641,same,False,,0,0.0,5,5,0.0,False,0.0,capsule,capsule,toy or game
+objaverse-54532adbb047423681a0b6537aed5641,turn,False,,0,0.0,5,5,0.009339332580566406,True,0.0,capsule,capsule,toy or game
+objaverse-bec62fdb2c574ca3b3a146dbe42ab2bd,remove,True,stem,1,0.04349188006493237,11,4,0.006934165954589844,True,0.06605105536492151,goblet,goblet,tableware
+objaverse-bec62fdb2c574ca3b3a146dbe42ab2bd,float,True,stem,1,0.04349188006493237,11,4,0.08264827728271484,True,0.10667025085176052,goblet,goblet,tableware
+objaverse-bec62fdb2c574ca3b3a146dbe42ab2bd,shrink,True,stem,1,0.04349188006493237,11,4,0.0058441162109375,True,0.07279656142486646,goblet,goblet,tableware
+objaverse-bec62fdb2c574ca3b3a146dbe42ab2bd,grow,True,foot_edge,1,0.06317837078682814,11,4,0.0680084228515625,True,0.0,goblet,goblet,tableware
+objaverse-bec62fdb2c574ca3b3a146dbe42ab2bd,rotate,True,stud_base,8,0.05936512856472238,11,4,0.010310173034667969,True,0.014841282141180634,goblet,goblet,tableware
+objaverse-bec62fdb2c574ca3b3a146dbe42ab2bd,same,False,,0,0.0,11,4,0.0,False,0.0,goblet,goblet,tableware
+objaverse-bec62fdb2c574ca3b3a146dbe42ab2bd,turn,False,,0,0.0,11,4,2.86102294921875e-06,False,0.0,goblet,goblet,tableware
+objaverse-7f575a53d47c46039cfe1e178d587ec9,remove,True,fin,64,0.31874642523123264,85,10,0.037468910217285156,True,-2.220446049250313e-16,transformer,transformer,machine or industrial
+objaverse-7f575a53d47c46039cfe1e178d587ec9,float,True,panel,1,0.13141143437797886,85,10,0.1027994155883789,True,0.13141143437797864,transformer,transformer,machine or industrial
+objaverse-7f575a53d47c46039cfe1e178d587ec9,shrink,True,insulator_core,6,0.06689961942520974,85,10,0.062066078186035156,True,0.011341269461057735,transformer,transformer,machine or industrial
+objaverse-7f575a53d47c46039cfe1e178d587ec9,grow,True,panel,1,0.13141143437797886,85,10,0.1511831283569336,True,-2.220446049250313e-16,transformer,transformer,machine or industrial
+objaverse-7f575a53d47c46039cfe1e178d587ec9,rotate,True,insulator_core,6,0.06689961942520974,85,10,0.0630483627319336,True,0.03344980971260447,transformer,transformer,machine or industrial
+objaverse-7f575a53d47c46039cfe1e178d587ec9,same,False,,0,0.0,85,10,0.0,False,-4.440892098500626e-16,transformer,transformer,machine or industrial
+objaverse-7f575a53d47c46039cfe1e178d587ec9,turn,False,,0,0.0,85,10,0.20037269592285156,True,-2.220446049250313e-16,transformer,transformer,machine or industrial
+objaverse-50f729b0931347119010262259868425,remove,True,lower_deckhouse,1,0.11864093523181703,42,16,0.0064544677734375,True,0.02689365118180531,battleship,battleship,watercraft
+objaverse-50f729b0931347119010262259868425,float,True,boat,6,0.018745277362600385,42,16,0.048325538635253906,True,0.018745277362600454,battleship,battleship,watercraft
+objaverse-50f729b0931347119010262259868425,shrink,True,funnel,2,0.01745453746626435,42,16,0.0011396408081054688,False,0.002834281698523622,battleship,battleship,watercraft
+objaverse-50f729b0931347119010262259868425,grow,True,lower_deckhouse,1,0.11864093523181703,42,16,0.02079486846923828,True,0.00460824595713516,battleship,battleship,watercraft
+objaverse-50f729b0931347119010262259868425,rotate,True,boat,6,0.018745277362600385,42,16,0.022899627685546875,True,0.006248425787533485,battleship,battleship,watercraft
+objaverse-50f729b0931347119010262259868425,same,False,,0,0.0,42,16,0.0,False,1.1102230246251565e-16,battleship,battleship,watercraft
+objaverse-50f729b0931347119010262259868425,turn,False,,0,0.0,42,16,0.08325386047363281,True,1.1102230246251565e-16,battleship,battleship,watercraft
+objaverse-d7f6c309660c468b84567e6157de4671,remove,True,lower_rail,2,0.28618170640472096,13,6,0.0705881118774414,True,0.0,shield,shield,electronics
+objaverse-d7f6c309660c468b84567e6157de4671,float,True,silver_backing,4,0.04288043974525978,13,6,0.09070301055908203,True,0.04288043974525979,shield,shield,electronics
+objaverse-d7f6c309660c468b84567e6157de4671,shrink,True,gold_crown,1,0.04526772118265084,13,6,0.008294105529785156,True,0.0,shield,shield,electronics
+objaverse-d7f6c309660c468b84567e6157de4671,grow,True,gold_crown,1,0.04526772118265084,13,6,0.06458473205566406,True,0.0,shield,shield,electronics
+objaverse-d7f6c309660c468b84567e6157de4671,rotate,True,silver_backing,4,0.04288043974525978,13,6,0.11850547790527344,True,0.04288043974525979,shield,shield,electronics
+objaverse-d7f6c309660c468b84567e6157de4671,same,False,,0,0.0,13,6,0.0,False,0.0,shield,shield,electronics
+objaverse-d7f6c309660c468b84567e6157de4671,turn,False,,0,0.0,13,6,0.1745128631591797,True,0.0,shield,shield,electronics
+objaverse-efea82b6915348219f3c860a364e6461,remove,True,raised_hoop,4,0.09517330899079365,44,20,0.007894515991210938,True,-2.220446049250313e-16,drum_cradle,drum cradle,machine or industrial
+objaverse-efea82b6915348219f3c860a364e6461,float,True,pedestal_foot,2,0.023330715646452994,44,20,0.1553640365600586,True,0.02333071564645295,drum_cradle,drum cradle,machine or industrial
+objaverse-efea82b6915348219f3c860a364e6461,shrink,True,raised_hoop,4,0.09517330899079365,44,20,0.007894515991210938,True,0.01655090079466881,drum_cradle,drum cradle,machine or industrial
+objaverse-efea82b6915348219f3c860a364e6461,grow,True,drum_body,1,0.2707697306677848,44,20,0.14787769317626953,True,0.402376301212771,drum_cradle,drum cradle,machine or industrial
+objaverse-efea82b6915348219f3c860a364e6461,rotate,True,pedestal_foot,2,0.023330715646452994,44,20,0.10202789306640625,True,-2.220446049250313e-16,drum_cradle,drum cradle,machine or industrial
+objaverse-efea82b6915348219f3c860a364e6461,same,False,,0,0.0,44,20,0.0,False,-2.220446049250313e-16,drum_cradle,drum cradle,machine or industrial
+objaverse-efea82b6915348219f3c860a364e6461,turn,False,,0,0.0,44,20,0.1852588653564453,True,0.0,drum_cradle,drum cradle,machine or industrial
+objaverse-c4a5c09cfda54a6b8ab67ef949e42536,remove,True,shaft,1,0.28518322792520984,3,3,0.010079383850097656,True,0.48034615561498406,baton,baton,weapon or armour
+objaverse-c4a5c09cfda54a6b8ab67ef949e42536,float,True,upper_grip,1,0.3433594884352378,3,3,0.012388229370117188,True,0.34335948843523767,baton,baton,weapon or armour
+objaverse-c4a5c09cfda54a6b8ab67ef949e42536,shrink,True,shaft,1,0.28518322792520984,3,3,0.009105682373046875,True,0.5115271296202688,baton,baton,weapon or armour
+objaverse-c4a5c09cfda54a6b8ab67ef949e42536,grow,True,shaft,1,0.28518322792520984,3,3,0.0224609375,True,0.0,baton,baton,weapon or armour
+objaverse-c4a5c09cfda54a6b8ab67ef949e42536,rotate,True,shaft,1,0.28518322792520984,3,3,0.024613380432128906,True,0.6285427163604476,baton,baton,weapon or armour
+objaverse-c4a5c09cfda54a6b8ab67ef949e42536,same,False,,0,0.0,3,3,0.0,False,0.0,baton,baton,weapon or armour
+objaverse-c4a5c09cfda54a6b8ab67ef949e42536,turn,False,,0,0.0,3,3,0.00013828277587890625,False,0.0,baton,baton,weapon or armour
+objaverse-e1c9344b393b4273a4be945bfc16cf0a,remove,True,lid,1,0.24079949791361338,3,3,0.07315254211425781,True,0.08081222607662297,stone_box,stone box,container
+objaverse-e1c9344b393b4273a4be945bfc16cf0a,float,True,lid,1,0.24079949791361338,3,3,0.13443279266357422,True,0.30215218052570414,stone_box,stone box,container
+objaverse-e1c9344b393b4273a4be945bfc16cf0a,shrink,True,knob,1,0.061352682612090766,3,3,0.10031509399414062,True,0.010349820172951607,stone_box,stone box,container
+objaverse-e1c9344b393b4273a4be945bfc16cf0a,grow,True,knob,1,0.061352682612090766,3,3,0.11950016021728516,True,0.0,stone_box,stone box,container
+objaverse-e1c9344b393b4273a4be945bfc16cf0a,rotate,True,lid,1,0.24079949791361338,3,3,0.09727668762207031,True,0.0,stone_box,stone box,container
+objaverse-e1c9344b393b4273a4be945bfc16cf0a,same,False,,0,0.0,3,3,0.0,False,0.0,stone_box,stone box,container
+objaverse-e1c9344b393b4273a4be945bfc16cf0a,turn,False,,0,0.0,3,3,0.19142723083496094,True,0.0,stone_box,stone box,container
+objaverse-3c1fd3818fb4441d801b12f9a50e7ae4,remove,True,pin,2,0.02057582470875312,8,6,0.08456897735595703,True,0.0,bowl,bowl,measuring instrument
+objaverse-3c1fd3818fb4441d801b12f9a50e7ae4,float,True,inner_plate,1,0.19400112058116326,8,6,0.08608722686767578,True,0.19400112058116326,bowl,bowl,measuring instrument
+objaverse-3c1fd3818fb4441d801b12f9a50e7ae4,shrink,True,hoop,1,0.16133575452182886,8,6,0.05317974090576172,True,0.0,bowl,bowl,measuring instrument
+objaverse-3c1fd3818fb4441d801b12f9a50e7ae4,grow,True,inner_plate,1,0.19400112058116326,8,6,0.10062217712402344,True,0.0,bowl,bowl,measuring instrument
+objaverse-3c1fd3818fb4441d801b12f9a50e7ae4,rotate,True,pin,2,0.02057582470875312,8,6,0.10274410247802734,True,0.020575824708753077,bowl,bowl,measuring instrument
+objaverse-3c1fd3818fb4441d801b12f9a50e7ae4,same,False,,0,0.0,8,6,0.0,False,0.0,bowl,bowl,measuring instrument
+objaverse-3c1fd3818fb4441d801b12f9a50e7ae4,turn,False,,0,0.0,8,6,0.0881052017211914,True,-2.220446049250313e-16,bowl,bowl,measuring instrument
+objaverse-7e55b0c0ef04494a8812d201fa317279,remove,True,stretcher,1,0.0620033944989928,4,3,0.008950233459472656,True,0.0,trestle_table,trestle table,furniture
+objaverse-7e55b0c0ef04494a8812d201fa317279,float,True,falling_timber,2,0.35825277561656743,4,3,0.14203548431396484,True,0.42025617011556016,trestle_table,trestle table,furniture
+objaverse-7e55b0c0ef04494a8812d201fa317279,shrink,True,stretcher,1,0.0620033944989928,4,3,0.006808280944824219,True,0.010465622585552392,trestle_table,trestle table,furniture
+objaverse-7e55b0c0ef04494a8812d201fa317279,grow,True,stretcher,1,0.0620033944989928,4,3,0.16164493560791016,True,0.0,trestle_table,trestle table,furniture
+objaverse-7e55b0c0ef04494a8812d201fa317279,rotate,True,falling_timber,2,0.35825277561656743,4,3,0.13962364196777344,True,0.24112978230727644,trestle_table,trestle table,furniture
+objaverse-7e55b0c0ef04494a8812d201fa317279,same,False,,0,0.0,4,3,0.0,False,0.0,trestle_table,trestle table,furniture
+objaverse-7e55b0c0ef04494a8812d201fa317279,turn,False,,0,0.0,4,3,0.1613006591796875,True,0.0,trestle_table,trestle table,furniture
+objaverse-3d84992f507f4c63805e2d9d084b1b85,remove,True,wheelhouse,1,0.038153850648366516,62,17,0.0057220458984375,True,0.042940417429003896,tugboat,tugboat,watercraft
+objaverse-3d84992f507f4c63805e2d9d084b1b85,float,True,projecting_ledge,1,0.07549841396870266,62,17,0.024274826049804688,True,0.0,tugboat,tugboat,watercraft
+objaverse-3d84992f507f4c63805e2d9d084b1b85,shrink,True,thick_eaves,1,0.023214298321608588,62,17,0.005173683166503906,True,0.003788156829754863,tugboat,tugboat,watercraft
+objaverse-3d84992f507f4c63805e2d9d084b1b85,grow,True,thick_eaves,1,0.023214298321608588,62,17,0.021173477172851562,True,1.1102230246251565e-16,tugboat,tugboat,watercraft
+objaverse-3d84992f507f4c63805e2d9d084b1b85,rotate,True,faceted_stack,1,0.03458653498612558,62,17,0.011793136596679688,True,0.03584769996772019,tugboat,tugboat,watercraft
+objaverse-3d84992f507f4c63805e2d9d084b1b85,same,False,,0,0.0,62,17,0.0,False,0.0,tugboat,tugboat,watercraft
+objaverse-3d84992f507f4c63805e2d9d084b1b85,turn,False,,0,0.0,62,17,0.15104961395263672,True,0.0,tugboat,tugboat,watercraft
+objaverse-006d1922549f4f83a87158c46c8f8ea8,remove,True,leg,1,0.13414919756907542,14,6,0.21945858001708984,True,0.0,padlock,padlock,fastener or hardware
+objaverse-006d1922549f4f83a87158c46c8f8ea8,float,True,leg,1,0.13414919756907542,14,6,0.09051799774169922,True,0.13414919756907506,padlock,padlock,fastener or hardware
+objaverse-006d1922549f4f83a87158c46c8f8ea8,shrink,True,dark_band,5,0.2303993292080677,14,6,0.009653091430664062,True,0.045710492863931695,padlock,padlock,fastener or hardware
+objaverse-006d1922549f4f83a87158c46c8f8ea8,grow,True,dark_band,5,0.2303993292080677,14,6,0.10917949676513672,True,0.0,padlock,padlock,fastener or hardware
+objaverse-006d1922549f4f83a87158c46c8f8ea8,rotate,True,leg,1,0.13414919756907542,14,6,0.041411399841308594,True,0.0,padlock,padlock,fastener or hardware
+objaverse-006d1922549f4f83a87158c46c8f8ea8,same,False,,0,0.0,14,6,0.0,False,0.0,padlock,padlock,fastener or hardware
+objaverse-006d1922549f4f83a87158c46c8f8ea8,turn,False,,0,0.0,14,6,0.18809890747070312,True,0.0,padlock,padlock,fastener or hardware
+objaverse-58b92bb92fd14886987a312f5a4d49ed,remove,True,dish,1,0.10170048538868531,52,14,0.010880470275878906,True,0.0020538805620239353,wheel,wheel,vehicle
+objaverse-58b92bb92fd14886987a312f5a4d49ed,float,True,end_bridge,2,0.019124740028055417,52,14,0.00604248046875,True,0.0018449999119367622,wheel,wheel,vehicle
+objaverse-58b92bb92fd14886987a312f5a4d49ed,shrink,True,cooling_fin,15,0.033018048927360225,52,14,0.000255584716796875,False,0.007331220316853515,wheel,wheel,vehicle
+objaverse-58b92bb92fd14886987a312f5a4d49ed,grow,True,dish,1,0.10170048538868531,52,14,0.16711902618408203,True,0.0014136831303189767,wheel,wheel,vehicle
+objaverse-58b92bb92fd14886987a312f5a4d49ed,rotate,True,hub_body,1,0.045255408904849845,52,14,0.007765769958496094,True,5.551115123125783e-16,wheel,wheel,vehicle
+objaverse-58b92bb92fd14886987a312f5a4d49ed,same,False,,0,0.0,52,14,0.0,False,0.0018449999119367622,wheel,wheel,vehicle
+objaverse-58b92bb92fd14886987a312f5a4d49ed,turn,False,,0,0.0,52,14,0.2121896743774414,True,0.0018449999119366511,wheel,wheel,vehicle
+objaverse-f6e3c4ea17a646249f3b908a88e017f8,remove,True,fine_wire,1,0.01877934103862274,6,6,0.014992713928222656,True,0.0,spike,spike,electronics
+objaverse-f6e3c4ea17a646249f3b908a88e017f8,float,True,short_lead,1,0.04144610995855319,6,6,0.012517929077148438,True,0.3214957244195722,spike,spike,electronics
+objaverse-f6e3c4ea17a646249f3b908a88e017f8,shrink,True,long_cable,1,0.18210579411581798,6,6,0.014200210571289062,True,0.03439888561982918,spike,spike,electronics
+objaverse-f6e3c4ea17a646249f3b908a88e017f8,grow,True,fine_wire,1,0.01877934103862274,6,6,0.010538101196289062,True,0.0,spike,spike,electronics
+objaverse-f6e3c4ea17a646249f3b908a88e017f8,rotate,True,connector,1,0.09794382034520105,6,6,0.0063419342041015625,True,0.28004961446101895,spike,spike,electronics
+objaverse-f6e3c4ea17a646249f3b908a88e017f8,same,False,,0,0.0,6,6,0.0,False,0.0,spike,spike,electronics
+objaverse-f6e3c4ea17a646249f3b908a88e017f8,turn,False,,0,0.0,6,6,0.013544082641601562,True,0.0,spike,spike,electronics
+objaverse-bebdfd4d48e64378b1ead1f575687d41,remove,True,sausage,1,0.30082691549481966,3,2,0.05935192108154297,True,0.0,hotdog,hotdog,food and drink
+objaverse-bebdfd4d48e64378b1ead1f575687d41,float,True,sausage,1,0.30082691549481966,3,2,0.11226558685302734,True,0.30082691549481966,hotdog,hotdog,food and drink
+objaverse-bebdfd4d48e64378b1ead1f575687d41,shrink,True,sausage,1,0.30082691549481966,3,2,0.05811119079589844,True,0.06440781380657679,hotdog,hotdog,food and drink
+objaverse-bebdfd4d48e64378b1ead1f575687d41,grow,True,sausage,1,0.30082691549481966,3,2,0.06695938110351562,True,0.0,hotdog,hotdog,food and drink
+objaverse-bebdfd4d48e64378b1ead1f575687d41,rotate,True,sausage,1,0.30082691549481966,3,2,0.016654014587402344,True,0.0,hotdog,hotdog,food and drink
+objaverse-bebdfd4d48e64378b1ead1f575687d41,same,False,,0,0.0,3,2,0.0,False,0.0,hotdog,hotdog,food and drink
+objaverse-bebdfd4d48e64378b1ead1f575687d41,turn,False,,0,0.0,3,2,0.11567974090576172,True,0.0,hotdog,hotdog,food and drink
+objaverse-c210605ff49347ad8049d22e22a000a2,remove,True,waist,1,0.15165001937744485,7,6,0.009441375732421875,True,0.5947350200805657,warhammer,warhammer,hand tool
+objaverse-c210605ff49347ad8049d22e22a000a2,float,True,wood_shaft,1,0.06146915168742342,7,6,0.053931236267089844,True,0.1020716488180955,warhammer,warhammer,hand tool
+objaverse-c210605ff49347ad8049d22e22a000a2,shrink,True,waist,1,0.15165001937744485,7,6,0.008372306823730469,True,0.6060038639366907,warhammer,warhammer,hand tool
+objaverse-c210605ff49347ad8049d22e22a000a2,grow,True,collar,1,0.015446688848383365,7,6,0.0055675506591796875,True,0.0,warhammer,warhammer,hand tool
+objaverse-c210605ff49347ad8049d22e22a000a2,rotate,True,wood_shaft,1,0.06146915168742342,7,6,0.033557891845703125,True,0.1020716488180955,warhammer,warhammer,hand tool
+objaverse-c210605ff49347ad8049d22e22a000a2,same,False,,0,0.0,7,6,0.0,False,0.0,warhammer,warhammer,hand tool
+objaverse-c210605ff49347ad8049d22e22a000a2,turn,False,,0,0.0,7,6,0.1437206268310547,True,0.0,warhammer,warhammer,hand tool
+objaverse-f93f4fa8fb7f4ba19df58f5e1ce1e66c,remove,True,tail,4,0.24404513986388185,13,4,0.049182891845703125,True,-2.220446049250313e-16,starfighter,starfighter,aircraft or spacecraft
+objaverse-f93f4fa8fb7f4ba19df58f5e1ce1e66c,float,True,rear_hull,1,0.22167898836297117,13,4,0.07134819030761719,True,0.0,starfighter,starfighter,aircraft or spacecraft
+objaverse-f93f4fa8fb7f4ba19df58f5e1ce1e66c,shrink,True,barrel,4,0.09366528032653441,13,4,0.013985633850097656,True,0.01626625484063471,starfighter,starfighter,aircraft or spacecraft
+objaverse-f93f4fa8fb7f4ba19df58f5e1ce1e66c,grow,True,rear_hull,1,0.22167898836297117,13,4,0.06977176666259766,True,0.0,starfighter,starfighter,aircraft or spacecraft
+objaverse-f93f4fa8fb7f4ba19df58f5e1ce1e66c,rotate,True,barrel,4,0.09366528032653441,13,4,0.04903411865234375,True,0.09366528032653432,starfighter,starfighter,aircraft or spacecraft
+objaverse-f93f4fa8fb7f4ba19df58f5e1ce1e66c,same,False,,0,0.0,13,4,0.0,False,0.0,starfighter,starfighter,aircraft or spacecraft
+objaverse-f93f4fa8fb7f4ba19df58f5e1ce1e66c,turn,False,,0,0.0,13,4,0.09276771545410156,True,0.0,starfighter,starfighter,aircraft or spacecraft
+objaverse-747a92b417fa4f9a931aa0ce7b1088bb,remove,True,guard,1,0.13012614764314298,7,6,0.008559226989746094,True,0.0,bracer,bracer,weapon or armour
+objaverse-747a92b417fa4f9a931aa0ce7b1088bb,float,True,guard,1,0.13012614764314298,7,6,0.04531097412109375,True,0.1301261476431429,bracer,bracer,weapon or armour
+objaverse-747a92b417fa4f9a931aa0ce7b1088bb,shrink,True,guard,1,0.13012614764314298,7,6,0.009374618530273438,True,0.02337523636834582,bracer,bracer,weapon or armour
+objaverse-747a92b417fa4f9a931aa0ce7b1088bb,grow,True,strap,1,0.08773792197278878,7,6,0.08111286163330078,True,0.4550567552200858,bracer,bracer,weapon or armour
+objaverse-747a92b417fa4f9a931aa0ce7b1088bb,rotate,True,guard,1,0.13012614764314298,7,6,0.09418106079101562,True,0.0,bracer,bracer,weapon or armour
+objaverse-747a92b417fa4f9a931aa0ce7b1088bb,same,False,,0,0.0,7,6,0.0,False,0.0,bracer,bracer,weapon or armour
+objaverse-747a92b417fa4f9a931aa0ce7b1088bb,turn,False,,0,0.0,7,6,0.1539440155029297,True,0.0,bracer,bracer,weapon or armour
+objaverse-55d99d83d354431b994cdc8c7c7665d0,remove,True,housing,1,0.10448479687981951,5,5,0.017078399658203125,True,0.0,streetlamp,streetlamp,lighting
+objaverse-55d99d83d354431b994cdc8c7c7665d0,float,True,base,1,0.04027579898774252,5,5,0.014925003051757812,True,0.040275798987742584,streetlamp,streetlamp,lighting
+objaverse-55d99d83d354431b994cdc8c7c7665d0,shrink,True,housing,1,0.10448479687981951,5,5,0.011995315551757812,True,0.01832598875985514,streetlamp,streetlamp,lighting
+objaverse-55d99d83d354431b994cdc8c7c7665d0,grow,True,arm,1,0.06620243590492533,5,5,0.0179290771484375,True,0.08717183368339942,streetlamp,streetlamp,lighting
+objaverse-55d99d83d354431b994cdc8c7c7665d0,rotate,True,arm,1,0.06620243590492533,5,5,0.011899948120117188,True,0.17068723278474474,streetlamp,streetlamp,lighting
+objaverse-55d99d83d354431b994cdc8c7c7665d0,same,False,,0,0.0,5,5,0.0,False,0.0,streetlamp,streetlamp,lighting
+objaverse-55d99d83d354431b994cdc8c7c7665d0,turn,False,,0,0.0,5,5,0.018215179443359375,True,0.0,streetlamp,streetlamp,lighting
+objaverse-8c6fd414dce44c4b86a44320a96adb29,remove,True,side_rail,1,0.12423425813690887,3,3,0.026444435119628906,True,0.0,scalloped_box,scalloped box,garden or outdoor
+objaverse-8c6fd414dce44c4b86a44320a96adb29,float,True,lid,1,0.40515322788861746,3,3,0.12844181060791016,True,0.0,scalloped_box,scalloped box,garden or outdoor
+objaverse-8c6fd414dce44c4b86a44320a96adb29,shrink,True,side_rail,1,0.12423425813690887,3,3,0.03331279754638672,True,0.0,scalloped_box,scalloped box,garden or outdoor
+objaverse-8c6fd414dce44c4b86a44320a96adb29,grow,True,lid,1,0.40515322788861746,3,3,0.15630149841308594,True,0.2684981254667239,scalloped_box,scalloped box,garden or outdoor
+objaverse-8c6fd414dce44c4b86a44320a96adb29,rotate,True,side_rail,1,0.12423425813690887,3,3,0.2263021469116211,True,0.0,scalloped_box,scalloped box,garden or outdoor
+objaverse-8c6fd414dce44c4b86a44320a96adb29,same,False,,0,0.0,3,3,0.0,False,0.0,scalloped_box,scalloped box,garden or outdoor
+objaverse-8c6fd414dce44c4b86a44320a96adb29,turn,False,,0,0.0,3,3,0.20305633544921875,True,0.0,scalloped_box,scalloped box,garden or outdoor
+objaverse-708e55493d294ef0b1e9c223543380a3,remove,True,bent_stem,1,0.11707528550179477,3,3,0.022215843200683594,True,0.0,sculpting_tool,sculpting tool,medical or personal care
+objaverse-708e55493d294ef0b1e9c223543380a3,float,True,bent_stem,1,0.11707528550179477,3,3,0.01079559326171875,True,0.1170752855017948,sculpting_tool,sculpting tool,medical or personal care
+objaverse-708e55493d294ef0b1e9c223543380a3,shrink,True,blade_stem,1,0.07360602737391665,3,3,0.005389213562011719,True,0.012553111501632963,sculpting_tool,sculpting tool,medical or personal care
+objaverse-708e55493d294ef0b1e9c223543380a3,grow,True,bent_stem,1,0.11707528550179477,3,3,0.011221885681152344,True,0.0,sculpting_tool,sculpting tool,medical or personal care
+objaverse-708e55493d294ef0b1e9c223543380a3,rotate,True,blade_stem,1,0.07360602737391665,3,3,0.028064727783203125,True,0.07360602737391664,sculpting_tool,sculpting tool,medical or personal care
+objaverse-708e55493d294ef0b1e9c223543380a3,same,False,,0,0.0,3,3,0.0,False,0.0,sculpting_tool,sculpting tool,medical or personal care
+objaverse-708e55493d294ef0b1e9c223543380a3,turn,False,,0,0.0,3,3,0.03909015655517578,True,0.0,sculpting_tool,sculpting tool,medical or personal care
+objaverse-da4841cf2d314fe3b4482067a708b305,remove,True,upright,2,0.46449067300953856,4,3,0.12681007385253906,True,0.10732577085062556,stand,stand,garden or outdoor
+objaverse-da4841cf2d314fe3b4482067a708b305,float,True,low_crossbar,1,0.057473951316950996,4,3,0.04997444152832031,True,0.0574739513169511,stand,stand,garden or outdoor
+objaverse-da4841cf2d314fe3b4482067a708b305,shrink,True,upright,2,0.46449067300953856,4,3,0.13829803466796875,True,0.2161142071669545,stand,stand,garden or outdoor
+objaverse-da4841cf2d314fe3b4482067a708b305,grow,True,upright,2,0.46449067300953856,4,3,0.12121200561523438,True,0.1997246560114455,stand,stand,garden or outdoor
+objaverse-da4841cf2d314fe3b4482067a708b305,rotate,True,upright,2,0.46449067300953856,4,3,0.1038827896118164,True,0.2897192878217202,stand,stand,garden or outdoor
+objaverse-da4841cf2d314fe3b4482067a708b305,same,False,,0,0.0,4,3,0.0,False,0.0,stand,stand,garden or outdoor
+objaverse-da4841cf2d314fe3b4482067a708b305,turn,False,,0,0.0,4,3,0.10325908660888672,True,0.0,stand,stand,garden or outdoor
+objaverse-20aff6e42c7848c0bdc04e2d1f9986f3,remove,True,handle_strap,1,0.0702038699811445,3,3,0.13033199310302734,True,0.0,tankard,tankard,tableware
+objaverse-20aff6e42c7848c0bdc04e2d1f9986f3,float,True,handle_strap,1,0.0702038699811445,3,3,0.08967399597167969,True,0.07020386998114447,tankard,tankard,tableware
+objaverse-20aff6e42c7848c0bdc04e2d1f9986f3,shrink,True,handle_strap,1,0.0702038699811445,3,3,0.07972431182861328,True,0.011936531382641724,tankard,tankard,tableware
+objaverse-20aff6e42c7848c0bdc04e2d1f9986f3,grow,True,flared_foot,1,0.27440205335330997,3,3,0.156280517578125,True,0.0,tankard,tankard,tableware
+objaverse-20aff6e42c7848c0bdc04e2d1f9986f3,rotate,True,handle_strap,1,0.0702038699811445,3,3,0.08637237548828125,True,0.0,tankard,tankard,tableware
+objaverse-20aff6e42c7848c0bdc04e2d1f9986f3,same,False,,0,0.0,3,3,0.0,False,0.0,tankard,tankard,tableware
+objaverse-20aff6e42c7848c0bdc04e2d1f9986f3,turn,False,,0,0.0,3,3,0.085845947265625,True,0.0,tankard,tankard,tableware
+objaverse-1589350d38ed43d59f798a203b34de37,remove,True,dish,2,0.029420610396887807,52,12,0.03821563720703125,True,4.440892098500626e-16,cage_balance,cage balance,container
+objaverse-1589350d38ed43d59f798a203b34de37,float,True,dish,2,0.029420610396887807,52,12,0.13200759887695312,True,0.029420610396888147,cage_balance,cage balance,container
+objaverse-1589350d38ed43d59f798a203b34de37,shrink,True,roof,1,0.29198087448411564,52,12,0.08567523956298828,True,0.06189838018491289,cage_balance,cage balance,container
+objaverse-1589350d38ed43d59f798a203b34de37,grow,True,side_bar,24,0.20520995942967188,52,12,0.18698787689208984,True,-8.881784197001252e-16,cage_balance,cage balance,container
+objaverse-1589350d38ed43d59f798a203b34de37,rotate,True,roof,1,0.29198087448411564,52,12,0.22791290283203125,True,4.440892098500626e-16,cage_balance,cage balance,container
+objaverse-1589350d38ed43d59f798a203b34de37,same,False,,0,0.0,52,12,0.0,False,4.440892098500626e-16,cage_balance,cage balance,container
+objaverse-1589350d38ed43d59f798a203b34de37,turn,False,,0,0.0,52,12,0.2073841094970703,True,4.440892098500626e-16,cage_balance,cage balance,container
+objaverse-a3512cd0cf5e4e18b1d6d2f9ea9dcffa,remove,True,fin,1,0.07554029277311944,10,5,0.06372547149658203,True,0.0,airliner,airliner,aircraft or spacecraft
+objaverse-a3512cd0cf5e4e18b1d6d2f9ea9dcffa,float,True,nacelle,4,0.11231919935210284,10,5,0.06758499145507812,True,0.11231919935210288,airliner,airliner,aircraft or spacecraft
+objaverse-a3512cd0cf5e4e18b1d6d2f9ea9dcffa,shrink,True,wing,2,0.3448136236125089,10,5,0.03926658630371094,True,0.2357821261398818,airliner,airliner,aircraft or spacecraft
+objaverse-a3512cd0cf5e4e18b1d6d2f9ea9dcffa,grow,True,nacelle,4,0.11231919935210284,10,5,0.04041290283203125,True,2.220446049250313e-16,airliner,airliner,aircraft or spacecraft
+objaverse-a3512cd0cf5e4e18b1d6d2f9ea9dcffa,rotate,True,wing,2,0.3448136236125089,10,5,0.07695198059082031,True,0.11231919935210288,airliner,airliner,aircraft or spacecraft
+objaverse-a3512cd0cf5e4e18b1d6d2f9ea9dcffa,same,False,,0,0.0,10,5,0.0,False,0.0,airliner,airliner,aircraft or spacecraft
+objaverse-a3512cd0cf5e4e18b1d6d2f9ea9dcffa,turn,False,,0,0.0,10,5,0.08490467071533203,True,0.0,airliner,airliner,aircraft or spacecraft
+objaverse-61542535d879414aa82fc4ffecd50d81,remove,True,shoulder_block,2,0.09543214530615499,32,7,0.022762298583984375,True,0.010328945161836911,gateway,gateway,architectural element
+objaverse-61542535d879414aa82fc4ffecd50d81,float,True,projecting_foot,1,0.11188867007359214,32,7,0.1208486557006836,True,0.11188867007359216,gateway,gateway,architectural element
+objaverse-61542535d879414aa82fc4ffecd50d81,shrink,True,projecting_foot,1,0.11188867007359214,32,7,0.07725048065185547,True,0.0197592937336325,gateway,gateway,architectural element
+objaverse-61542535d879414aa82fc4ffecd50d81,grow,True,foot,2,0.07153088608885406,32,7,0.10965442657470703,True,0.235571606997662,gateway,gateway,architectural element
+objaverse-61542535d879414aa82fc4ffecd50d81,rotate,True,shoulder_block,2,0.09543214530615499,32,7,0.1146097183227539,True,0.009343231766291704,gateway,gateway,architectural element
+objaverse-61542535d879414aa82fc4ffecd50d81,same,False,,0,0.0,32,7,0.0,False,-1.5543122344752192e-15,gateway,gateway,architectural element
+objaverse-61542535d879414aa82fc4ffecd50d81,turn,False,,0,0.0,32,7,0.18218994140625,True,-1.5543122344752192e-15,gateway,gateway,architectural element
+objaverse-3faeb2c83d134686953c9d09272b7a65,remove,True,canopy_panel,4,0.2662426578015749,15,4,0.0920553207397461,True,0.0,canopy_post,canopy post,furniture
+objaverse-3faeb2c83d134686953c9d09272b7a65,float,True,canopy_panel,4,0.2662426578015749,15,4,0.0771780014038086,True,0.26624265780157497,canopy_post,canopy post,furniture
+objaverse-3faeb2c83d134686953c9d09272b7a65,shrink,True,canopy_panel,4,0.2662426578015749,15,4,0.07401657104492188,True,0.054870209105639445,canopy_post,canopy post,furniture
+objaverse-3faeb2c83d134686953c9d09272b7a65,grow,True,canopy_panel,4,0.2662426578015749,15,4,0.10557937622070312,True,-2.220446049250313e-16,canopy_post,canopy post,furniture
+objaverse-3faeb2c83d134686953c9d09272b7a65,rotate,True,curl,5,0.07871123397704283,15,4,0.00760650634765625,True,0.0,canopy_post,canopy post,furniture
+objaverse-3faeb2c83d134686953c9d09272b7a65,same,False,,0,0.0,15,4,0.0,False,0.0,canopy_post,canopy post,furniture
+objaverse-3faeb2c83d134686953c9d09272b7a65,turn,False,,0,0.0,15,4,0.09959983825683594,True,1.1102230246251565e-16,canopy_post,canopy post,furniture
+objaverse-aef1843bd2c146c19d322984cb7fcfe3,remove,True,tapered_leg,4,0.10597781370140039,7,4,0.02121734619140625,True,0.0,utility_sink,utility sink,bathroom fixture
+objaverse-aef1843bd2c146c19d322984cb7fcfe3,float,True,drain,1,0.05710691127284995,7,4,0.12195205688476562,True,0.05710691127284995,utility_sink,utility sink,bathroom fixture
+objaverse-aef1843bd2c146c19d322984cb7fcfe3,shrink,True,drain,1,0.05710691127284995,7,4,0.011545181274414062,True,0.00959749581068614,utility_sink,utility sink,bathroom fixture
+objaverse-aef1843bd2c146c19d322984cb7fcfe3,grow,True,tapered_leg,4,0.10597781370140039,7,4,0.1280651092529297,True,0.0,utility_sink,utility sink,bathroom fixture
+objaverse-aef1843bd2c146c19d322984cb7fcfe3,rotate,True,drain,1,0.05710691127284995,7,4,0.019868850708007812,True,0.0,utility_sink,utility sink,bathroom fixture
+objaverse-aef1843bd2c146c19d322984cb7fcfe3,same,False,,0,0.0,7,4,0.0,False,0.0,utility_sink,utility sink,bathroom fixture
+objaverse-aef1843bd2c146c19d322984cb7fcfe3,turn,False,,0,0.0,7,4,0.1669607162475586,True,0.0,utility_sink,utility sink,bathroom fixture
+objaverse-6e122066c03e433c8af827b9a4c5058b,remove,True,woofer_frame,1,0.08297673118827928,12,11,0.007176399230957031,True,0.019058487681155256,speaker,speaker,electronics
+objaverse-6e122066c03e433c8af827b9a4c5058b,float,True,terminal_frame,1,0.042669769465550025,12,11,0.07057762145996094,True,0.04266976946555001,speaker,speaker,electronics
+objaverse-6e122066c03e433c8af827b9a4c5058b,shrink,True,woofer_frame,1,0.08297673118827928,12,11,0.006694793701171875,True,0.033057474660592834,speaker,speaker,electronics
+objaverse-6e122066c03e433c8af827b9a4c5058b,grow,True,surround,1,0.01747707667198098,12,11,0.047799110412597656,True,0.0,speaker,speaker,electronics
+objaverse-6e122066c03e433c8af827b9a4c5058b,rotate,True,woofer_frame,1,0.08297673118827928,12,11,0.09599876403808594,True,0.0,speaker,speaker,electronics
+objaverse-6e122066c03e433c8af827b9a4c5058b,same,False,,0,0.0,12,11,0.0,False,0.0,speaker,speaker,electronics
+objaverse-6e122066c03e433c8af827b9a4c5058b,turn,False,,0,0.0,12,11,0.29917335510253906,True,0.0,speaker,speaker,electronics
+objaverse-96ad3cd8ede34667ba5b4819cc4335f8,remove,True,scoop,1,0.057767449527861725,4,4,0.19977378845214844,True,0.0,soup_bowl,soup bowl,food and drink
+objaverse-96ad3cd8ede34667ba5b4819cc4335f8,float,True,scoop,1,0.057767449527861725,4,4,0.08115863800048828,True,0.057767449527861836,soup_bowl,soup bowl,food and drink
+objaverse-96ad3cd8ede34667ba5b4819cc4335f8,shrink,True,scoop,1,0.057767449527861725,4,4,0.09799957275390625,True,0.009714168631188014,soup_bowl,soup bowl,food and drink
+objaverse-96ad3cd8ede34667ba5b4819cc4335f8,grow,True,leaves,1,0.05146285950052507,4,4,0.018497467041015625,True,0.0,soup_bowl,soup bowl,food and drink
+objaverse-96ad3cd8ede34667ba5b4819cc4335f8,rotate,True,scoop,1,0.057767449527861725,4,4,0.1336498260498047,True,0.057767449527861836,soup_bowl,soup bowl,food and drink
+objaverse-96ad3cd8ede34667ba5b4819cc4335f8,same,False,,0,0.0,4,4,0.0,False,0.0,soup_bowl,soup bowl,food and drink
+objaverse-96ad3cd8ede34667ba5b4819cc4335f8,turn,False,,0,0.0,4,4,0.019922256469726562,True,0.0,soup_bowl,soup bowl,food and drink
+objaverse-5acbf31e2ead426d8321e3e07fc53ad5,remove,True,forged_head,1,0.27739960470580116,3,3,0.030046463012695312,True,0.0,hammer,hammer,hand tool
+objaverse-5acbf31e2ead426d8321e3e07fc53ad5,float,True,forged_head,1,0.27739960470580116,3,3,0.019219398498535156,True,0.27739960470580116,hammer,hammer,hand tool
+objaverse-5acbf31e2ead426d8321e3e07fc53ad5,shrink,True,forged_head,1,0.27739960470580116,3,3,0.020577430725097656,True,0.0,hammer,hammer,hand tool
+objaverse-5acbf31e2ead426d8321e3e07fc53ad5,grow,True,forged_head,1,0.27739960470580116,3,3,0.0666656494140625,True,0.0,hammer,hammer,hand tool
+objaverse-5acbf31e2ead426d8321e3e07fc53ad5,rotate,True,forged_head,1,0.27739960470580116,3,3,0.007046699523925781,True,0.0,hammer,hammer,hand tool
+objaverse-5acbf31e2ead426d8321e3e07fc53ad5,same,False,,0,0.0,3,3,0.0,False,0.0,hammer,hammer,hand tool
+objaverse-5acbf31e2ead426d8321e3e07fc53ad5,turn,False,,0,0.0,3,3,0.03986930847167969,True,0.0,hammer,hammer,hand tool
+objaverse-74de43babfbd4f23b03eb8f1d870826e,remove,True,corner,4,0.049050621155973535,16,10,0.009883880615234375,True,0.0,wall_lantern,wall lantern,lighting
+objaverse-74de43babfbd4f23b03eb8f1d870826e,float,True,upright,1,0.028392034215709076,16,10,0.03438854217529297,True,1.1102230246251565e-16,wall_lantern,wall lantern,lighting
+objaverse-74de43babfbd4f23b03eb8f1d870826e,shrink,True,plate,1,0.3032889602001244,16,10,0.13451194763183594,True,0.06511514568850219,wall_lantern,wall lantern,lighting
+objaverse-74de43babfbd4f23b03eb8f1d870826e,grow,True,arm,1,0.04358868732790256,16,10,0.15234661102294922,True,0.0,wall_lantern,wall lantern,lighting
+objaverse-74de43babfbd4f23b03eb8f1d870826e,rotate,True,foot,1,0.0698849390736252,16,10,0.04972553253173828,True,1.1102230246251565e-16,wall_lantern,wall lantern,lighting
+objaverse-74de43babfbd4f23b03eb8f1d870826e,same,False,,0,0.0,16,10,0.0,False,1.1102230246251565e-16,wall_lantern,wall lantern,lighting
+objaverse-74de43babfbd4f23b03eb8f1d870826e,turn,False,,0,0.0,16,10,0.2233114242553711,True,1.1102230246251565e-16,wall_lantern,wall lantern,lighting
+objaverse-f953c51a5dbc4a15949f4dcc0905c4e8,remove,True,tire,7,0.10944086766515339,77,35,0.05916595458984375,True,0.5071438996298302,cargo_truck,cargo truck,vehicle
+objaverse-f953c51a5dbc4a15949f4dcc0905c4e8,float,True,sideboard,2,0.04178232309404023,77,35,0.09767818450927734,True,0.00156285419231883,cargo_truck,cargo truck,vehicle
+objaverse-f953c51a5dbc4a15949f4dcc0905c4e8,shrink,True,tire,7,0.10944086766515339,77,35,0.05916595458984375,True,0.5166477693828365,cargo_truck,cargo truck,vehicle
+objaverse-f953c51a5dbc4a15949f4dcc0905c4e8,grow,True,tailgate,1,0.015977530258108115,77,35,0.09113883972167969,True,0.0014913690117837053,cargo_truck,cargo truck,vehicle
+objaverse-f953c51a5dbc4a15949f4dcc0905c4e8,rotate,True,sideboard,2,0.04178232309404023,77,35,0.04098033905029297,True,0.00156285419231883,cargo_truck,cargo truck,vehicle
+objaverse-f953c51a5dbc4a15949f4dcc0905c4e8,same,False,,0,0.0,77,35,0.0,False,0.00156285419231883,cargo_truck,cargo truck,vehicle
+objaverse-f953c51a5dbc4a15949f4dcc0905c4e8,turn,False,,0,0.0,77,35,0.19556427001953125,True,0.00156285419231883,cargo_truck,cargo truck,vehicle
+objaverse-df671f9c11a84a6c8ae87897418af676,remove,True,panel,1,0.26054870672895936,5,4,0.01890277862548828,True,0.0,tube_terminal,tube terminal,lighting
+objaverse-df671f9c11a84a6c8ae87897418af676,float,True,socket,2,0.017326547935240168,5,4,0.012927055358886719,True,0.2778233638248032,tube_terminal,tube terminal,lighting
+objaverse-df671f9c11a84a6c8ae87897418af676,shrink,True,hose,1,0.2778233638248032,5,4,0.05221080780029297,True,0.05798342416885216,tube_terminal,tube terminal,lighting
+objaverse-df671f9c11a84a6c8ae87897418af676,grow,True,panel,1,0.26054870672895936,5,4,0.049881935119628906,True,0.0,tube_terminal,tube terminal,lighting
+objaverse-df671f9c11a84a6c8ae87897418af676,rotate,True,hose,1,0.2778233638248032,5,4,0.0661764144897461,True,0.2778233638248032,tube_terminal,tube terminal,lighting
+objaverse-df671f9c11a84a6c8ae87897418af676,same,False,,0,0.0,5,4,0.0,False,0.0,tube_terminal,tube terminal,lighting
+objaverse-df671f9c11a84a6c8ae87897418af676,turn,False,,0,0.0,5,4,0.06305122375488281,True,0.0,tube_terminal,tube terminal,lighting
+objaverse-7533edab87424097b7bf7cedbe13a358,remove,True,square_pad,16,0.10353915892793024,25,3,0.0016450881958007812,False,0.0,control_panel,control panel,electronics
+objaverse-7533edab87424097b7bf7cedbe13a358,float,True,round_control,8,0.052194993262801394,25,3,0.024061203002929688,True,0.052194993262801415,control_panel,control panel,electronics
+objaverse-7533edab87424097b7bf7cedbe13a358,shrink,True,round_control,8,0.052194993262801394,25,3,0.00099945068359375,False,0.0,control_panel,control panel,electronics
+objaverse-7533edab87424097b7bf7cedbe13a358,grow,True,square_pad,16,0.10353915892793024,25,3,0.004134178161621094,False,0.0,control_panel,control panel,electronics
+objaverse-7533edab87424097b7bf7cedbe13a358,rotate,True,round_control,8,0.052194993262801394,25,3,0.05931854248046875,True,0.03592555860357172,control_panel,control panel,electronics
+objaverse-7533edab87424097b7bf7cedbe13a358,same,False,,0,0.0,25,3,0.0,False,0.0,control_panel,control panel,electronics
+objaverse-7533edab87424097b7bf7cedbe13a358,turn,False,,0,0.0,25,3,0.1524801254272461,True,-2.220446049250313e-16,control_panel,control panel,electronics
+objaverse-c2266075857044c89404b0f47bea7634,remove,True,folded_blade,6,0.4806912794688086,7,2,0.1304483413696289,True,0.0,turnip,turnip,food and drink
+objaverse-c2266075857044c89404b0f47bea7634,float,True,folded_blade,6,0.4806912794688086,7,2,0.07897567749023438,True,0.4806912794688085,turnip,turnip,food and drink
+objaverse-c2266075857044c89404b0f47bea7634,shrink,True,folded_blade,6,0.4806912794688086,7,2,0.08186054229736328,True,0.128997168421621,turnip,turnip,food and drink
+objaverse-c2266075857044c89404b0f47bea7634,grow,True,folded_blade,6,0.4806912794688086,7,2,0.0914163589477539,True,0.0,turnip,turnip,food and drink
+objaverse-c2266075857044c89404b0f47bea7634,rotate,True,folded_blade,6,0.4806912794688086,7,2,0.0697488784790039,True,0.0,turnip,turnip,food and drink
+objaverse-c2266075857044c89404b0f47bea7634,same,False,,0,0.0,7,2,0.0,False,0.0,turnip,turnip,food and drink
+objaverse-c2266075857044c89404b0f47bea7634,turn,False,,0,0.0,7,2,0.09268760681152344,True,0.0,turnip,turnip,food and drink
+objaverse-e49ea080f49e4913aa02c48d096c45cc,remove,True,cowl,2,0.14911784278355414,19,14,0.01599597930908203,True,0.0,scooter,scooter,vehicle
+objaverse-e49ea080f49e4913aa02c48d096c45cc,float,True,floor,1,0.10307740306530958,19,14,0.10897541046142578,True,0.10307740306530977,scooter,scooter,vehicle
+objaverse-e49ea080f49e4913aa02c48d096c45cc,shrink,True,floor,1,0.10307740306530958,19,14,0.0063953399658203125,True,2.220446049250313e-16,scooter,scooter,vehicle
+objaverse-e49ea080f49e4913aa02c48d096c45cc,grow,True,floor,1,0.10307740306530958,19,14,0.05213642120361328,True,1.1102230246251565e-16,scooter,scooter,vehicle
+objaverse-e49ea080f49e4913aa02c48d096c45cc,rotate,True,tire,2,0.1329817807750867,19,14,0.037148475646972656,True,1.1102230246251565e-16,scooter,scooter,vehicle
+objaverse-e49ea080f49e4913aa02c48d096c45cc,same,False,,0,0.0,19,14,0.0,False,1.1102230246251565e-16,scooter,scooter,vehicle
+objaverse-e49ea080f49e4913aa02c48d096c45cc,turn,False,,0,0.0,19,14,0.1354999542236328,True,1.1102230246251565e-16,scooter,scooter,vehicle
+objaverse-8acac68b220d4b938c36d1738d391d66,remove,True,panel,1,0.45136788872469696,3,3,0.15606975555419922,True,0.1743145905759712,laptop,laptop,electronics
+objaverse-8acac68b220d4b938c36d1738d391d66,float,True,frame,1,0.09563458185378516,3,3,0.10226249694824219,True,0.09563458185378504,laptop,laptop,electronics
+objaverse-8acac68b220d4b938c36d1738d391d66,shrink,True,frame,1,0.09563458185378516,3,3,0.021750450134277344,True,0.016638124351350814,laptop,laptop,electronics
+objaverse-8acac68b220d4b938c36d1738d391d66,grow,True,frame,1,0.09563458185378516,3,3,0.15575885772705078,True,0.29725480925403236,laptop,laptop,electronics
+objaverse-8acac68b220d4b938c36d1738d391d66,rotate,True,frame,1,0.09563458185378516,3,3,0.059561729431152344,True,0.0,laptop,laptop,electronics
+objaverse-8acac68b220d4b938c36d1738d391d66,same,False,,0,0.0,3,3,0.0,False,0.0,laptop,laptop,electronics
+objaverse-8acac68b220d4b938c36d1738d391d66,turn,False,,0,0.0,3,3,0.14711380004882812,True,0.0,laptop,laptop,electronics
+objaverse-267f2d35e20b42098ec9baaa5e18caeb,remove,True,control_surround,1,0.09094529007762746,7,6,0.010437965393066406,True,0.0,boombox,boombox,electronics
+objaverse-267f2d35e20b42098ec9baaa5e18caeb,float,True,panel,1,0.10246229655438051,7,6,0.11081314086914062,True,0.10246229655438055,boombox,boombox,electronics
+objaverse-267f2d35e20b42098ec9baaa5e18caeb,shrink,True,control_surround,1,0.09094529007762746,7,6,0.009822845458984375,True,0.0,boombox,boombox,electronics
+objaverse-267f2d35e20b42098ec9baaa5e18caeb,grow,True,speaker,2,0.13501405137434777,7,6,0.14940738677978516,True,0.0,boombox,boombox,electronics
+objaverse-267f2d35e20b42098ec9baaa5e18caeb,rotate,True,speaker,2,0.13501405137434777,7,6,0.10393619537353516,True,0.0,boombox,boombox,electronics
+objaverse-267f2d35e20b42098ec9baaa5e18caeb,same,False,,0,0.0,7,6,0.0,False,0.0,boombox,boombox,electronics
+objaverse-267f2d35e20b42098ec9baaa5e18caeb,turn,False,,0,0.0,7,6,0.17512893676757812,True,0.0,boombox,boombox,electronics
+objaverse-465901bb98714e6cba1ce8fd5f9057e6,remove,True,end_post,1,0.22458520045981215,4,4,0.04327869415283203,True,0.0,barrier,barrier,architectural element
+objaverse-465901bb98714e6cba1ce8fd5f9057e6,float,True,far_post,1,0.22458520045981215,4,4,0.07864761352539062,True,0.0,barrier,barrier,architectural element
+objaverse-465901bb98714e6cba1ce8fd5f9057e6,shrink,True,middle_post,1,0.22458520045981215,4,4,0.037708282470703125,True,0.0,barrier,barrier,architectural element
+objaverse-465901bb98714e6cba1ce8fd5f9057e6,grow,True,middle_post,1,0.22458520045981215,4,4,0.14914798736572266,True,0.0,barrier,barrier,architectural element
+objaverse-465901bb98714e6cba1ce8fd5f9057e6,rotate,True,end_post,1,0.22458520045981215,4,4,0.09226226806640625,True,0.0,barrier,barrier,architectural element
+objaverse-465901bb98714e6cba1ce8fd5f9057e6,same,False,,0,0.0,4,4,0.0,False,0.0,barrier,barrier,architectural element
+objaverse-465901bb98714e6cba1ce8fd5f9057e6,turn,False,,0,0.0,4,4,0.20371627807617188,True,0.0,barrier,barrier,architectural element
+objaverse-563fbd0d9e1e49e39efd462b84a063f8,remove,True,blade,1,0.2462589179571252,3,3,0.08422565460205078,True,0.0,key,key,fastener or hardware
+objaverse-563fbd0d9e1e49e39efd462b84a063f8,float,True,blade,1,0.2462589179571252,3,3,0.025999069213867188,True,0.2462589179571253,key,key,fastener or hardware
+objaverse-563fbd0d9e1e49e39efd462b84a063f8,shrink,True,blade,1,0.2462589179571252,3,3,0.03352546691894531,True,0.04967761332952614,key,key,fastener or hardware
+objaverse-563fbd0d9e1e49e39efd462b84a063f8,grow,True,ring,1,0.051818603213121865,3,3,0.03138542175292969,True,0.0,key,key,fastener or hardware
+objaverse-563fbd0d9e1e49e39efd462b84a063f8,rotate,True,blade,1,0.2462589179571252,3,3,0.01650524139404297,True,0.0,key,key,fastener or hardware
+objaverse-563fbd0d9e1e49e39efd462b84a063f8,same,False,,0,0.0,3,3,0.0,False,0.0,key,key,fastener or hardware
+objaverse-563fbd0d9e1e49e39efd462b84a063f8,turn,False,,0,0.0,3,3,0.05593681335449219,True,0.0,key,key,fastener or hardware
+objaverse-27a64dac97804cb084be2e8e9c057a01,remove,True,rim,1,0.06031642111658983,7,5,0.005251884460449219,True,0.0,thorn_mask,thorn mask,fastener or hardware
+objaverse-27a64dac97804cb084be2e8e9c057a01,float,True,slope,1,0.1104273071137026,7,5,0.09053993225097656,True,0.11042730711370263,thorn_mask,thorn mask,fastener or hardware
+objaverse-27a64dac97804cb084be2e8e9c057a01,shrink,True,brow,2,0.18078264259848845,7,5,0.01707744598388672,True,0.0,thorn_mask,thorn mask,fastener or hardware
+objaverse-27a64dac97804cb084be2e8e9c057a01,grow,True,rim,1,0.06031642111658983,7,5,0.020279884338378906,True,0.0,thorn_mask,thorn mask,fastener or hardware
+objaverse-27a64dac97804cb084be2e8e9c057a01,rotate,True,cheek,2,0.25262148621432434,7,5,0.06507110595703125,True,0.0,thorn_mask,thorn mask,fastener or hardware
+objaverse-27a64dac97804cb084be2e8e9c057a01,same,False,,0,0.0,7,5,0.0,False,0.0,thorn_mask,thorn mask,fastener or hardware
+objaverse-27a64dac97804cb084be2e8e9c057a01,turn,False,,0,0.0,7,5,0.13277626037597656,True,0.0,thorn_mask,thorn mask,fastener or hardware
+objaverse-6603d45a07dd49b697c327bdd2aff6c3,remove,True,upper_bun,1,0.23118759602032993,6,6,0.1387958526611328,True,0.0,bacon_sandwich,bacon sandwich,food and drink
+objaverse-6603d45a07dd49b697c327bdd2aff6c3,float,True,yellow_edge,1,0.19047562002948884,6,6,0.055886268615722656,True,0.0,bacon_sandwich,bacon sandwich,food and drink
+objaverse-6603d45a07dd49b697c327bdd2aff6c3,shrink,True,upper_bun,1,0.23118759602032993,6,6,0.13380050659179688,True,0.045904572231758256,bacon_sandwich,bacon sandwich,food and drink
+objaverse-6603d45a07dd49b697c327bdd2aff6c3,grow,True,upper_bun,1,0.23118759602032993,6,6,0.13378143310546875,True,0.0,bacon_sandwich,bacon sandwich,food and drink
+objaverse-6603d45a07dd49b697c327bdd2aff6c3,rotate,True,yellow_edge,1,0.19047562002948884,6,6,0.14183521270751953,True,0.0,bacon_sandwich,bacon sandwich,food and drink
+objaverse-6603d45a07dd49b697c327bdd2aff6c3,same,False,,0,0.0,6,6,0.0,False,0.0,bacon_sandwich,bacon sandwich,food and drink
+objaverse-6603d45a07dd49b697c327bdd2aff6c3,turn,False,,0,0.0,6,6,0.06394195556640625,True,0.0,bacon_sandwich,bacon sandwich,food and drink
+objaverse-7897b33d3d0445e7904f1492e96b9f68,remove,True,ring,1,0.17078312708075769,3,3,0.036617279052734375,True,0.0,ring_knife,ring knife,hand tool
+objaverse-7897b33d3d0445e7904f1492e96b9f68,float,True,ring,1,0.17078312708075769,3,3,0.018474578857421875,True,0.1707831270807576,ring_knife,ring knife,hand tool
+objaverse-7897b33d3d0445e7904f1492e96b9f68,shrink,True,ring,1,0.17078312708075769,3,3,0.03452777862548828,True,0.031901873820376125,ring_knife,ring knife,hand tool
+objaverse-7897b33d3d0445e7904f1492e96b9f68,grow,True,ring,1,0.17078312708075769,3,3,0.02902698516845703,True,0.0,ring_knife,ring knife,hand tool
+objaverse-7897b33d3d0445e7904f1492e96b9f68,rotate,True,ring,1,0.17078312708075769,3,3,0.03374671936035156,True,0.0,ring_knife,ring knife,hand tool
+objaverse-7897b33d3d0445e7904f1492e96b9f68,same,False,,0,0.0,3,3,0.0,False,0.0,ring_knife,ring knife,hand tool
+objaverse-7897b33d3d0445e7904f1492e96b9f68,turn,False,,0,0.0,3,3,0.05552482604980469,True,0.0,ring_knife,ring knife,hand tool
+objaverse-2bc216f86a8c43668bfa878490392bbc,remove,True,crossbar,1,0.07637727121978029,4,3,0.0061664581298828125,True,0.0,stepped_frame,stepped frame,toy or game
+objaverse-2bc216f86a8c43668bfa878490392bbc,float,True,crossbar,1,0.07637727121978029,4,3,0.013013839721679688,True,0.0,stepped_frame,stepped frame,toy or game
+objaverse-2bc216f86a8c43668bfa878490392bbc,shrink,True,top_beam,1,0.0904261925234772,4,3,0.03460884094238281,True,0.015657503480018153,stepped_frame,stepped frame,toy or game
+objaverse-2bc216f86a8c43668bfa878490392bbc,grow,True,top_beam,1,0.0904261925234772,4,3,0.1331939697265625,True,0.0,stepped_frame,stepped frame,toy or game
+objaverse-2bc216f86a8c43668bfa878490392bbc,rotate,True,top_beam,1,0.0904261925234772,4,3,0.11880970001220703,True,0.09042619252347717,stepped_frame,stepped frame,toy or game
+objaverse-2bc216f86a8c43668bfa878490392bbc,same,False,,0,0.0,4,3,0.0,False,0.0,stepped_frame,stepped frame,toy or game
+objaverse-2bc216f86a8c43668bfa878490392bbc,turn,False,,0,0.0,4,3,0.20940303802490234,True,0.0,stepped_frame,stepped frame,toy or game
+objaverse-5f6eff2832254c37b69449016e5a166c,remove,True,long_shelf,1,0.13180326484505844,35,10,0.008290290832519531,True,-2.220446049250313e-16,platform,platform,machine or industrial
+objaverse-5f6eff2832254c37b69449016e5a166c,float,True,recessed_strip,1,0.03513958231473927,35,10,0.025612831115722656,True,0.035139582314739015,platform,platform,machine or industrial
+objaverse-5f6eff2832254c37b69449016e5a166c,shrink,True,wing_pan,1,0.21621934197651815,35,10,0.011618614196777344,True,0.021413020851402953,platform,platform,machine or industrial
+objaverse-5f6eff2832254c37b69449016e5a166c,grow,True,upright,21,0.023014973102998004,35,10,0.009309768676757812,True,2.220446049250313e-16,platform,platform,machine or industrial
+objaverse-5f6eff2832254c37b69449016e5a166c,rotate,True,middle_pan,1,0.03191475691119247,35,10,0.027756690979003906,True,-2.220446049250313e-16,platform,platform,machine or industrial
+objaverse-5f6eff2832254c37b69449016e5a166c,same,False,,0,0.0,35,10,0.0,False,-2.220446049250313e-16,platform,platform,machine or industrial
+objaverse-5f6eff2832254c37b69449016e5a166c,turn,False,,0,0.0,35,10,0.07950973510742188,True,-2.220446049250313e-16,platform,platform,machine or industrial
+objaverse-b7e929877b0649e58b31dbcd08ed5580,remove,True,head,1,0.31848722745006425,3,3,0.007197380065917969,True,0.34062806879021224,floor_squeegee,floor squeegee,hand tool
+objaverse-b7e929877b0649e58b31dbcd08ed5580,float,True,head,1,0.31848722745006425,3,3,0.017652511596679688,True,0.5506296070196122,floor_squeegee,floor squeegee,hand tool
+objaverse-b7e929877b0649e58b31dbcd08ed5580,shrink,True,head,1,0.31848722745006425,3,3,0.006207466125488281,True,0.3865005450395219,floor_squeegee,floor squeegee,hand tool
+objaverse-b7e929877b0649e58b31dbcd08ed5580,grow,True,head,1,0.31848722745006425,3,3,0.03904438018798828,True,0.0,floor_squeegee,floor squeegee,hand tool
+objaverse-b7e929877b0649e58b31dbcd08ed5580,rotate,True,head,1,0.31848722745006425,3,3,0.019170761108398438,True,0.0,floor_squeegee,floor squeegee,hand tool
+objaverse-b7e929877b0649e58b31dbcd08ed5580,same,False,,0,0.0,3,3,0.0,False,0.0,floor_squeegee,floor squeegee,hand tool
+objaverse-b7e929877b0649e58b31dbcd08ed5580,turn,False,,0,0.0,3,3,0.031394004821777344,True,0.0,floor_squeegee,floor squeegee,hand tool
+objaverse-68038c36f48a40b9a769331abcd822c1,remove,True,engine,2,0.21591509158469674,7,4,0.014067649841308594,True,0.08862586669308692,blackbird,blackbird,aircraft or spacecraft
+objaverse-68038c36f48a40b9a769331abcd822c1,float,True,wing,2,0.3308783295743999,7,4,0.042634010314941406,True,0.6162836257283726,blackbird,blackbird,aircraft or spacecraft
+objaverse-68038c36f48a40b9a769331abcd822c1,shrink,True,engine,2,0.21591509158469674,7,4,0.014048576354980469,True,0.0,blackbird,blackbird,aircraft or spacecraft
+objaverse-68038c36f48a40b9a769331abcd822c1,grow,True,wing,2,0.3308783295743999,7,4,0.03633308410644531,True,0.0,blackbird,blackbird,aircraft or spacecraft
+objaverse-68038c36f48a40b9a769331abcd822c1,rotate,True,wing,2,0.3308783295743999,7,4,0.06921577453613281,True,0.4508444609411726,blackbird,blackbird,aircraft or spacecraft
+objaverse-68038c36f48a40b9a769331abcd822c1,same,False,,0,0.0,7,4,0.0,False,0.0,blackbird,blackbird,aircraft or spacecraft
+objaverse-68038c36f48a40b9a769331abcd822c1,turn,False,,0,0.0,7,4,0.07144737243652344,True,0.0,blackbird,blackbird,aircraft or spacecraft
+objaverse-288d8cc900b741168fe0f16d4fa0a83e,remove,True,tip,1,0.02842899742902093,14,9,0.028835296630859375,True,2.220446049250313e-16,sprout_wand,sprout wand,toy or game
+objaverse-288d8cc900b741168fe0f16d4fa0a83e,float,True,facet_span,1,0.28197545846295824,14,9,0.038977622985839844,True,0.3206980501898776,sprout_wand,sprout wand,toy or game
+objaverse-288d8cc900b741168fe0f16d4fa0a83e,shrink,True,blue_swelling,1,0.16972912404839166,14,9,0.0066547393798828125,True,0.0518948781668257,sprout_wand,sprout wand,toy or game
+objaverse-288d8cc900b741168fe0f16d4fa0a83e,grow,True,binding,4,0.10959275014500772,14,9,0.019016265869140625,True,0.0,sprout_wand,sprout wand,toy or game
+objaverse-288d8cc900b741168fe0f16d4fa0a83e,rotate,True,tip,1,0.02842899742902093,14,9,0.014863014221191406,True,2.220446049250313e-16,sprout_wand,sprout wand,toy or game
+objaverse-288d8cc900b741168fe0f16d4fa0a83e,same,False,,0,0.0,14,9,0.0,False,2.220446049250313e-16,sprout_wand,sprout wand,toy or game
+objaverse-288d8cc900b741168fe0f16d4fa0a83e,turn,False,,0,0.0,14,9,0.05955028533935547,True,2.220446049250313e-16,sprout_wand,sprout wand,toy or game
+objaverse-e2be3a9c003a46e192847e2b2e7b4dd1,remove,True,rear_blade,1,0.08083357493731835,4,4,0.008062362670898438,True,0.0,carrot,carrot,food and drink
+objaverse-e2be3a9c003a46e192847e2b2e7b4dd1,float,True,front_blade,1,0.053191741234829115,4,4,0.030574798583984375,True,0.05319174123482906,carrot,carrot,food and drink
+objaverse-e2be3a9c003a46e192847e2b2e7b4dd1,shrink,True,rear_blade,1,0.08083357493731835,4,4,0.007473945617675781,True,0.0,carrot,carrot,food and drink
+objaverse-e2be3a9c003a46e192847e2b2e7b4dd1,grow,True,front_blade,1,0.053191741234829115,4,4,0.01862335205078125,True,0.0,carrot,carrot,food and drink
+objaverse-e2be3a9c003a46e192847e2b2e7b4dd1,rotate,True,rear_blade,1,0.08083357493731835,4,4,0.009827613830566406,True,0.0,carrot,carrot,food and drink
+objaverse-e2be3a9c003a46e192847e2b2e7b4dd1,same,False,,0,0.0,4,4,0.0,False,0.0,carrot,carrot,food and drink
+objaverse-e2be3a9c003a46e192847e2b2e7b4dd1,turn,False,,0,0.0,4,4,0.007243156433105469,True,0.0,carrot,carrot,food and drink
+objaverse-0f274f0ef2e44732818ec1d08a88a593,remove,True,post,4,0.09802950259463447,13,3,0.07344627380371094,True,0.4812822343144746,rail_tray,rail tray,container
+objaverse-0f274f0ef2e44732818ec1d08a88a593,float,True,lower,8,0.4341023762769923,13,3,0.18922710418701172,True,0.21705118813849633,rail_tray,rail tray,container
+objaverse-0f274f0ef2e44732818ec1d08a88a593,shrink,True,lower,8,0.4341023762769923,13,3,0.09282779693603516,True,0.10931918233769944,rail_tray,rail tray,container
+objaverse-0f274f0ef2e44732818ec1d08a88a593,grow,True,post,4,0.09802950259463447,13,3,0.1343851089477539,True,0.0,rail_tray,rail tray,container
+objaverse-0f274f0ef2e44732818ec1d08a88a593,rotate,True,post,4,0.09802950259463447,13,3,0.1061868667602539,True,0.5321318788716269,rail_tray,rail tray,container
+objaverse-0f274f0ef2e44732818ec1d08a88a593,same,False,,0,0.0,13,3,0.0,False,1.1102230246251565e-16,rail_tray,rail tray,container
+objaverse-0f274f0ef2e44732818ec1d08a88a593,turn,False,,0,0.0,13,3,0.2072925567626953,True,0.0,rail_tray,rail tray,container
+objaverse-9ac30494995c4dbf93fb7bd5390a716b,remove,True,ring_wall,1,0.12271525752178385,3,3,0.007296562194824219,True,0.11131033873984697,square_base,square base,electronics
+objaverse-9ac30494995c4dbf93fb7bd5390a716b,float,True,ring_wall,1,0.12271525752178385,3,3,0.1421661376953125,True,0.2203661193783336,square_base,square base,electronics
+objaverse-9ac30494995c4dbf93fb7bd5390a716b,shrink,True,top_band,1,0.09765086185654955,3,3,0.009266853332519531,True,0.0,square_base,square base,electronics
+objaverse-9ac30494995c4dbf93fb7bd5390a716b,grow,True,top_band,1,0.09765086185654955,3,3,0.047588348388671875,True,0.30210191138146514,square_base,square base,electronics
+objaverse-9ac30494995c4dbf93fb7bd5390a716b,rotate,True,ring_wall,1,0.12271525752178385,3,3,0.13239479064941406,True,0.0,square_base,square base,electronics
+objaverse-9ac30494995c4dbf93fb7bd5390a716b,same,False,,0,0.0,3,3,0.0,False,0.0,square_base,square base,electronics
+objaverse-9ac30494995c4dbf93fb7bd5390a716b,turn,False,,0,0.0,3,3,0.1453075408935547,True,0.0,square_base,square base,electronics
+objaverse-0889a98529b1436bbe5b354bbb27f457,remove,True,shaped_end,2,0.234730255067578,13,6,0.017915725708007812,True,0.33908905350378205,swing,swing,garden or outdoor
+objaverse-0889a98529b1436bbe5b354bbb27f457,float,True,loop,2,0.025816714691318875,13,6,0.03162193298339844,True,0.25949459348421555,swing,swing,garden or outdoor
+objaverse-0889a98529b1436bbe5b354bbb27f457,shrink,True,loose_tail,2,0.02142523795659729,13,6,0.012639045715332031,True,0.003490863847484982,swing,swing,garden or outdoor
+objaverse-0889a98529b1436bbe5b354bbb27f457,grow,True,loop,2,0.025816714691318875,13,6,0.015428543090820312,True,0.0,swing,swing,garden or outdoor
+objaverse-0889a98529b1436bbe5b354bbb27f457,rotate,True,shaped_end,2,0.234730255067578,13,6,0.04290008544921875,True,0.4942248485517936,swing,swing,garden or outdoor
+objaverse-0889a98529b1436bbe5b354bbb27f457,same,False,,0,0.0,13,6,0.0,False,-2.220446049250313e-16,swing,swing,garden or outdoor
+objaverse-0889a98529b1436bbe5b354bbb27f457,turn,False,,0,0.0,13,6,0.03470039367675781,True,0.0,swing,swing,garden or outdoor
+objaverse-48cfc290cc7944f8bd506dc160a57473,remove,True,closed_wall,1,0.09855488761080783,91,17,0.016778945922851562,True,-2.220446049250313e-16,timber_shed,timber shed,architectural element
+objaverse-48cfc290cc7944f8bd506dc160a57473,float,True,end_panel,2,0.05829391778442166,91,17,0.1441192626953125,True,0.05829391778442139,timber_shed,timber shed,architectural element
+objaverse-48cfc290cc7944f8bd506dc160a57473,shrink,True,tie,9,0.08810545056901904,91,17,0.008739471435546875,True,-2.220446049250313e-16,timber_shed,timber shed,architectural element
+objaverse-48cfc290cc7944f8bd506dc160a57473,grow,True,partition_post,4,0.01881538731641966,91,17,0.1491241455078125,True,-6.661338147750939e-16,timber_shed,timber shed,architectural element
+objaverse-48cfc290cc7944f8bd506dc160a57473,rotate,True,sill,2,0.03244854492121077,91,17,0.21202945709228516,True,-4.440892098500626e-16,timber_shed,timber shed,architectural element
+objaverse-48cfc290cc7944f8bd506dc160a57473,same,False,,0,0.0,91,17,0.0,False,-4.440892098500626e-16,timber_shed,timber shed,architectural element
+objaverse-48cfc290cc7944f8bd506dc160a57473,turn,False,,0,0.0,91,17,0.19580745697021484,True,-2.220446049250313e-16,timber_shed,timber shed,architectural element
+objaverse-ed00230879134e8c9b457f7cff7d1ae4,remove,True,handle,2,0.15323817345056406,10,7,0.03280830383300781,True,0.0,wheelbarrow,wheelbarrow,vehicle
+objaverse-ed00230879134e8c9b457f7cff7d1ae4,float,True,tray_shell,1,0.1416862374890817,10,7,0.09035110473632812,True,0.1416862374890817,wheelbarrow,wheelbarrow,vehicle
+objaverse-ed00230879134e8c9b457f7cff7d1ae4,shrink,True,handle,2,0.15323817345056406,10,7,0.029969215393066406,True,0.0,wheelbarrow,wheelbarrow,vehicle
+objaverse-ed00230879134e8c9b457f7cff7d1ae4,grow,True,tray_shell,1,0.1416862374890817,10,7,0.07876014709472656,True,0.0,wheelbarrow,wheelbarrow,vehicle
+objaverse-ed00230879134e8c9b457f7cff7d1ae4,rotate,True,rim_strip,1,0.011616817028327916,10,7,0.06866264343261719,True,0.0,wheelbarrow,wheelbarrow,vehicle
+objaverse-ed00230879134e8c9b457f7cff7d1ae4,same,False,,0,0.0,10,7,0.0,False,0.0,wheelbarrow,wheelbarrow,vehicle
+objaverse-ed00230879134e8c9b457f7cff7d1ae4,turn,False,,0,0.0,10,7,0.05073070526123047,True,0.0,wheelbarrow,wheelbarrow,vehicle
+objaverse-8ae7ce20a306436e92e5684161068c3f,remove,True,paper,2,0.4853657114666808,3,2,0.06351184844970703,True,0.0,book,book,stationery
+objaverse-8ae7ce20a306436e92e5684161068c3f,float,True,paper,2,0.4853657114666808,3,2,0.16613292694091797,True,0.4853657114666807,book,book,stationery
+objaverse-8ae7ce20a306436e92e5684161068c3f,shrink,True,paper,2,0.4853657114666808,3,2,0.06485462188720703,True,0.13111507268734324,book,book,stationery
+objaverse-8ae7ce20a306436e92e5684161068c3f,grow,True,paper,2,0.4853657114666808,3,2,0.09527111053466797,True,0.0,book,book,stationery
+objaverse-8ae7ce20a306436e92e5684161068c3f,rotate,True,paper,2,0.4853657114666808,3,2,0.1438579559326172,True,0.0,book,book,stationery
+objaverse-8ae7ce20a306436e92e5684161068c3f,same,False,,0,0.0,3,2,0.0,False,0.0,book,book,stationery
+objaverse-8ae7ce20a306436e92e5684161068c3f,turn,False,,0,0.0,3,2,0.12798404693603516,True,0.0,book,book,stationery
+objaverse-0097d61ee71e41a1a593a0a8127ce339,remove,True,curved_jaw,1,0.17863147533024576,6,6,0.032825469970703125,True,0.0,pipe_wrench,pipe wrench,hand tool
+objaverse-0097d61ee71e41a1a593a0a8127ce339,float,True,gripping_jaw,1,0.05330800122972305,6,6,0.023240089416503906,True,0.0,pipe_wrench,pipe wrench,hand tool
+objaverse-0097d61ee71e41a1a593a0a8127ce339,shrink,True,red_neck,1,0.13618985027795233,6,6,0.006100654602050781,True,0.4128090410645112,pipe_wrench,pipe wrench,hand tool
+objaverse-0097d61ee71e41a1a593a0a8127ce339,grow,True,curved_jaw,1,0.17863147533024576,6,6,0.059841156005859375,True,0.0,pipe_wrench,pipe wrench,hand tool
+objaverse-0097d61ee71e41a1a593a0a8127ce339,rotate,True,jaw_shank,1,0.11752717666527296,6,6,0.03724193572998047,True,0.0,pipe_wrench,pipe wrench,hand tool
+objaverse-0097d61ee71e41a1a593a0a8127ce339,same,False,,0,0.0,6,6,0.0,False,0.0,pipe_wrench,pipe wrench,hand tool
+objaverse-0097d61ee71e41a1a593a0a8127ce339,turn,False,,0,0.0,6,6,0.09830760955810547,True,0.0,pipe_wrench,pipe wrench,hand tool
+objaverse-0d950a42cfe04dc6bf7e94d6a5144d38,remove,True,bottom_ledge,1,0.07123511011457649,13,10,0.033294677734375,True,0.0,folded_enclosure,folded enclosure,architectural element
+objaverse-0d950a42cfe04dc6bf7e94d6a5144d38,float,True,angular_support,2,0.024792942490161368,13,10,0.07866477966308594,True,0.0,folded_enclosure,folded enclosure,architectural element
+objaverse-0d950a42cfe04dc6bf7e94d6a5144d38,shrink,True,bottom_ledge,1,0.07123511011457649,13,10,0.03088665008544922,True,0.012123029292663623,folded_enclosure,folded enclosure,architectural element
+objaverse-0d950a42cfe04dc6bf7e94d6a5144d38,grow,True,upright,1,0.14809443982935444,13,10,0.11111068725585938,True,0.0,folded_enclosure,folded enclosure,architectural element
+objaverse-0d950a42cfe04dc6bf7e94d6a5144d38,rotate,True,recess,1,0.03123530748888868,13,10,0.04886341094970703,True,0.0,folded_enclosure,folded enclosure,architectural element
+objaverse-0d950a42cfe04dc6bf7e94d6a5144d38,same,False,,0,0.0,13,10,0.0,False,0.0,folded_enclosure,folded enclosure,architectural element
+objaverse-0d950a42cfe04dc6bf7e94d6a5144d38,turn,False,,0,0.0,13,10,0.23882484436035156,True,0.0,folded_enclosure,folded enclosure,architectural element
+objaverse-bada5b8ee7ff4bcab1fa898cb45115d4,remove,True,grey_base,2,0.0805552248306006,7,4,0.006814002990722656,True,0.0,faceted_egg,faceted egg,toy or game
+objaverse-bada5b8ee7ff4bcab1fa898cb45115d4,float,True,blue_point,2,0.03563335421176687,7,4,0.024507522583007812,True,0.03563335421176683,faceted_egg,faceted egg,toy or game
+objaverse-bada5b8ee7ff4bcab1fa898cb45115d4,shrink,True,grey_base,2,0.0805552248306006,7,4,0.006852149963378906,True,0.0,faceted_egg,faceted egg,toy or game
+objaverse-bada5b8ee7ff4bcab1fa898cb45115d4,grow,True,blue_point,2,0.03563335421176687,7,4,0.017488479614257812,True,0.0,faceted_egg,faceted egg,toy or game
+objaverse-bada5b8ee7ff4bcab1fa898cb45115d4,rotate,True,dark_fold,2,0.04664976116992417,7,4,0.036606788635253906,True,0.01946421117669761,faceted_egg,faceted egg,toy or game
+objaverse-bada5b8ee7ff4bcab1fa898cb45115d4,same,False,,0,0.0,7,4,0.0,False,0.0,faceted_egg,faceted egg,toy or game
+objaverse-bada5b8ee7ff4bcab1fa898cb45115d4,turn,False,,0,0.0,7,4,0.07209014892578125,True,0.0,faceted_egg,faceted egg,toy or game
+objaverse-41bed731f76c4a7db3cd8629fbdbb537,remove,True,plate,1,0.4079056533410019,5,5,0.10222530364990234,True,0.0,disc_machine,disc machine,electronics
+objaverse-41bed731f76c4a7db3cd8629fbdbb537,float,True,plate,1,0.4079056533410019,5,5,0.031914710998535156,True,0.40790565334100193,disc_machine,disc machine,electronics
+objaverse-41bed731f76c4a7db3cd8629fbdbb537,shrink,True,plate,1,0.4079056533410019,5,5,0.09974002838134766,True,0.0,disc_machine,disc machine,electronics
+objaverse-41bed731f76c4a7db3cd8629fbdbb537,grow,True,drum,1,0.07704540407759501,5,5,0.0491180419921875,True,0.0,disc_machine,disc machine,electronics
+objaverse-41bed731f76c4a7db3cd8629fbdbb537,rotate,True,plate,1,0.4079056533410019,5,5,0.12848186492919922,True,0.0,disc_machine,disc machine,electronics
+objaverse-41bed731f76c4a7db3cd8629fbdbb537,same,False,,0,0.0,5,5,0.0,False,0.0,disc_machine,disc machine,electronics
+objaverse-41bed731f76c4a7db3cd8629fbdbb537,turn,False,,0,0.0,5,5,0.0831766128540039,True,0.0,disc_machine,disc machine,electronics
+objaverse-5c08e35f64bf44aa82ab32ea5a65a1de,remove,True,central_web,1,0.2240123596484311,41,3,0.015463829040527344,True,7.771561172376096e-16,sleeve,sleeve,machine or industrial
+objaverse-5c08e35f64bf44aa82ab32ea5a65a1de,float,True,central_web,1,0.2240123596484311,41,3,0.10635089874267578,True,5.551115123125783e-16,sleeve,sleeve,machine or industrial
+objaverse-5c08e35f64bf44aa82ab32ea5a65a1de,shrink,True,central_web,1,0.2240123596484311,41,3,0.01599597930908203,True,0.0441496303579938,sleeve,sleeve,machine or industrial
+objaverse-5c08e35f64bf44aa82ab32ea5a65a1de,grow,True,central_web,1,0.2240123596484311,41,3,0.20342063903808594,True,3.3306690738754696e-16,sleeve,sleeve,machine or industrial
+objaverse-5c08e35f64bf44aa82ab32ea5a65a1de,rotate,True,central_web,1,0.2240123596484311,41,3,0.15415287017822266,True,5.551115123125783e-16,sleeve,sleeve,machine or industrial
+objaverse-5c08e35f64bf44aa82ab32ea5a65a1de,same,False,,0,0.0,41,3,0.0,False,5.551115123125783e-16,sleeve,sleeve,machine or industrial
+objaverse-5c08e35f64bf44aa82ab32ea5a65a1de,turn,False,,0,0.0,41,3,3.814697265625e-06,False,5.551115123125783e-16,sleeve,sleeve,machine or industrial
+objaverse-0053cdf8742e4d8f98874a4124aea9d8,remove,True,collar,1,0.07128368547715545,19,10,0.008021354675292969,True,0.16577329449450107,flask,flask,container
+objaverse-0053cdf8742e4d8f98874a4124aea9d8,float,True,loop,1,0.0870532154068428,19,10,0.07847404479980469,True,0.08705321540684285,flask,flask,container
+objaverse-0053cdf8742e4d8f98874a4124aea9d8,shrink,True,stopper_core,1,0.05506951407595571,19,10,0.007353782653808594,True,0.009238479454620974,flask,flask,container
+objaverse-0053cdf8742e4d8f98874a4124aea9d8,grow,True,stopper_core,1,0.05506951407595571,19,10,0.056354522705078125,True,0.0,flask,flask,container
+objaverse-0053cdf8742e4d8f98874a4124aea9d8,rotate,True,collar,1,0.07128368547715545,19,10,0.008625984191894531,True,0.0050415480319823125,flask,flask,container
+objaverse-0053cdf8742e4d8f98874a4124aea9d8,same,False,,0,0.0,19,10,0.0,False,1.1102230246251565e-16,flask,flask,container
+objaverse-0053cdf8742e4d8f98874a4124aea9d8,turn,False,,0,0.0,19,10,0.05065727233886719,True,0.0,flask,flask,container
+objaverse-a66d8c701c744e5f86e1360fd5bfa55b,remove,True,post,4,0.08624819411693241,6,3,0.06300067901611328,True,0.0,industrial_bin,industrial bin,aircraft or spacecraft
+objaverse-a66d8c701c744e5f86e1360fd5bfa55b,float,True,cross_bar,1,0.15541582310663546,6,3,0.12239360809326172,True,0.0,industrial_bin,industrial bin,aircraft or spacecraft
+objaverse-a66d8c701c744e5f86e1360fd5bfa55b,shrink,True,post,4,0.08624819411693241,6,3,0.06300067901611328,True,0.0,industrial_bin,industrial bin,aircraft or spacecraft
+objaverse-a66d8c701c744e5f86e1360fd5bfa55b,grow,True,post,4,0.08624819411693241,6,3,0.21935367584228516,True,0.0,industrial_bin,industrial bin,aircraft or spacecraft
+objaverse-a66d8c701c744e5f86e1360fd5bfa55b,rotate,True,cross_bar,1,0.15541582310663546,6,3,0.011203765869140625,True,0.0,industrial_bin,industrial bin,aircraft or spacecraft
+objaverse-a66d8c701c744e5f86e1360fd5bfa55b,same,False,,0,0.0,6,3,0.0,False,0.0,industrial_bin,industrial bin,aircraft or spacecraft
+objaverse-a66d8c701c744e5f86e1360fd5bfa55b,turn,False,,0,0.0,6,3,0.3262004852294922,True,0.0,industrial_bin,industrial bin,aircraft or spacecraft
+objaverse-f9bfe7047d2a4689947bdc8ba835a2c0,remove,True,neck,1,0.13886338492776398,5,3,0.11696434020996094,True,0.0,vessel,vessel,lighting
+objaverse-f9bfe7047d2a4689947bdc8ba835a2c0,float,True,neck,1,0.13886338492776398,5,3,0.12832069396972656,True,0.13886338492776396,vessel,vessel,lighting
+objaverse-f9bfe7047d2a4689947bdc8ba835a2c0,shrink,True,loop,3,0.08790442990796532,5,3,0.061492919921875,True,0.0,vessel,vessel,lighting
+objaverse-f9bfe7047d2a4689947bdc8ba835a2c0,grow,True,loop,3,0.08790442990796532,5,3,0.07729625701904297,True,0.0,vessel,vessel,lighting
+objaverse-f9bfe7047d2a4689947bdc8ba835a2c0,rotate,True,neck,1,0.13886338492776398,5,3,0.12856674194335938,True,0.0,vessel,vessel,lighting
+objaverse-f9bfe7047d2a4689947bdc8ba835a2c0,same,False,,0,0.0,5,3,0.0,False,0.0,vessel,vessel,lighting
+objaverse-f9bfe7047d2a4689947bdc8ba835a2c0,turn,False,,0,0.0,5,3,0.09714698791503906,True,0.0,vessel,vessel,lighting
+objaverse-baa8ab9f9ed2484e86a0ac94511fdc45,remove,True,lower_ledge,1,0.2326978969322756,4,4,0.02959918975830078,True,0.4366399985679412,pedestal_drive,pedestal drive,machine or industrial
+objaverse-baa8ab9f9ed2484e86a0ac94511fdc45,float,True,foot,1,0.09342246264432165,4,4,0.061275482177734375,True,0.09342246264432164,pedestal_drive,pedestal drive,machine or industrial
+objaverse-baa8ab9f9ed2484e86a0ac94511fdc45,shrink,True,barrel,1,0.3350347891846694,4,4,0.08089828491210938,True,0.07460025926327829,pedestal_drive,pedestal drive,machine or industrial
+objaverse-baa8ab9f9ed2484e86a0ac94511fdc45,grow,True,barrel,1,0.3350347891846694,4,4,0.09749984741210938,True,0.0,pedestal_drive,pedestal drive,machine or industrial
+objaverse-baa8ab9f9ed2484e86a0ac94511fdc45,rotate,True,lower_ledge,1,0.2326978969322756,4,4,0.029463768005371094,True,0.0,pedestal_drive,pedestal drive,machine or industrial
+objaverse-baa8ab9f9ed2484e86a0ac94511fdc45,same,False,,0,0.0,4,4,0.0,False,0.0,pedestal_drive,pedestal drive,machine or industrial
+objaverse-baa8ab9f9ed2484e86a0ac94511fdc45,turn,False,,0,0.0,4,4,0.10083675384521484,True,0.0,pedestal_drive,pedestal drive,machine or industrial
+objaverse-1ecfac4bcf1c4c3da71a2fa079321956,remove,True,stone,1,0.19642231730484708,18,10,0.07765960693359375,True,-2.220446049250313e-16,grindstone,grindstone,hand tool
+objaverse-1ecfac4bcf1c4c3da71a2fa079321956,float,True,platform,1,0.13099304550275195,18,10,0.072540283203125,True,0.13099304550275193,grindstone,grindstone,hand tool
+objaverse-1ecfac4bcf1c4c3da71a2fa079321956,shrink,True,stone,1,0.19642231730484708,18,10,0.07865428924560547,True,-2.220446049250313e-16,grindstone,grindstone,hand tool
+objaverse-1ecfac4bcf1c4c3da71a2fa079321956,grow,True,crank,1,0.01594951330272792,18,10,0.066162109375,True,0.0608848042260971,grindstone,grindstone,hand tool
+objaverse-1ecfac4bcf1c4c3da71a2fa079321956,rotate,True,leg,4,0.12670056444534578,18,10,0.1437816619873047,True,0.12670056444534572,grindstone,grindstone,hand tool
+objaverse-1ecfac4bcf1c4c3da71a2fa079321956,same,False,,0,0.0,18,10,0.0,False,-2.220446049250313e-16,grindstone,grindstone,hand tool
+objaverse-1ecfac4bcf1c4c3da71a2fa079321956,turn,False,,0,0.0,18,10,0.13899517059326172,True,0.0,grindstone,grindstone,hand tool
+objaverse-85b0ddbc7d8b4c32b55082068e007586,remove,True,bottom_stem,1,0.08074830300077507,6,6,0.14076995849609375,True,0.0,gauge,gauge,measuring instrument
+objaverse-85b0ddbc7d8b4c32b55082068e007586,float,True,lip,1,0.20522589291471988,6,6,0.07440185546875,True,0.20522589291471982,gauge,gauge,measuring instrument
+objaverse-85b0ddbc7d8b4c32b55082068e007586,shrink,True,top_stem,1,0.05078774490206452,6,6,0.04017353057861328,True,0.008488158504536547,gauge,gauge,measuring instrument
+objaverse-85b0ddbc7d8b4c32b55082068e007586,grow,True,angled_shaft,1,0.030533425469892413,6,6,0.05594921112060547,True,0.0,gauge,gauge,measuring instrument
+objaverse-85b0ddbc7d8b4c32b55082068e007586,rotate,True,lip,1,0.20522589291471988,6,6,0.07140731811523438,True,0.0,gauge,gauge,measuring instrument
+objaverse-85b0ddbc7d8b4c32b55082068e007586,same,False,,0,0.0,6,6,0.0,False,0.0,gauge,gauge,measuring instrument
+objaverse-85b0ddbc7d8b4c32b55082068e007586,turn,False,,0,0.0,6,6,0.08653068542480469,True,0.0,gauge,gauge,measuring instrument
+objaverse-b5cfe1cc7e5f48ea8c6c46e1cd76a4bf,remove,True,walls,1,0.4670052483300386,3,2,0.057991981506347656,True,0.5,ring,ring,sports equipment
+objaverse-b5cfe1cc7e5f48ea8c6c46e1cd76a4bf,float,True,walls,1,0.4670052483300386,3,2,0.0777139663696289,True,0.0,ring,ring,sports equipment
+objaverse-b5cfe1cc7e5f48ea8c6c46e1cd76a4bf,shrink,True,walls,1,0.4670052483300386,3,2,0.06603527069091797,True,0.561476816449888,ring,ring,sports equipment
+objaverse-b5cfe1cc7e5f48ea8c6c46e1cd76a4bf,grow,True,walls,1,0.4670052483300386,3,2,0.022057533264160156,True,0.0,ring,ring,sports equipment
+objaverse-b5cfe1cc7e5f48ea8c6c46e1cd76a4bf,rotate,True,walls,1,0.4670052483300386,3,2,0.13586044311523438,True,0.0,ring,ring,sports equipment
+objaverse-b5cfe1cc7e5f48ea8c6c46e1cd76a4bf,same,False,,0,0.0,3,2,0.0,False,0.0,ring,ring,sports equipment
+objaverse-b5cfe1cc7e5f48ea8c6c46e1cd76a4bf,turn,False,,0,0.0,3,2,0.16178512573242188,True,0.0,ring,ring,sports equipment
+objaverse-a9fa5d325b1f4b2b84c212faf1254ccf,remove,True,head,1,0.1860164976086672,6,6,0.018134117126464844,True,0.19590836293046965,ice_tool,ice tool,hand tool
+objaverse-a9fa5d325b1f4b2b84c212faf1254ccf,float,True,head,1,0.1860164976086672,6,6,0.0380096435546875,True,0.34548267301456326,ice_tool,ice tool,hand tool
+objaverse-a9fa5d325b1f4b2b84c212faf1254ccf,shrink,True,grip,1,0.20915924901667426,6,6,0.007031440734863281,True,0.14745736640253515,ice_tool,ice tool,hand tool
+objaverse-a9fa5d325b1f4b2b84c212faf1254ccf,grow,True,grip,1,0.20915924901667426,6,6,0.03629112243652344,True,0.0,ice_tool,ice tool,hand tool
+objaverse-a9fa5d325b1f4b2b84c212faf1254ccf,rotate,True,heel,1,0.08808454606413339,6,6,0.02042865753173828,True,0.0,ice_tool,ice tool,hand tool
+objaverse-a9fa5d325b1f4b2b84c212faf1254ccf,same,False,,0,0.0,6,6,0.0,False,0.0,ice_tool,ice tool,hand tool
+objaverse-a9fa5d325b1f4b2b84c212faf1254ccf,turn,False,,0,0.0,6,6,0.06578540802001953,True,0.0,ice_tool,ice tool,hand tool
+objaverse-99a7c7a7214349a3bf19bd33c6937604,remove,True,shaft,1,0.23737910815083466,4,4,0.057076454162597656,True,0.0,screwdriver,screwdriver,weapon or armour
+objaverse-99a7c7a7214349a3bf19bd33c6937604,float,True,shaft,1,0.23737910815083466,4,4,0.014131546020507812,True,0.23737910815083463,screwdriver,screwdriver,weapon or armour
+objaverse-99a7c7a7214349a3bf19bd33c6937604,shrink,True,shaft,1,0.23737910815083466,4,4,0.01499176025390625,True,0.04744014965284693,screwdriver,screwdriver,weapon or armour
+objaverse-99a7c7a7214349a3bf19bd33c6937604,grow,True,collar,1,0.16619524124961435,4,4,0.026706695556640625,True,0.0,screwdriver,screwdriver,weapon or armour
+objaverse-99a7c7a7214349a3bf19bd33c6937604,rotate,True,collar,1,0.16619524124961435,4,4,0.012942314147949219,True,0.45833342290694645,screwdriver,screwdriver,weapon or armour
+objaverse-99a7c7a7214349a3bf19bd33c6937604,same,False,,0,0.0,4,4,0.0,False,0.0,screwdriver,screwdriver,weapon or armour
+objaverse-99a7c7a7214349a3bf19bd33c6937604,turn,False,,0,0.0,4,4,0.03377342224121094,True,0.0,screwdriver,screwdriver,weapon or armour
+objaverse-02ad13d480374ca9815299ea82dc8648,remove,True,rail,1,0.3284382684633395,3,3,0.018268585205078125,True,0.3385046414516202,ragged_ladder,ragged ladder,hand tool
+objaverse-02ad13d480374ca9815299ea82dc8648,float,True,foot,1,0.2273267631464465,3,3,0.03831958770751953,True,0.2273267631464465,ragged_ladder,ragged ladder,hand tool
+objaverse-02ad13d480374ca9815299ea82dc8648,shrink,True,rail,1,0.3284382684633395,3,3,0.01959705352783203,True,0.3865105706595481,ragged_ladder,ragged ladder,hand tool
+objaverse-02ad13d480374ca9815299ea82dc8648,grow,True,foot,1,0.2273267631464465,3,3,0.06789016723632812,True,0.0,ragged_ladder,ragged ladder,hand tool
+objaverse-02ad13d480374ca9815299ea82dc8648,rotate,True,rail,1,0.3284382684633395,3,3,0.05362987518310547,True,0.2273267631464465,ragged_ladder,ragged ladder,hand tool
+objaverse-02ad13d480374ca9815299ea82dc8648,same,False,,0,0.0,3,3,0.0,False,0.0,ragged_ladder,ragged ladder,hand tool
+objaverse-02ad13d480374ca9815299ea82dc8648,turn,False,,0,0.0,3,3,0.08403491973876953,True,0.0,ragged_ladder,ragged ladder,hand tool
+objaverse-4f9fcd42456c4a209a11caa26bbe71ae,remove,True,housing,2,0.2064141070779747,5,3,0.007063865661621094,True,0.1033968618869775,cable,cable,electronics
+objaverse-4f9fcd42456c4a209a11caa26bbe71ae,float,True,tip,2,0.08205429096591234,5,3,0.023613929748535156,True,0.08205429096591221,cable,cable,electronics
+objaverse-4f9fcd42456c4a209a11caa26bbe71ae,shrink,True,tip,2,0.08205429096591234,5,3,0.008193016052246094,True,0.01410057737249426,cable,cable,electronics
+objaverse-4f9fcd42456c4a209a11caa26bbe71ae,grow,True,housing,2,0.2064141070779747,5,3,0.018215179443359375,True,0.0506744975041068,cable,cable,electronics
+objaverse-4f9fcd42456c4a209a11caa26bbe71ae,rotate,True,housing,2,0.2064141070779747,5,3,0.018632888793945312,True,0.288468398043887,cable,cable,electronics
+objaverse-4f9fcd42456c4a209a11caa26bbe71ae,same,False,,0,0.0,5,3,0.0,False,0.0,cable,cable,electronics
+objaverse-4f9fcd42456c4a209a11caa26bbe71ae,turn,False,,0,0.0,5,3,0.023514747619628906,True,0.0,cable,cable,electronics
+objaverse-76a5c63001e14041be291a5b1a3d924b,remove,True,hub,1,0.0296617179171278,6,4,0.005858421325683594,True,0.0,turbine,turbine,machine or industrial
+objaverse-76a5c63001e14041be291a5b1a3d924b,float,True,hub,1,0.0296617179171278,6,4,0.026031494140625,True,0.029661717917127906,turbine,turbine,machine or industrial
+objaverse-76a5c63001e14041be291a5b1a3d924b,shrink,True,nacelle,1,0.1811736396230877,6,4,0.02502727508544922,True,0.29485715328511297,turbine,turbine,machine or industrial
+objaverse-76a5c63001e14041be291a5b1a3d924b,grow,True,hub,1,0.0296617179171278,6,4,0.015350341796875,True,0.0,turbine,turbine,machine or industrial
+objaverse-76a5c63001e14041be291a5b1a3d924b,rotate,True,blade,3,0.19133456437945504,6,4,0.045533180236816406,True,0.19133456437945506,turbine,turbine,machine or industrial
+objaverse-76a5c63001e14041be291a5b1a3d924b,same,False,,0,0.0,6,4,0.0,False,0.0,turbine,turbine,machine or industrial
+objaverse-76a5c63001e14041be291a5b1a3d924b,turn,False,,0,0.0,6,4,0.02965068817138672,True,0.0,turbine,turbine,machine or industrial
+objaverse-7c176cd6bdec4a9ea5eafdb915b502c3,remove,True,lower_panel,1,0.05415172343192274,27,12,0.005482673645019531,True,-2.220446049250313e-16,enclosure,enclosure,furniture
+objaverse-7c176cd6bdec4a9ea5eafdb915b502c3,float,True,cabinet_front,1,0.018294834145957648,27,12,0.07688140869140625,True,0.0,enclosure,enclosure,furniture
+objaverse-7c176cd6bdec4a9ea5eafdb915b502c3,shrink,True,platform,1,0.15139400392394753,27,12,0.014751434326171875,True,0.027752331337768443,enclosure,enclosure,furniture
+objaverse-7c176cd6bdec4a9ea5eafdb915b502c3,grow,True,cabinet_front,1,0.018294834145957648,27,12,0.09046363830566406,True,0.0,enclosure,enclosure,furniture
+objaverse-7c176cd6bdec4a9ea5eafdb915b502c3,rotate,True,bottom_rail,3,0.02101317035160702,27,12,0.17930030822753906,True,0.0,enclosure,enclosure,furniture
+objaverse-7c176cd6bdec4a9ea5eafdb915b502c3,same,False,,0,0.0,27,12,0.0,False,0.0,enclosure,enclosure,furniture
+objaverse-7c176cd6bdec4a9ea5eafdb915b502c3,turn,False,,0,0.0,27,12,0.29574108123779297,True,0.0,enclosure,enclosure,furniture
+objaverse-afba570e709742d081039782c7c1599f,remove,True,panel,1,0.24253694572619772,24,7,0.04771232604980469,True,0.11567105523215859,console,console,furniture
+objaverse-afba570e709742d081039782c7c1599f,float,True,plinth,1,0.14798380315190282,24,7,0.07365894317626953,True,0.14798380315190296,console,console,furniture
+objaverse-afba570e709742d081039782c7c1599f,shrink,True,panel,1,0.24253694572619772,24,7,0.040676116943359375,True,0.15876854124252315,console,console,furniture
+objaverse-afba570e709742d081039782c7c1599f,grow,True,plinth,1,0.14798380315190282,24,7,0.1352825164794922,True,0.0,console,console,furniture
+objaverse-afba570e709742d081039782c7c1599f,rotate,True,shelf,2,0.1317564237583472,24,7,0.018157958984375,True,0.13175642375834717,console,console,furniture
+objaverse-afba570e709742d081039782c7c1599f,same,False,,0,0.0,24,7,0.0,False,1.1102230246251565e-16,console,console,furniture
+objaverse-afba570e709742d081039782c7c1599f,turn,False,,0,0.0,24,7,0.11680126190185547,True,-4.440892098500626e-16,console,console,furniture
+objaverse-9fb4a7c5018049adbfd337fe149611d2,remove,True,wire,2,0.40491167769119846,3,2,0.11109542846679688,True,0.0,resistor,resistor,electronics
+objaverse-9fb4a7c5018049adbfd337fe149611d2,float,True,wire,2,0.40491167769119846,3,2,0.04290580749511719,True,0.4049116776911985,resistor,resistor,electronics
+objaverse-9fb4a7c5018049adbfd337fe149611d2,shrink,True,wire,2,0.40491167769119846,3,2,0.022962570190429688,True,0.0981791216261978,resistor,resistor,electronics
+objaverse-9fb4a7c5018049adbfd337fe149611d2,grow,True,wire,2,0.40491167769119846,3,2,0.02076435089111328,True,0.0,resistor,resistor,electronics
+objaverse-9fb4a7c5018049adbfd337fe149611d2,rotate,True,wire,2,0.40491167769119846,3,2,0.02459239959716797,True,0.4049116776911985,resistor,resistor,electronics
+objaverse-9fb4a7c5018049adbfd337fe149611d2,same,False,,0,0.0,3,2,0.0,False,0.0,resistor,resistor,electronics
+objaverse-9fb4a7c5018049adbfd337fe149611d2,turn,False,,0,0.0,3,2,0.03699493408203125,True,0.0,resistor,resistor,electronics
+objaverse-dfc211c9948a47b794839c4e2a15ca04,remove,True,rear_wheel,2,0.06212434703951937,7,4,0.016092300415039062,True,0.0,skateboard,skateboard,sports equipment
+objaverse-dfc211c9948a47b794839c4e2a15ca04,float,True,front_wheel,2,0.058719094345739804,7,4,0.02689361572265625,True,0.05871909434573985,skateboard,skateboard,sports equipment
+objaverse-dfc211c9948a47b794839c4e2a15ca04,shrink,True,rear_wheel,2,0.06212434703951937,7,4,0.01591777801513672,True,0.0,skateboard,skateboard,sports equipment
+objaverse-dfc211c9948a47b794839c4e2a15ca04,grow,True,front_wheel,2,0.058719094345739804,7,4,0.03864765167236328,True,0.0,skateboard,skateboard,sports equipment
+objaverse-dfc211c9948a47b794839c4e2a15ca04,rotate,True,axle,2,0.13814359821273536,7,4,0.0355224609375,True,0.12084344138525926,skateboard,skateboard,sports equipment
+objaverse-dfc211c9948a47b794839c4e2a15ca04,same,False,,0,0.0,7,4,0.0,False,0.0,skateboard,skateboard,sports equipment
+objaverse-dfc211c9948a47b794839c4e2a15ca04,turn,False,,0,0.0,7,4,0.09623432159423828,True,0.0,skateboard,skateboard,sports equipment
+objaverse-f9bf195efe314bbca309a95664d6ef82,remove,True,panel,1,0.14890524182341414,6,5,0.005527496337890625,True,0.0,housing,housing,electronics
+objaverse-f9bf195efe314bbca309a95664d6ef82,float,True,panel,1,0.14890524182341414,6,5,0.11119461059570312,True,0.14890524182341425,housing,housing,electronics
+objaverse-f9bf195efe314bbca309a95664d6ef82,shrink,True,base,1,0.2618459794793188,6,5,0.09607410430908203,True,0.053708595813598214,housing,housing,electronics
+objaverse-f9bf195efe314bbca309a95664d6ef82,grow,True,base,1,0.2618459794793188,6,5,0.2148904800415039,True,0.0,housing,housing,electronics
+objaverse-f9bf195efe314bbca309a95664d6ef82,rotate,True,base,1,0.2618459794793188,6,5,0.1478128433227539,True,0.0,housing,housing,electronics
+objaverse-f9bf195efe314bbca309a95664d6ef82,same,False,,0,0.0,6,5,0.0,False,0.0,housing,housing,electronics
+objaverse-f9bf195efe314bbca309a95664d6ef82,turn,False,,0,0.0,6,5,0.245513916015625,True,0.0,housing,housing,electronics
+objaverse-356a3acb00164c698d657146caa5ebf3,remove,True,ridge,1,0.33340371697526094,4,3,0.025544166564941406,True,0.0,spacecraft,spacecraft,aircraft or spacecraft
+objaverse-356a3acb00164c698d657146caa5ebf3,float,True,ridge,1,0.33340371697526094,4,3,0.03159523010253906,True,0.0,spacecraft,spacecraft,aircraft or spacecraft
+objaverse-356a3acb00164c698d657146caa5ebf3,shrink,True,lobe,2,0.15434456338251568,4,3,0.020811080932617188,True,0.028373773838248573,spacecraft,spacecraft,aircraft or spacecraft
+objaverse-356a3acb00164c698d657146caa5ebf3,grow,True,lobe,2,0.15434456338251568,4,3,0.03501701354980469,True,0.0,spacecraft,spacecraft,aircraft or spacecraft
+objaverse-356a3acb00164c698d657146caa5ebf3,rotate,True,ridge,1,0.33340371697526094,4,3,0.023367881774902344,True,0.0,spacecraft,spacecraft,aircraft or spacecraft
+objaverse-356a3acb00164c698d657146caa5ebf3,same,False,,0,0.0,4,3,0.0,False,0.0,spacecraft,spacecraft,aircraft or spacecraft
+objaverse-356a3acb00164c698d657146caa5ebf3,turn,False,,0,0.0,4,3,0.09369945526123047,True,0.0,spacecraft,spacecraft,aircraft or spacecraft
+objaverse-195a33d1b8f74fb59a082b7b5ae158c9,remove,True,collar,1,0.23715717675055287,3,3,0.039359092712402344,True,0.0,beverage_can,beverage can,packaging
+objaverse-195a33d1b8f74fb59a082b7b5ae158c9,float,True,tab,1,0.0224663447702468,3,3,0.0646810531616211,True,0.022466344770246893,beverage_can,beverage can,packaging
+objaverse-195a33d1b8f74fb59a082b7b5ae158c9,shrink,True,collar,1,0.23715717675055287,3,3,0.039267539978027344,True,0.04738476304484407,beverage_can,beverage can,packaging
+objaverse-195a33d1b8f74fb59a082b7b5ae158c9,grow,True,collar,1,0.23715717675055287,3,3,0.16731929779052734,True,0.0,beverage_can,beverage can,packaging
+objaverse-195a33d1b8f74fb59a082b7b5ae158c9,rotate,True,tab,1,0.0224663447702468,3,3,0.011303901672363281,True,0.0,beverage_can,beverage can,packaging
+objaverse-195a33d1b8f74fb59a082b7b5ae158c9,same,False,,0,0.0,3,3,0.0,False,0.0,beverage_can,beverage can,packaging
+objaverse-195a33d1b8f74fb59a082b7b5ae158c9,turn,False,,0,0.0,3,3,0.02904987335205078,True,0.0,beverage_can,beverage can,packaging
+objaverse-ca37c639ef6343b4a1c4bbc20fe0598c,remove,True,curved_band,4,0.09811400549020165,7,3,0.03306293487548828,True,0.0,runner,runner,architectural element
+objaverse-ca37c639ef6343b4a1c4bbc20fe0598c,float,True,curved_band,4,0.09811400549020165,7,3,0.04421043395996094,True,0.09811400549020144,runner,runner,architectural element
+objaverse-ca37c639ef6343b4a1c4bbc20fe0598c,shrink,True,curved_band,4,0.09811400549020165,7,3,0.020422935485839844,True,0.004267194161141741,runner,runner,architectural element
+objaverse-ca37c639ef6343b4a1c4bbc20fe0598c,grow,True,curved_band,4,0.09811400549020165,7,3,0.02195262908935547,True,0.303208902258269,runner,runner,architectural element
+objaverse-ca37c639ef6343b4a1c4bbc20fe0598c,rotate,True,curved_band,4,0.09811400549020165,7,3,0.0181121826171875,True,0.09811400549020144,runner,runner,architectural element
+objaverse-ca37c639ef6343b4a1c4bbc20fe0598c,same,False,,0,0.0,7,3,0.0,False,0.0,runner,runner,architectural element
+objaverse-ca37c639ef6343b4a1c4bbc20fe0598c,turn,False,,0,0.0,7,3,0.04120349884033203,True,0.0,runner,runner,architectural element
+objaverse-22994eff31394158a448024fa0c50ddc,remove,True,upright,1,0.010059573959270115,9,7,2.002716064453125e-05,False,0.006164707447972373,case,case,home appliance
+objaverse-22994eff31394158a448024fa0c50ddc,float,True,upright,1,0.010059573959270115,9,7,0.08506011962890625,True,0.016162267076732517,case,case,home appliance
+objaverse-22994eff31394158a448024fa0c50ddc,shrink,True,upright,1,0.010059573959270115,9,7,2.288818359375e-05,False,0.0061547005967765855,case,case,home appliance
+objaverse-22994eff31394158a448024fa0c50ddc,grow,True,upright,1,0.010059573959270115,9,7,0.03513908386230469,True,0.0059239168775863105,case,case,home appliance
+objaverse-22994eff31394158a448024fa0c50ddc,rotate,True,upright,1,0.010059573959270115,9,7,0.00051116943359375,False,0.0061026931174622545,case,case,home appliance
+objaverse-22994eff31394158a448024fa0c50ddc,same,False,,0,0.0,9,7,0.0,False,0.0061026931174622545,case,case,home appliance
+objaverse-22994eff31394158a448024fa0c50ddc,turn,False,,0,0.0,9,7,0.11990833282470703,True,0.0061026931174622545,case,case,home appliance
+objaverse-3fe2685bc4954936a91524f30129e9ba,remove,True,ferrule,1,0.20400092934119582,4,4,0.007000923156738281,True,0.09029277825803983,pencil,pencil,stationery
+objaverse-3fe2685bc4954936a91524f30129e9ba,float,True,eraser,1,0.07187296758060113,4,4,0.012513160705566406,True,0.07187296758060113,pencil,pencil,stationery
+objaverse-3fe2685bc4954936a91524f30129e9ba,shrink,True,ferrule,1,0.20400092934119582,4,4,0.006405830383300781,True,0.12612620044311473,pencil,pencil,stationery
+objaverse-3fe2685bc4954936a91524f30129e9ba,grow,True,ferrule,1,0.20400092934119582,4,4,0.026355743408203125,True,0.044586131062913315,pencil,pencil,stationery
+objaverse-3fe2685bc4954936a91524f30129e9ba,rotate,True,ferrule,1,0.20400092934119582,4,4,0.011783599853515625,True,0.2758738969217971,pencil,pencil,stationery
+objaverse-3fe2685bc4954936a91524f30129e9ba,same,False,,0,0.0,4,4,0.0,False,0.0,pencil,pencil,stationery
+objaverse-3fe2685bc4954936a91524f30129e9ba,turn,False,,0,0.0,4,4,0.06698131561279297,True,0.0,pencil,pencil,stationery
+objaverse-c375b1588dbe4e7aaa7110f8173510de,remove,True,post,4,0.051312612228933546,24,8,0.01012420654296875,True,0.2887546638609154,shelter,shelter,garden or outdoor
+objaverse-c375b1588dbe4e7aaa7110f8173510de,float,True,cross_brace,4,0.019441107367073964,24,8,0.08510208129882812,True,0.009720553683536748,shelter,shelter,garden or outdoor
+objaverse-c375b1588dbe4e7aaa7110f8173510de,shrink,True,slab,1,0.2549886427338845,24,8,0.0650625228881836,True,0.051918665726615854,shelter,shelter,garden or outdoor
+objaverse-c375b1588dbe4e7aaa7110f8173510de,grow,True,post,4,0.051312612228933546,24,8,0.10314273834228516,True,-2.220446049250313e-16,shelter,shelter,garden or outdoor
+objaverse-c375b1588dbe4e7aaa7110f8173510de,rotate,True,cross_brace,4,0.019441107367073964,24,8,0.07354259490966797,True,0.019441107367073718,shelter,shelter,garden or outdoor
+objaverse-c375b1588dbe4e7aaa7110f8173510de,same,False,,0,0.0,24,8,0.0,False,-2.220446049250313e-16,shelter,shelter,garden or outdoor
+objaverse-c375b1588dbe4e7aaa7110f8173510de,turn,False,,0,0.0,24,8,0.1395092010498047,True,-2.220446049250313e-16,shelter,shelter,garden or outdoor
+objaverse-d5bd8273db9e4c08aea9acbd358c11c4,remove,True,walls,1,0.30633326642256137,58,3,0.0874643325805664,True,3.3306690738754696e-16,stick_carton,stick carton,food and drink
+objaverse-d5bd8273db9e4c08aea9acbd358c11c4,float,True,packed_roots,1,0.12962317321545613,58,3,0.09712600708007812,True,0.0744111508968045,stick_carton,stick carton,food and drink
+objaverse-d5bd8273db9e4c08aea9acbd358c11c4,shrink,True,walls,1,0.30633326642256137,58,3,0.08747386932373047,True,2.220446049250313e-16,stick_carton,stick carton,food and drink
+objaverse-d5bd8273db9e4c08aea9acbd358c11c4,grow,True,walls,1,0.30633326642256137,58,3,0.11303234100341797,True,0.36147306208273233,stick_carton,stick carton,food and drink
+objaverse-d5bd8273db9e4c08aea9acbd358c11c4,rotate,True,walls,1,0.30633326642256137,58,3,0.12578392028808594,True,4.440892098500626e-16,stick_carton,stick carton,food and drink
+objaverse-d5bd8273db9e4c08aea9acbd358c11c4,same,False,,0,0.0,58,3,0.0,False,4.440892098500626e-16,stick_carton,stick carton,food and drink
+objaverse-d5bd8273db9e4c08aea9acbd358c11c4,turn,False,,0,0.0,58,3,0.1642303466796875,True,4.440892098500626e-16,stick_carton,stick carton,food and drink
+objaverse-43331ac139734f868590b837d6dcc215,remove,True,high_cap,1,0.11334512778781972,6,6,0.01680469512939453,True,0.0,polehammer,polehammer,weapon or armour
+objaverse-43331ac139734f868590b837d6dcc215,float,True,crosspiece,1,0.18551935451788076,6,6,0.024231910705566406,True,0.4468061099935998,polehammer,polehammer,weapon or armour
+objaverse-43331ac139734f868590b837d6dcc215,shrink,True,knob,1,0.02021585092278457,6,6,0.0055027008056640625,True,0.0,polehammer,polehammer,weapon or armour
+objaverse-43331ac139734f868590b837d6dcc215,grow,True,crosspiece,1,0.18551935451788076,6,6,0.027074813842773438,True,0.0,polehammer,polehammer,weapon or armour
+objaverse-43331ac139734f868590b837d6dcc215,rotate,True,high_cap,1,0.11334512778781972,6,6,0.018533706665039062,True,0.0,polehammer,polehammer,weapon or armour
+objaverse-43331ac139734f868590b837d6dcc215,same,False,,0,0.0,6,6,0.0,False,0.0,polehammer,polehammer,weapon or armour
+objaverse-43331ac139734f868590b837d6dcc215,turn,False,,0,0.0,6,6,0.040325164794921875,True,0.0,polehammer,polehammer,weapon or armour
+objaverse-0300f8d349354debbb6d30262657c67b,remove,True,tower_stage,1,0.2054619055755816,4,4,0.14729881286621094,True,0.0,church,church,building
+objaverse-0300f8d349354debbb6d30262657c67b,float,True,shoulder,1,0.20730000930145667,4,4,0.09419536590576172,True,0.0,church,church,building
+objaverse-0300f8d349354debbb6d30262657c67b,shrink,True,walls,1,0.27087042190509986,4,4,0.032080650329589844,True,0.05610487432819233,church,church,building
+objaverse-0300f8d349354debbb6d30262657c67b,grow,True,walls,1,0.27087042190509986,4,4,0.1279439926147461,True,0.0,church,church,building
+objaverse-0300f8d349354debbb6d30262657c67b,rotate,True,walls,1,0.27087042190509986,4,4,0.04944133758544922,True,0.0,church,church,building
+objaverse-0300f8d349354debbb6d30262657c67b,same,False,,0,0.0,4,4,0.0,False,0.0,church,church,building
+objaverse-0300f8d349354debbb6d30262657c67b,turn,False,,0,0.0,4,4,0.1308269500732422,True,0.0,church,church,building
+objaverse-c85fc3049eb146dca2f5f1a09b3a2215,remove,True,pointed_foot,5,0.031833734713191036,18,6,0.08251094818115234,True,2.220446049250313e-16,throne,throne,architectural element
+objaverse-c85fc3049eb146dca2f5f1a09b3a2215,float,True,pointed_foot,5,0.031833734713191036,18,6,0.11353397369384766,True,0.031833734713191286,throne,throne,architectural element
+objaverse-c85fc3049eb146dca2f5f1a09b3a2215,shrink,True,wrapping_band,1,0.29891312119927427,18,6,0.044739723205566406,True,0.1634050749362539,throne,throne,architectural element
+objaverse-c85fc3049eb146dca2f5f1a09b3a2215,grow,True,platform,1,0.2300127412260301,18,6,0.1396160125732422,True,2.220446049250313e-16,throne,throne,architectural element
+objaverse-c85fc3049eb146dca2f5f1a09b3a2215,rotate,True,wrapping_band,1,0.29891312119927427,18,6,0.05313682556152344,True,0.05964006554433021,throne,throne,architectural element
+objaverse-c85fc3049eb146dca2f5f1a09b3a2215,same,False,,0,0.0,18,6,0.0,False,1.1102230246251565e-16,throne,throne,architectural element
+objaverse-c85fc3049eb146dca2f5f1a09b3a2215,turn,False,,0,0.0,18,6,0.1503772735595703,True,0.0,throne,throne,architectural element
+objaverse-da472e229917493c8b6b050cd0775e9f,remove,True,foot,1,0.05159915102958712,4,3,0.06259346008300781,True,0.0,teardrop_tank,teardrop tank,lighting
+objaverse-da472e229917493c8b6b050cd0775e9f,float,True,foot,1,0.05159915102958712,4,3,0.12377357482910156,True,0.05159915102958712,teardrop_tank,teardrop tank,lighting
+objaverse-da472e229917493c8b6b050cd0775e9f,shrink,True,foot,1,0.05159915102958712,4,3,0.025774002075195312,True,0.008629912957677233,teardrop_tank,teardrop tank,lighting
+objaverse-da472e229917493c8b6b050cd0775e9f,grow,True,foot,1,0.05159915102958712,4,3,0.05132293701171875,True,0.0,teardrop_tank,teardrop tank,lighting
+objaverse-da472e229917493c8b6b050cd0775e9f,rotate,True,foot,1,0.05159915102958712,4,3,0.011922836303710938,True,0.0,teardrop_tank,teardrop tank,lighting
+objaverse-da472e229917493c8b6b050cd0775e9f,same,False,,0,0.0,4,3,0.0,False,0.0,teardrop_tank,teardrop tank,lighting
+objaverse-da472e229917493c8b6b050cd0775e9f,turn,False,,0,0.0,4,3,0.1233072280883789,True,0.0,teardrop_tank,teardrop tank,lighting
+objaverse-55df0a71f0714e5eaa6ee8e8db52fece,remove,True,collar,1,0.1130553208276737,14,10,0.008053779602050781,True,0.37121742465066176,joystick,joystick,electronics
+objaverse-55df0a71f0714e5eaa6ee8e8db52fece,float,True,tab,1,0.010181546295923485,14,10,0.026525497436523438,True,0.0,joystick,joystick,electronics
+objaverse-55df0a71f0714e5eaa6ee8e8db52fece,shrink,True,collar,1,0.1130553208276737,14,10,0.008175849914550781,True,0.0,joystick,joystick,electronics
+objaverse-55df0a71f0714e5eaa6ee8e8db52fece,grow,True,collar,1,0.1130553208276737,14,10,0.08548831939697266,True,0.0,joystick,joystick,electronics
+objaverse-55df0a71f0714e5eaa6ee8e8db52fece,rotate,True,control,4,0.015090728585437271,14,10,0.009752273559570312,True,0.00578127633845904,joystick,joystick,electronics
+objaverse-55df0a71f0714e5eaa6ee8e8db52fece,same,False,,0,0.0,14,10,0.0,False,0.0,joystick,joystick,electronics
+objaverse-55df0a71f0714e5eaa6ee8e8db52fece,turn,False,,0,0.0,14,10,0.11106586456298828,True,0.0,joystick,joystick,electronics
+objaverse-f654ad5d81184eb8af486e5abfd05676,remove,True,cross_post,10,0.1162469617836014,28,4,0.028969764709472656,True,0.0,walkway,walkway,architectural element
+objaverse-f654ad5d81184eb8af486e5abfd05676,float,True,cross_deck,1,0.298832862418033,28,4,0.04948711395263672,True,0.4150798242016345,walkway,walkway,architectural element
+objaverse-f654ad5d81184eb8af486e5abfd05676,shrink,True,cross_deck,1,0.298832862418033,28,4,0.03167438507080078,True,0.2190447450175016,walkway,walkway,architectural element
+objaverse-f654ad5d81184eb8af486e5abfd05676,grow,True,stem_post,16,0.18469834654871276,28,4,0.056613922119140625,True,1.1102230246251565e-16,walkway,walkway,architectural element
+objaverse-f654ad5d81184eb8af486e5abfd05676,rotate,True,cross_post,10,0.1162469617836014,28,4,0.045841217041015625,True,0.1162469617836015,walkway,walkway,architectural element
+objaverse-f654ad5d81184eb8af486e5abfd05676,same,False,,0,0.0,28,4,0.0,False,0.0,walkway,walkway,architectural element
+objaverse-f654ad5d81184eb8af486e5abfd05676,turn,False,,0,0.0,28,4,0.07900714874267578,True,1.1102230246251565e-16,walkway,walkway,architectural element
+objaverse-cef256fdae504702b8590b5a9ab69a1a,remove,True,lower_return,2,0.012601745048334115,9,4,0.03794288635253906,True,0.0,raceway,raceway,vehicle
+objaverse-cef256fdae504702b8590b5a9ab69a1a,float,True,runner,1,0.12673824941367634,9,4,0.12775135040283203,True,0.1267382494136764,raceway,raceway,vehicle
+objaverse-cef256fdae504702b8590b5a9ab69a1a,shrink,True,lower_return,2,0.012601745048334115,9,4,0.038275718688964844,True,0.0020378508078482405,raceway,raceway,vehicle
+objaverse-cef256fdae504702b8590b5a9ab69a1a,grow,True,runner,1,0.12673824941367634,9,4,0.11429786682128906,True,0.3673000873963821,raceway,raceway,vehicle
+objaverse-cef256fdae504702b8590b5a9ab69a1a,rotate,True,runner,1,0.12673824941367634,9,4,0.13858318328857422,True,0.0,raceway,raceway,vehicle
+objaverse-cef256fdae504702b8590b5a9ab69a1a,same,False,,0,0.0,9,4,0.0,False,0.0,raceway,raceway,vehicle
+objaverse-cef256fdae504702b8590b5a9ab69a1a,turn,False,,0,0.0,9,4,0.17085552215576172,True,0.0,raceway,raceway,vehicle
+objaverse-270d63c7e02341418c0b137aa08f3834,remove,True,nose,1,0.013892460215895614,15,9,0.014232635498046875,True,0.0,missile,missile,aircraft or spacecraft
+objaverse-270d63c7e02341418c0b137aa08f3834,float,True,dark_tail,1,0.014710063628532149,15,9,0.0147857666015625,True,0.01471006362853211,missile,missile,aircraft or spacecraft
+objaverse-270d63c7e02341418c0b137aa08f3834,shrink,True,small_blade,4,0.03272902866862155,15,9,0.0016632080078125,False,0.005384682342085778,missile,missile,aircraft or spacecraft
+objaverse-270d63c7e02341418c0b137aa08f3834,grow,True,tail_band,1,0.03667767079655297,15,9,0.00667572021484375,True,0.0,missile,missile,aircraft or spacecraft
+objaverse-270d63c7e02341418c0b137aa08f3834,rotate,True,sleeve,1,0.08293262838779136,15,9,0.006274223327636719,True,0.0,missile,missile,aircraft or spacecraft
+objaverse-270d63c7e02341418c0b137aa08f3834,same,False,,0,0.0,15,9,0.0,False,0.0,missile,missile,aircraft or spacecraft
+objaverse-270d63c7e02341418c0b137aa08f3834,turn,False,,0,0.0,15,9,0.0799551010131836,True,0.0,missile,missile,aircraft or spacecraft
+objaverse-367d1a10e07e48a18bdd5a24965ce22d,remove,True,rail_one,1,0.204203824763919,10,3,0.025926589965820312,True,-2.220446049250313e-16,ladder,ladder,architectural element
+objaverse-367d1a10e07e48a18bdd5a24965ce22d,float,True,rail_two,1,0.20353576948518678,10,3,0.08490180969238281,True,0.2035357694851867,ladder,ladder,architectural element
+objaverse-367d1a10e07e48a18bdd5a24965ce22d,shrink,True,rail_two,1,0.20353576948518678,10,3,0.02315998077392578,True,-2.220446049250313e-16,ladder,ladder,architectural element
+objaverse-367d1a10e07e48a18bdd5a24965ce22d,grow,True,rail_two,1,0.20353576948518678,10,3,0.07070541381835938,True,0.0,ladder,ladder,architectural element
+objaverse-367d1a10e07e48a18bdd5a24965ce22d,rotate,True,rail_one,1,0.204203824763919,10,3,0.07998180389404297,True,-2.220446049250313e-16,ladder,ladder,architectural element
+objaverse-367d1a10e07e48a18bdd5a24965ce22d,same,False,,0,0.0,10,3,0.0,False,-2.220446049250313e-16,ladder,ladder,architectural element
+objaverse-367d1a10e07e48a18bdd5a24965ce22d,turn,False,,0,0.0,10,3,0.08126640319824219,True,0.0,ladder,ladder,architectural element
+objaverse-a3d56dcd3b3e4732b56e9e1c9ce31b4d,remove,True,neck,1,0.13262872121043112,4,4,0.00766754150390625,True,0.13403900364244725,spiral_column,spiral column,architectural element
+objaverse-a3d56dcd3b3e4732b56e9e1c9ce31b4d,float,True,foot,1,0.2118549306267176,4,4,0.03679180145263672,True,0.21185493062671767,spiral_column,spiral column,architectural element
+objaverse-a3d56dcd3b3e4732b56e9e1c9ce31b4d,shrink,True,cap,1,0.11626158199702917,4,4,0.01967144012451172,True,0.020615120165682344,spiral_column,spiral column,architectural element
+objaverse-a3d56dcd3b3e4732b56e9e1c9ce31b4d,grow,True,foot,1,0.2118549306267176,4,4,0.062488555908203125,True,0.0,spiral_column,spiral column,architectural element
+objaverse-a3d56dcd3b3e4732b56e9e1c9ce31b4d,rotate,True,cap,1,0.11626158199702917,4,4,0.03148937225341797,True,0.0,spiral_column,spiral column,architectural element
+objaverse-a3d56dcd3b3e4732b56e9e1c9ce31b4d,same,False,,0,0.0,4,4,0.0,False,0.0,spiral_column,spiral column,architectural element
+objaverse-a3d56dcd3b3e4732b56e9e1c9ce31b4d,turn,False,,0,0.0,4,4,0.040183067321777344,True,0.0,spiral_column,spiral column,architectural element
+objaverse-9db75463231d4de686043b687cb6836a,remove,True,end_rail,6,0.06941046852533099,31,10,0.01784515380859375,True,-2.220446049250313e-16,bunk_bed,bunk bed,furniture
+objaverse-9db75463231d4de686043b687cb6836a,float,True,side_apron,4,0.13133586051925578,31,10,0.20725250244140625,True,0.06566793025962803,bunk_bed,bunk bed,furniture
+objaverse-9db75463231d4de686043b687cb6836a,shrink,True,top_guard,2,0.047362949960473806,31,10,0.017181396484375,True,0.007892056498370437,bunk_bed,bunk bed,furniture
+objaverse-9db75463231d4de686043b687cb6836a,grow,True,top_guard,2,0.047362949960473806,31,10,0.21637248992919922,True,0.0,bunk_bed,bunk bed,furniture
+objaverse-9db75463231d4de686043b687cb6836a,rotate,True,top_guard,2,0.047362949960473806,31,10,0.27350521087646484,True,0.0,bunk_bed,bunk bed,furniture
+objaverse-9db75463231d4de686043b687cb6836a,same,False,,0,0.0,31,10,0.0,False,0.0,bunk_bed,bunk bed,furniture
+objaverse-9db75463231d4de686043b687cb6836a,turn,False,,0,0.0,31,10,0.2463369369506836,True,0.0,bunk_bed,bunk bed,furniture
+objaverse-d5ed8c7e80a84627b3ea55beb0e96825,remove,True,pommel,1,0.06318158616385215,11,8,0.03097057342529297,True,0.0040653928153686625,bloodscythe,bloodscythe,hand tool
+objaverse-d5ed8c7e80a84627b3ea55beb0e96825,float,True,crescent,1,0.3099093048086445,11,8,0.041398048400878906,True,0.31371783965755895,bloodscythe,bloodscythe,hand tool
+objaverse-d5ed8c7e80a84627b3ea55beb0e96825,shrink,True,pommel,1,0.06318158616385215,11,8,0.026169776916503906,True,0.014697629027570991,bloodscythe,bloodscythe,hand tool
+objaverse-d5ed8c7e80a84627b3ea55beb0e96825,grow,True,crescent,1,0.3099093048086445,11,8,0.040329933166503906,True,0.0019736123525204707,bloodscythe,bloodscythe,hand tool
+objaverse-d5ed8c7e80a84627b3ea55beb0e96825,rotate,True,thin_spike,2,0.01030969888159687,11,8,0.025856971740722656,True,0.01030969888159683,bloodscythe,bloodscythe,hand tool
+objaverse-d5ed8c7e80a84627b3ea55beb0e96825,same,False,,0,0.0,11,8,0.0,False,0.0038085348489145243,bloodscythe,bloodscythe,hand tool
+objaverse-d5ed8c7e80a84627b3ea55beb0e96825,turn,False,,0,0.0,11,8,0.048323631286621094,True,0.0038085348489145243,bloodscythe,bloodscythe,hand tool
+objaverse-04496fdafe5b4d1aaf60e2edf26f85ce,remove,True,function_key,13,0.053768562333582806,104,5,0.013016700744628906,True,-2.220446049250313e-16,keyboard,keyboard,electronics
+objaverse-04496fdafe5b4d1aaf60e2edf26f85ce,float,True,number_key,17,0.07804299901921982,104,5,0.041312217712402344,True,0.0,keyboard,keyboard,electronics
+objaverse-04496fdafe5b4d1aaf60e2edf26f85ce,shrink,True,key,60,0.29112944063576157,104,5,0.012446403503417969,True,2.220446049250313e-16,keyboard,keyboard,electronics
+objaverse-04496fdafe5b4d1aaf60e2edf26f85ce,grow,True,number_key,17,0.07804299901921982,104,5,0.043831825256347656,True,1.1102230246251565e-15,keyboard,keyboard,electronics
+objaverse-04496fdafe5b4d1aaf60e2edf26f85ce,rotate,True,function_key,13,0.053768562333582806,104,5,0.057342529296875,True,0.03722438930786487,keyboard,keyboard,electronics
+objaverse-04496fdafe5b4d1aaf60e2edf26f85ce,same,False,,0,0.0,104,5,0.0,False,0.0,keyboard,keyboard,electronics
+objaverse-04496fdafe5b4d1aaf60e2edf26f85ce,turn,False,,0,0.0,104,5,0.09984874725341797,True,1.1102230246251565e-16,keyboard,keyboard,electronics
+objaverse-ebfccd25d2044e0a8100ff75adb35936,remove,True,bowed_wood,2,0.1336995820194375,7,4,0.045215606689453125,True,0.0,rocking_chair,rocking chair,furniture
+objaverse-ebfccd25d2044e0a8100ff75adb35936,float,True,front_post,2,0.02792423876977042,7,4,0.0847482681274414,True,0.02792423876977035,rocking_chair,rocking chair,furniture
+objaverse-ebfccd25d2044e0a8100ff75adb35936,shrink,True,bowed_wood,2,0.1336995820194375,7,4,0.03883838653564453,True,0.02409836369155749,rocking_chair,rocking chair,furniture
+objaverse-ebfccd25d2044e0a8100ff75adb35936,grow,True,bowed_wood,2,0.1336995820194375,7,4,0.1249237060546875,True,0.3816992411008069,rocking_chair,rocking chair,furniture
+objaverse-ebfccd25d2044e0a8100ff75adb35936,rotate,True,front_post,2,0.02792423876977042,7,4,0.11905193328857422,True,0.01396211938488523,rocking_chair,rocking chair,furniture
+objaverse-ebfccd25d2044e0a8100ff75adb35936,same,False,,0,0.0,7,4,0.0,False,0.0,rocking_chair,rocking chair,furniture
+objaverse-ebfccd25d2044e0a8100ff75adb35936,turn,False,,0,0.0,7,4,0.13374710083007812,True,0.0,rocking_chair,rocking chair,furniture
+objaverse-8fc9bdd0ac2c4c5a9f98a9bde43e4945,remove,True,end_bands,2,0.16763975655306262,7,2,0.0048236846923828125,False,0.8,plank_panel,plank panel,architectural element
+objaverse-8fc9bdd0ac2c4c5a9f98a9bde43e4945,float,True,end_bands,2,0.16763975655306262,7,2,0.1470355987548828,True,0.8335279513106125,plank_panel,plank panel,architectural element
+objaverse-8fc9bdd0ac2c4c5a9f98a9bde43e4945,shrink,True,end_bands,2,0.16763975655306262,7,2,0.0048236846923828125,False,0.38751261447419927,plank_panel,plank panel,architectural element
+objaverse-8fc9bdd0ac2c4c5a9f98a9bde43e4945,grow,True,end_bands,2,0.16763975655306262,7,2,0.11516094207763672,True,0.0,plank_panel,plank panel,architectural element
+objaverse-8fc9bdd0ac2c4c5a9f98a9bde43e4945,rotate,True,end_bands,2,0.16763975655306262,7,2,0.08724689483642578,True,0.6658881947575499,plank_panel,plank panel,architectural element
+objaverse-8fc9bdd0ac2c4c5a9f98a9bde43e4945,same,False,,0,0.0,7,2,0.0,False,0.0,plank_panel,plank panel,architectural element
+objaverse-8fc9bdd0ac2c4c5a9f98a9bde43e4945,turn,False,,0,0.0,7,2,0.10962390899658203,True,0.0,plank_panel,plank panel,architectural element
+objaverse-bd5b64b58f1c495192ff6f8bef2971d9,remove,True,cake,1,0.3051136876726222,5,5,0.024413108825683594,True,0.25578897470550466,cupcake,cupcake,food and drink
+objaverse-bd5b64b58f1c495192ff6f8bef2971d9,float,True,cherry,1,0.013815613861846805,5,5,0.09219551086425781,True,0.014445128299341747,cupcake,cupcake,food and drink
+objaverse-bd5b64b58f1c495192ff6f8bef2971d9,shrink,True,icing,1,0.16329912906776722,5,5,0.026592254638671875,True,0.047023224268092356,cupcake,cupcake,food and drink
+objaverse-bd5b64b58f1c495192ff6f8bef2971d9,grow,True,cake,1,0.3051136876726222,5,5,0.13338088989257812,True,0.0,cupcake,cupcake,food and drink
+objaverse-bd5b64b58f1c495192ff6f8bef2971d9,rotate,True,cake,1,0.3051136876726222,5,5,0.03633403778076172,True,0.0,cupcake,cupcake,food and drink
+objaverse-bd5b64b58f1c495192ff6f8bef2971d9,same,False,,0,0.0,5,5,0.0,False,0.0,cupcake,cupcake,food and drink
+objaverse-bd5b64b58f1c495192ff6f8bef2971d9,turn,False,,0,0.0,5,5,0.013001441955566406,True,0.0,cupcake,cupcake,food and drink
+objaverse-f13afbfa6c8748bc84e640bcd18fcc99,remove,True,frame,1,0.212372905327322,29,2,0.14039993286132812,True,0.9285714285714286,louver,louver,architectural element
+objaverse-f13afbfa6c8748bc84e640bcd18fcc99,float,True,frame,1,0.212372905327322,29,2,0.17847251892089844,True,0.787627094672678,louver,louver,architectural element
+objaverse-f13afbfa6c8748bc84e640bcd18fcc99,shrink,True,frame,1,0.212372905327322,29,2,0.14681625366210938,True,0.47932121148077345,louver,louver,architectural element
+objaverse-f13afbfa6c8748bc84e640bcd18fcc99,grow,True,frame,1,0.212372905327322,29,2,0.1178436279296875,True,0.4811056687481877,louver,louver,architectural element
+objaverse-f13afbfa6c8748bc84e640bcd18fcc99,rotate,True,frame,1,0.212372905327322,29,2,0.20262908935546875,True,0.6751089382908669,louver,louver,architectural element
+objaverse-f13afbfa6c8748bc84e640bcd18fcc99,same,False,,0,0.0,29,2,0.0,False,-2.220446049250313e-16,louver,louver,architectural element
+objaverse-f13afbfa6c8748bc84e640bcd18fcc99,turn,False,,0,0.0,29,2,0.2375192642211914,True,-2.220446049250313e-16,louver,louver,architectural element
+objaverse-62ee8e4592f34b7e8b4d4b317db264c9,remove,True,beam,1,0.2529577667362959,15,5,0.18645381927490234,True,4.440892098500626e-16,beam_joint,beam joint,machine or industrial
+objaverse-62ee8e4592f34b7e8b4d4b317db264c9,float,True,beam,1,0.2529577667362959,15,5,0.09015369415283203,True,0.2529577667362962,beam_joint,beam joint,machine or industrial
+objaverse-62ee8e4592f34b7e8b4d4b317db264c9,shrink,True,end_plate,1,0.17107426106423662,15,5,0.007117271423339844,True,0.3549564529012522,beam_joint,beam joint,machine or industrial
+objaverse-62ee8e4592f34b7e8b4d4b317db264c9,grow,True,beam,1,0.2529577667362959,15,5,0.12424087524414062,True,-2.220446049250313e-16,beam_joint,beam joint,machine or industrial
+objaverse-62ee8e4592f34b7e8b4d4b317db264c9,rotate,True,beam,1,0.2529577667362959,15,5,0.11286449432373047,True,0.2529577667362962,beam_joint,beam joint,machine or industrial
+objaverse-62ee8e4592f34b7e8b4d4b317db264c9,same,False,,0,0.0,15,5,0.0,False,3.3306690738754696e-16,beam_joint,beam joint,machine or industrial
+objaverse-62ee8e4592f34b7e8b4d4b317db264c9,turn,False,,0,0.0,15,5,0.20071125030517578,True,1.1102230246251565e-16,beam_joint,beam joint,machine or industrial
+objaverse-9b5d3e00848f4abd874b63c8053f44b4,remove,True,brown_tip,4,0.04120165924031556,15,6,0.03116893768310547,True,0.0,oval_plaque,oval plaque,food and drink
+objaverse-9b5d3e00848f4abd874b63c8053f44b4,float,True,leaves,1,0.038152937082409806,15,6,0.04327678680419922,True,0.038152937082409744,oval_plaque,oval plaque,food and drink
+objaverse-9b5d3e00848f4abd874b63c8053f44b4,shrink,True,brown_tip,4,0.04120165924031556,15,6,0.021943092346191406,True,-2.220446049250313e-16,oval_plaque,oval plaque,food and drink
+objaverse-9b5d3e00848f4abd874b63c8053f44b4,grow,True,ribbon,1,0.0971417205859176,15,6,0.11414432525634766,True,0.0,oval_plaque,oval plaque,food and drink
+objaverse-9b5d3e00848f4abd874b63c8053f44b4,rotate,True,ribbon,1,0.0971417205859176,15,6,0.0778951644897461,True,0.0,oval_plaque,oval plaque,food and drink
+objaverse-9b5d3e00848f4abd874b63c8053f44b4,same,False,,0,0.0,15,6,0.0,False,0.0,oval_plaque,oval plaque,food and drink
+objaverse-9b5d3e00848f4abd874b63c8053f44b4,turn,False,,0,0.0,15,6,0.14725112915039062,True,0.0,oval_plaque,oval plaque,food and drink
+objaverse-81bc19b3bd934f0eb1d594e5f81994b0,remove,True,rim,1,0.06159327958596415,12,7,0.012654304504394531,True,0.0,rowboat,rowboat,watercraft
+objaverse-81bc19b3bd934f0eb1d594e5f81994b0,float,True,keelson,1,0.03368836150325247,12,7,0.1256704330444336,True,0.033688361503252495,rowboat,rowboat,watercraft
+objaverse-81bc19b3bd934f0eb1d594e5f81994b0,shrink,True,rim,1,0.06159327958596415,12,7,0.013144493103027344,True,0.010392621893104526,rowboat,rowboat,watercraft
+objaverse-81bc19b3bd934f0eb1d594e5f81994b0,grow,True,seat,2,0.08794477372148134,12,7,0.07523059844970703,True,0.0,rowboat,rowboat,watercraft
+objaverse-81bc19b3bd934f0eb1d594e5f81994b0,rotate,True,rim,1,0.06159327958596415,12,7,0.12023448944091797,True,0.0,rowboat,rowboat,watercraft
+objaverse-81bc19b3bd934f0eb1d594e5f81994b0,same,False,,0,0.0,12,7,0.0,False,0.0,rowboat,rowboat,watercraft
+objaverse-81bc19b3bd934f0eb1d594e5f81994b0,turn,False,,0,0.0,12,7,0.12670326232910156,True,0.0,rowboat,rowboat,watercraft
+objaverse-f149dc539158427182bb54bda4bd931a,remove,True,spout,1,0.014052902653152117,6,6,0.006606101989746094,True,0.0,pump_bottle,pump bottle,bathroom fixture
+objaverse-f149dc539158427182bb54bda4bd931a,float,True,neck_ring,1,0.06859957538886026,6,6,0.010028839111328125,True,0.23482181126303048,pump_bottle,pump bottle,bathroom fixture
+objaverse-f149dc539158427182bb54bda4bd931a,shrink,True,spout,1,0.014052902653152117,6,6,0.006495475769042969,True,0.0,pump_bottle,pump bottle,bathroom fixture
+objaverse-f149dc539158427182bb54bda4bd931a,grow,True,neck_ring,1,0.06859957538886026,6,6,0.028756141662597656,True,0.0,pump_bottle,pump bottle,bathroom fixture
+objaverse-f149dc539158427182bb54bda4bd931a,rotate,True,pump_collar,1,0.09387423826302586,6,6,0.010579109191894531,True,0.0,pump_bottle,pump bottle,bathroom fixture
+objaverse-f149dc539158427182bb54bda4bd931a,same,False,,0,0.0,6,6,0.0,False,0.0,pump_bottle,pump bottle,bathroom fixture
+objaverse-f149dc539158427182bb54bda4bd931a,turn,False,,0,0.0,6,6,0.008035659790039062,True,0.0,pump_bottle,pump bottle,bathroom fixture
+objaverse-5d5017a3970e4932b42e37e76fba6b3e,remove,True,black_body,1,0.26328792313731153,3,3,0.013405799865722656,True,0.0,wrapped_block,wrapped block,packaging
+objaverse-5d5017a3970e4932b42e37e76fba6b3e,float,True,gray_top,1,0.20444665158087616,3,3,0.10665035247802734,True,0.20444665158087605,wrapped_block,wrapped block,packaging
+objaverse-5d5017a3970e4932b42e37e76fba6b3e,shrink,True,gray_top,1,0.20444665158087616,3,3,0.03523445129394531,True,0.039493968296697046,wrapped_block,wrapped block,packaging
+objaverse-5d5017a3970e4932b42e37e76fba6b3e,grow,True,gray_top,1,0.20444665158087616,3,3,0.12659835815429688,True,0.0,wrapped_block,wrapped block,packaging
+objaverse-5d5017a3970e4932b42e37e76fba6b3e,rotate,True,black_body,1,0.26328792313731153,3,3,0.16916656494140625,True,0.0,wrapped_block,wrapped block,packaging
+objaverse-5d5017a3970e4932b42e37e76fba6b3e,same,False,,0,0.0,3,3,0.0,False,0.0,wrapped_block,wrapped block,packaging
+objaverse-5d5017a3970e4932b42e37e76fba6b3e,turn,False,,0,0.0,3,3,0.14575481414794922,True,0.0,wrapped_block,wrapped block,packaging
+objaverse-d25c0345cf8e415494ee74afd0a2681c,remove,True,handle,1,0.0982849647291309,14,13,0.018828392028808594,True,0.030960468524172002,circular_saw,circular saw,power tool
+objaverse-d25c0345cf8e415494ee74afd0a2681c,float,True,lower_guard,1,0.04568849247196547,14,13,0.11310958862304688,True,0.04568849247196538,circular_saw,circular saw,power tool
+objaverse-d25c0345cf8e415494ee74afd0a2681c,shrink,True,hood,1,0.09360172902939863,14,13,0.014417648315429688,True,0.0,circular_saw,circular saw,power tool
+objaverse-d25c0345cf8e415494ee74afd0a2681c,grow,True,hood,1,0.09360172902939863,14,13,0.11515140533447266,True,-2.220446049250313e-16,circular_saw,circular saw,power tool
+objaverse-d25c0345cf8e415494ee74afd0a2681c,rotate,True,motor,1,0.15429242389473816,14,13,0.029458045959472656,True,0.04571262391600006,circular_saw,circular saw,power tool
+objaverse-d25c0345cf8e415494ee74afd0a2681c,same,False,,0,0.0,14,13,0.0,False,-2.220446049250313e-16,circular_saw,circular saw,power tool
+objaverse-d25c0345cf8e415494ee74afd0a2681c,turn,False,,0,0.0,14,13,0.16308116912841797,True,0.0,circular_saw,circular saw,power tool
+objaverse-034a55900ff34906ba700c4dc3360368,remove,True,lower_bar,1,0.14743619078342574,6,5,0.0407562255859375,True,0.0,slatted_panel,slatted panel,architectural element
+objaverse-034a55900ff34906ba700c4dc3360368,float,True,upper_bar,1,0.14743619078342574,6,5,0.09535408020019531,True,0.14743619078342574,slatted_panel,slatted panel,architectural element
+objaverse-034a55900ff34906ba700c4dc3360368,shrink,True,lower_bar,1,0.14743619078342574,6,5,0.025399208068847656,True,0.02692426365913092,slatted_panel,slatted panel,architectural element
+objaverse-034a55900ff34906ba700c4dc3360368,grow,True,middle_support,1,0.02467014093289219,6,5,0.14645671844482422,True,0.0,slatted_panel,slatted panel,architectural element
+objaverse-034a55900ff34906ba700c4dc3360368,rotate,True,lower_bar,1,0.14743619078342574,6,5,0.03432273864746094,True,0.0,slatted_panel,slatted panel,architectural element
+objaverse-034a55900ff34906ba700c4dc3360368,same,False,,0,0.0,6,5,0.0,False,0.0,slatted_panel,slatted panel,architectural element
+objaverse-034a55900ff34906ba700c4dc3360368,turn,False,,0,0.0,6,5,0.1860342025756836,True,0.0,slatted_panel,slatted panel,architectural element
+objaverse-44427aa156494878a5e83f10f023ff62,remove,True,tower_post,4,0.04614411761331375,95,13,0.0067615509033203125,True,0.024833316853515197,tiered_frame,tiered frame,building
+objaverse-44427aa156494878a5e83f10f023ff62,float,True,outer_post,4,0.035297994887112834,95,13,0.15552330017089844,True,7.771561172376096e-16,tiered_frame,tiered frame,building
+objaverse-44427aa156494878a5e83f10f023ff62,shrink,True,spine_foot,8,0.02269468816105574,95,13,0.05140876770019531,True,7.771561172376096e-16,tiered_frame,tiered frame,building
+objaverse-44427aa156494878a5e83f10f023ff62,grow,True,outer_foot,4,0.011819245865828882,95,13,0.11562633514404297,True,7.771561172376096e-16,tiered_frame,tiered frame,building
+objaverse-44427aa156494878a5e83f10f023ff62,rotate,True,spine_foot,8,0.02269468816105574,95,13,0.1755990982055664,True,0.017021016120792543,tiered_frame,tiered frame,building
+objaverse-44427aa156494878a5e83f10f023ff62,same,False,,0,0.0,95,13,0.0,False,7.771561172376096e-16,tiered_frame,tiered frame,building
+objaverse-44427aa156494878a5e83f10f023ff62,turn,False,,0,0.0,95,13,0.15683746337890625,True,-2.220446049250313e-16,tiered_frame,tiered frame,building
+objaverse-230a4f2cdae04bd59f2e93092c9a1b64,remove,True,dark_base,1,0.06488192503442929,90,14,0.010204315185546875,True,3.3306690738754696e-16,terrace_tower,terrace tower,building
+objaverse-230a4f2cdae04bd59f2e93092c9a1b64,float,True,core_web,2,0.01547322011301061,90,14,0.09814929962158203,True,3.3306690738754696e-16,terrace_tower,terrace tower,building
+objaverse-230a4f2cdae04bd59f2e93092c9a1b64,shrink,True,corner_rib,4,0.02343691943589001,90,14,0.015349388122558594,True,3.3306690738754696e-16,terrace_tower,terrace tower,building
+objaverse-230a4f2cdae04bd59f2e93092c9a1b64,grow,True,middle_rib,4,0.027001518182347528,90,14,0.15403366088867188,True,3.3306690738754696e-16,terrace_tower,terrace tower,building
+objaverse-230a4f2cdae04bd59f2e93092c9a1b64,rotate,True,outer_rib,4,0.02343691943589001,90,14,0.15143299102783203,True,3.3306690738754696e-16,terrace_tower,terrace tower,building
+objaverse-230a4f2cdae04bd59f2e93092c9a1b64,same,False,,0,0.0,90,14,0.0,False,3.3306690738754696e-16,terrace_tower,terrace tower,building
+objaverse-230a4f2cdae04bd59f2e93092c9a1b64,turn,False,,0,0.0,90,14,0.14325332641601562,True,5.551115123125783e-16,terrace_tower,terrace tower,building
+objaverse-03488181835f47f09db9d81131a2036e,remove,True,upright,2,0.22927537762118833,5,4,0.0780172348022461,True,0.34390407912815346,timber_frame,timber frame,container
+objaverse-03488181835f47f09db9d81131a2036e,float,True,board,1,0.14896907794635147,5,4,0.10306739807128906,True,0.1489690779463515,timber_frame,timber frame,container
+objaverse-03488181835f47f09db9d81131a2036e,shrink,True,board,1,0.14896907794635147,5,4,0.021798133850097656,True,0.027244233020212727,timber_frame,timber frame,container
+objaverse-03488181835f47f09db9d81131a2036e,grow,True,upright,2,0.22927537762118833,5,4,0.16650009155273438,True,0.0,timber_frame,timber frame,container
+objaverse-03488181835f47f09db9d81131a2036e,rotate,True,board,1,0.14896907794635147,5,4,0.20012569427490234,True,0.0,timber_frame,timber frame,container
+objaverse-03488181835f47f09db9d81131a2036e,same,False,,0,0.0,5,4,0.0,False,0.0,timber_frame,timber frame,container
+objaverse-03488181835f47f09db9d81131a2036e,turn,False,,0,0.0,5,4,0.16891956329345703,True,0.0,timber_frame,timber frame,container
+objaverse-b9b6e5c963074c5db1a343449ca83d3d,remove,True,rod,24,0.020619373864036297,29,3,0.06938362121582031,True,0.0,spiked_drum,spiked drum,vehicle
+objaverse-b9b6e5c963074c5db1a343449ca83d3d,float,True,frame,4,0.060343450499751684,29,3,0.08221721649169922,True,0.06034345049975176,spiked_drum,spiked drum,vehicle
+objaverse-b9b6e5c963074c5db1a343449ca83d3d,shrink,True,rod,24,0.020619373864036297,29,3,0.029689788818359375,True,0.0033572482784686164,spiked_drum,spiked drum,vehicle
+objaverse-b9b6e5c963074c5db1a343449ca83d3d,grow,True,rod,24,0.020619373864036297,29,3,0.04290294647216797,True,0.0,spiked_drum,spiked drum,vehicle
+objaverse-b9b6e5c963074c5db1a343449ca83d3d,rotate,True,rod,24,0.020619373864036297,29,3,0.052074432373046875,True,0.01718281155336354,spiked_drum,spiked drum,vehicle
+objaverse-b9b6e5c963074c5db1a343449ca83d3d,same,False,,0,0.0,29,3,0.0,False,0.0,spiked_drum,spiked drum,vehicle
+objaverse-b9b6e5c963074c5db1a343449ca83d3d,turn,False,,0,0.0,29,3,0.018944740295410156,True,0.0,spiked_drum,spiked drum,vehicle
+objaverse-fdf1673f1f6d41a99a90312db9bb2351,remove,True,housing,1,0.16205719870341168,3,3,0.018747329711914062,True,0.0,streetlight,streetlight,lighting
+objaverse-fdf1673f1f6d41a99a90312db9bb2351,float,True,curved_arm,1,0.0731967006112689,3,3,0.016971588134765625,True,0.23525389931468044,streetlight,streetlight,lighting
+objaverse-fdf1673f1f6d41a99a90312db9bb2351,shrink,True,housing,1,0.16205719870341168,3,3,0.013815879821777344,True,0.03001504065483951,streetlight,streetlight,lighting
+objaverse-fdf1673f1f6d41a99a90312db9bb2351,grow,True,curved_arm,1,0.0731967006112689,3,3,0.019832611083984375,True,0.1328784141981295,streetlight,streetlight,lighting
+objaverse-fdf1673f1f6d41a99a90312db9bb2351,rotate,True,curved_arm,1,0.0731967006112689,3,3,0.002330780029296875,False,0.23525389931468044,streetlight,streetlight,lighting
+objaverse-fdf1673f1f6d41a99a90312db9bb2351,same,False,,0,0.0,3,3,0.0,False,0.0,streetlight,streetlight,lighting
+objaverse-fdf1673f1f6d41a99a90312db9bb2351,turn,False,,0,0.0,3,3,0.01935291290283203,True,0.0,streetlight,streetlight,lighting
+objaverse-64ad950fcef149ca8f7ed16e61bcd047,remove,True,flake,1,0.011365673904832521,3,3,0.00047206878662109375,False,0.0,disc,disc,electronics
+objaverse-64ad950fcef149ca8f7ed16e61bcd047,float,True,blade,1,0.027272308098188633,3,3,0.056435585021972656,True,0.027272308098188702,disc,disc,electronics
+objaverse-64ad950fcef149ca8f7ed16e61bcd047,shrink,True,blade,1,0.027272308098188633,3,3,0.00382232666015625,False,0.0,disc,disc,electronics
+objaverse-64ad950fcef149ca8f7ed16e61bcd047,grow,True,blade,1,0.027272308098188633,3,3,0.02428436279296875,True,0.0,disc,disc,electronics
+objaverse-64ad950fcef149ca8f7ed16e61bcd047,rotate,True,blade,1,0.027272308098188633,3,3,0.0106353759765625,True,0.0,disc,disc,electronics
+objaverse-64ad950fcef149ca8f7ed16e61bcd047,same,False,,0,0.0,3,3,0.0,False,0.0,disc,disc,electronics
+objaverse-64ad950fcef149ca8f7ed16e61bcd047,turn,False,,0,0.0,3,3,0.14450550079345703,True,0.0,disc,disc,electronics
+objaverse-cf918d7b0b2b4e878536b9564eefae23,remove,True,battery_shoulders,1,0.18712727265522452,10,10,0.017721176147460938,True,0.3180991943989325,drill,drill,power tool
+objaverse-cf918d7b0b2b4e878536b9564eefae23,float,True,collar,1,0.029885177355601856,10,10,0.12338829040527344,True,0.029885177355601922,drill,drill,power tool
+objaverse-cf918d7b0b2b4e878536b9564eefae23,shrink,True,grip,1,0.12153667047939119,10,10,0.014212608337402344,True,0.5036230456685358,drill,drill,power tool
+objaverse-cf918d7b0b2b4e878536b9564eefae23,grow,True,socket,1,0.03464866481179358,10,10,0.043509483337402344,True,0.009228968097539925,drill,drill,power tool
+objaverse-cf918d7b0b2b4e878536b9564eefae23,rotate,True,socket_band,1,0.010188282364051088,10,10,0.010036468505859375,True,0.0,drill,drill,power tool
+objaverse-cf918d7b0b2b4e878536b9564eefae23,same,False,,0,0.0,10,10,0.0,False,0.0,drill,drill,power tool
+objaverse-cf918d7b0b2b4e878536b9564eefae23,turn,False,,0,0.0,10,10,0.14331626892089844,True,0.0,drill,drill,power tool
+objaverse-ee8faa528d9a49f082cf5fa54a72def4,remove,True,surround_base,1,0.13753676666273068,11,8,0.012937545776367188,True,0.008025440276695717,boat,boat,watercraft
+objaverse-ee8faa528d9a49f082cf5fa54a72def4,float,True,bridge,1,0.025727821195230045,11,8,0.07496833801269531,True,0.006921647169993994,boat,boat,watercraft
+objaverse-ee8faa528d9a49f082cf5fa54a72def4,shrink,True,surround_base,1,0.13753676666273068,11,8,0.012722969055175781,True,0.03270609376022893,boat,boat,watercraft
+objaverse-ee8faa528d9a49f082cf5fa54a72def4,grow,True,bridge,1,0.025727821195230045,11,8,0.08023643493652344,True,0.1019630691185196,boat,boat,watercraft
+objaverse-ee8faa528d9a49f082cf5fa54a72def4,rotate,True,bridge,1,0.025727821195230045,11,8,0.06902408599853516,True,0.006921647169993994,boat,boat,watercraft
+objaverse-ee8faa528d9a49f082cf5fa54a72def4,same,False,,0,0.0,11,8,0.0,False,0.006921647169993994,boat,boat,watercraft
+objaverse-ee8faa528d9a49f082cf5fa54a72def4,turn,False,,0,0.0,11,8,0.13684463500976562,True,0.006921647169994105,boat,boat,watercraft
+objaverse-6463b37110264e3cae0d4c6a93078c87,remove,True,stem,1,0.016159931397209677,6,3,0.06310844421386719,True,0.0,fan,fan,aircraft or spacecraft
+objaverse-6463b37110264e3cae0d4c6a93078c87,float,True,housing,1,0.09706468067529508,6,3,0.06896591186523438,True,0.7783061530181261,fan,fan,aircraft or spacecraft
+objaverse-6463b37110264e3cae0d4c6a93078c87,shrink,True,stem,1,0.016159931397209677,6,3,0.026940345764160156,True,0.0026211696781847094,fan,fan,aircraft or spacecraft
+objaverse-6463b37110264e3cae0d4c6a93078c87,grow,True,stem,1,0.016159931397209677,6,3,0.03002452850341797,True,0.0,fan,fan,aircraft or spacecraft
+objaverse-6463b37110264e3cae0d4c6a93078c87,rotate,True,housing,1,0.09706468067529508,6,3,0.03576850891113281,True,0.0,fan,fan,aircraft or spacecraft
+objaverse-6463b37110264e3cae0d4c6a93078c87,same,False,,0,0.0,6,3,0.0,False,0.0,fan,fan,aircraft or spacecraft
+objaverse-6463b37110264e3cae0d4c6a93078c87,turn,False,,0,0.0,6,3,0.07532119750976562,True,0.0,fan,fan,aircraft or spacecraft
+objaverse-cc556065cca44970a15fee95b80e801d,remove,True,pommel,1,0.05882821658139552,40,14,0.007384300231933594,True,0.05267376476342045,bowaxe,bowaxe,musical instrument
+objaverse-cc556065cca44970a15fee95b80e801d,float,True,red_rail,2,0.12725451577153915,40,14,0.043750762939453125,True,0.06362725788576984,bowaxe,bowaxe,musical instrument
+objaverse-cc556065cca44970a15fee95b80e801d,shrink,True,sleeve,2,0.10211256429386564,40,14,0.005860328674316406,True,0.017870876771833855,bowaxe,bowaxe,musical instrument
+objaverse-cc556065cca44970a15fee95b80e801d,grow,True,recessed_panels,1,0.1077737604467925,40,14,0.054862022399902344,True,-2.220446049250313e-16,bowaxe,bowaxe,musical instrument
+objaverse-cc556065cca44970a15fee95b80e801d,rotate,True,grip,1,0.1318076527704746,40,14,0.06414604187011719,True,0.24021093047363073,bowaxe,bowaxe,musical instrument
+objaverse-cc556065cca44970a15fee95b80e801d,same,False,,0,0.0,40,14,0.0,False,-2.220446049250313e-16,bowaxe,bowaxe,musical instrument
+objaverse-cc556065cca44970a15fee95b80e801d,turn,False,,0,0.0,40,14,0.10486316680908203,True,-2.220446049250313e-16,bowaxe,bowaxe,musical instrument
+objaverse-2cdcce5cff3d4aca9cb8d939137f0539,remove,True,blade,4,0.11582669962032849,6,3,0.008251190185546875,True,0.0,tomato,tomato,food and drink
+objaverse-2cdcce5cff3d4aca9cb8d939137f0539,float,True,blade,4,0.11582669962032849,6,3,0.09238815307617188,True,0.11582669962032821,tomato,tomato,food and drink
+objaverse-2cdcce5cff3d4aca9cb8d939137f0539,shrink,True,blade,4,0.11582669962032849,6,3,0.008391380310058594,True,0.0,tomato,tomato,food and drink
+objaverse-2cdcce5cff3d4aca9cb8d939137f0539,grow,True,blade,4,0.11582669962032849,6,3,0.07188129425048828,True,0.0,tomato,tomato,food and drink
+objaverse-2cdcce5cff3d4aca9cb8d939137f0539,rotate,True,blade,4,0.11582669962032849,6,3,0.10988140106201172,True,0.0,tomato,tomato,food and drink
+objaverse-2cdcce5cff3d4aca9cb8d939137f0539,same,False,,0,0.0,6,3,0.0,False,0.0,tomato,tomato,food and drink
+objaverse-2cdcce5cff3d4aca9cb8d939137f0539,turn,False,,0,0.0,6,3,0.047890663146972656,True,0.0,tomato,tomato,food and drink
+objaverse-8a8d5a9fd800452db78d1e76f24439f1,remove,True,end_sheet,2,0.2858503349239369,18,9,0.052410125732421875,True,0.07984498506175153,stepped_cabinet,stepped cabinet,container
+objaverse-8a8d5a9fd800452db78d1e76f24439f1,float,True,end_sheet,2,0.2858503349239369,18,9,0.15203571319580078,True,0.002594840021066469,stepped_cabinet,stepped cabinet,container
+objaverse-8a8d5a9fd800452db78d1e76f24439f1,shrink,True,sloping_ledge,2,0.05442642931878668,18,9,0.013935089111328125,True,0.009125426783508583,stepped_cabinet,stepped cabinet,container
+objaverse-8a8d5a9fd800452db78d1e76f24439f1,grow,True,lid,1,0.14082628027409427,18,9,0.1600971221923828,True,-2.220446049250313e-16,stepped_cabinet,stepped cabinet,container
+objaverse-8a8d5a9fd800452db78d1e76f24439f1,rotate,True,sloping_ledge,2,0.05442642931878668,18,9,0.1598186492919922,True,2.220446049250313e-16,stepped_cabinet,stepped cabinet,container
+objaverse-8a8d5a9fd800452db78d1e76f24439f1,same,False,,0,0.0,18,9,0.0,False,0.0,stepped_cabinet,stepped cabinet,container
+objaverse-8a8d5a9fd800452db78d1e76f24439f1,turn,False,,0,0.0,18,9,0.2219533920288086,True,2.220446049250313e-16,stepped_cabinet,stepped cabinet,container
+objaverse-5fb4bfd6ccd84699bdb21f5ec9eb8d05,remove,True,neck,1,0.11438570173168817,5,5,0.10670852661132812,True,0.0,duck_ewer,duck ewer,tableware
+objaverse-5fb4bfd6ccd84699bdb21f5ec9eb8d05,float,True,tube,1,0.102837406582803,5,5,0.08315277099609375,True,0.10283740658280294,duck_ewer,duck ewer,tableware
+objaverse-5fb4bfd6ccd84699bdb21f5ec9eb8d05,shrink,True,neck,1,0.11438570173168817,5,5,0.08344554901123047,True,0.020247138078711036,duck_ewer,duck ewer,tableware
+objaverse-5fb4bfd6ccd84699bdb21f5ec9eb8d05,grow,True,tube,1,0.102837406582803,5,5,0.06428146362304688,True,0.0,duck_ewer,duck ewer,tableware
+objaverse-5fb4bfd6ccd84699bdb21f5ec9eb8d05,rotate,True,tube,1,0.102837406582803,5,5,0.014073371887207031,True,0.0,duck_ewer,duck ewer,tableware
+objaverse-5fb4bfd6ccd84699bdb21f5ec9eb8d05,same,False,,0,0.0,5,5,0.0,False,0.0,duck_ewer,duck ewer,tableware
+objaverse-5fb4bfd6ccd84699bdb21f5ec9eb8d05,turn,False,,0,0.0,5,5,0.11645221710205078,True,0.0,duck_ewer,duck ewer,tableware
+objaverse-8a91bf2947de47fb8c0b2f25e56b9e85,remove,True,tire,6,0.1820434101167834,30,13,0.05504798889160156,True,2.220446049250313e-16,armored_vehicle,armored vehicle,vehicle
+objaverse-8a91bf2947de47fb8c0b2f25e56b9e85,float,True,turret,1,0.07784306948013332,30,13,0.07474136352539062,True,0.13336704976540847,armored_vehicle,armored vehicle,vehicle
+objaverse-8a91bf2947de47fb8c0b2f25e56b9e85,shrink,True,turret,1,0.07784306948013332,30,13,0.013641357421875,True,0.07273487219865493,armored_vehicle,armored vehicle,vehicle
+objaverse-8a91bf2947de47fb8c0b2f25e56b9e85,grow,True,front_axle,1,0.03187608734842728,30,13,0.05141639709472656,True,0.0,armored_vehicle,armored vehicle,vehicle
+objaverse-8a91bf2947de47fb8c0b2f25e56b9e85,rotate,True,shield,2,0.018264484641531093,30,13,0.05128955841064453,True,0.0,armored_vehicle,armored vehicle,vehicle
+objaverse-8a91bf2947de47fb8c0b2f25e56b9e85,same,False,,0,0.0,30,13,0.0,False,0.0,armored_vehicle,armored vehicle,vehicle
+objaverse-8a91bf2947de47fb8c0b2f25e56b9e85,turn,False,,0,0.0,30,13,0.16173458099365234,True,0.0,armored_vehicle,armored vehicle,vehicle
+objaverse-ce02a4d01259486a9d7adcf996ecb89e,remove,True,neck,1,0.11817875457765882,3,3,0.08438968658447266,True,0.0,animal_vessel,animal vessel,container
+objaverse-ce02a4d01259486a9d7adcf996ecb89e,float,True,neck,1,0.11817875457765882,3,3,0.11342811584472656,True,0.1181787545776588,animal_vessel,animal vessel,container
+objaverse-ce02a4d01259486a9d7adcf996ecb89e,shrink,True,neck,1,0.11817875457765882,3,3,0.04414081573486328,True,0.0,animal_vessel,animal vessel,container
+objaverse-ce02a4d01259486a9d7adcf996ecb89e,grow,True,neck,1,0.11817875457765882,3,3,0.08745479583740234,True,0.0,animal_vessel,animal vessel,container
+objaverse-ce02a4d01259486a9d7adcf996ecb89e,rotate,True,neck,1,0.11817875457765882,3,3,0.024692535400390625,True,0.0,animal_vessel,animal vessel,container
+objaverse-ce02a4d01259486a9d7adcf996ecb89e,same,False,,0,0.0,3,3,0.0,False,0.0,animal_vessel,animal vessel,container
+objaverse-ce02a4d01259486a9d7adcf996ecb89e,turn,False,,0,0.0,3,3,0.12378787994384766,True,0.0,animal_vessel,animal vessel,container
+objaverse-df67fa2a371a483b80be5fb62e5fafce,remove,True,shaft,1,0.43675500428733904,10,4,0.02673625946044922,True,0.18293773694263749,coatstand,coatstand,furniture
+objaverse-df67fa2a371a483b80be5fb62e5fafce,float,True,hook,4,0.014280092561725393,10,4,0.015621185302734375,True,0.007140046280862622,coatstand,coatstand,furniture
+objaverse-df67fa2a371a483b80be5fb62e5fafce,shrink,True,shaft,1,0.43675500428733904,10,4,0.02131938934326172,True,0.2731203917602475,coatstand,coatstand,furniture
+objaverse-df67fa2a371a483b80be5fb62e5fafce,grow,True,sleeve,1,0.0887586722982144,10,4,0.016366004943847656,True,0.0,coatstand,coatstand,furniture
+objaverse-df67fa2a371a483b80be5fb62e5fafce,rotate,True,shaft,1,0.43675500428733904,10,4,0.05359840393066406,True,0.5397937691472787,coatstand,coatstand,furniture
+objaverse-df67fa2a371a483b80be5fb62e5fafce,same,False,,0,0.0,10,4,0.0,False,0.0,coatstand,coatstand,furniture
+objaverse-df67fa2a371a483b80be5fb62e5fafce,turn,False,,0,0.0,10,4,0.04359626770019531,True,0.0,coatstand,coatstand,furniture
+objaverse-8678b6b4f0ae47b49e40c10674986006,remove,True,deck_block,3,0.01770134328587567,110,30,0.0013208389282226562,False,-8.881784197001252e-16,schooner,schooner,watercraft
+objaverse-8678b6b4f0ae47b49e40c10674986006,float,True,fore_canvas,1,0.03894661950721215,110,30,0.08454608917236328,True,0.038946619507211344,schooner,schooner,watercraft
+objaverse-8678b6b4f0ae47b49e40c10674986006,shrink,True,rudder,1,0.014499982301045843,110,30,0.04397869110107422,True,-6.661338147750939e-16,schooner,schooner,watercraft
+objaverse-8678b6b4f0ae47b49e40c10674986006,grow,True,rudder,1,0.014499982301045843,110,30,0.056204795837402344,True,-6.661338147750939e-16,schooner,schooner,watercraft
+objaverse-8678b6b4f0ae47b49e40c10674986006,rotate,True,carriage,26,0.02896477279800585,110,30,0.08786869049072266,True,0.022280594460004632,schooner,schooner,watercraft
+objaverse-8678b6b4f0ae47b49e40c10674986006,same,False,,0,0.0,110,30,0.0,False,-6.661338147750939e-16,schooner,schooner,watercraft
+objaverse-8678b6b4f0ae47b49e40c10674986006,turn,False,,0,0.0,110,30,0.10571002960205078,True,-6.661338147750939e-16,schooner,schooner,watercraft
+objaverse-23d3b25d47f74d7d9a96ee542914f281,remove,True,stem,1,0.26864245612575804,3,3,0.010846138000488281,True,0.15082585493996536,pedestal_box,pedestal box,electronics
+objaverse-23d3b25d47f74d7d9a96ee542914f281,float,True,stem,1,0.26864245612575804,3,3,0.026259422302246094,True,0.37895008294738397,pedestal_box,pedestal box,electronics
+objaverse-23d3b25d47f74d7d9a96ee542914f281,shrink,True,stem,1,0.26864245612575804,3,3,0.010012626647949219,True,0.19796259151946738,pedestal_box,pedestal box,electronics
+objaverse-23d3b25d47f74d7d9a96ee542914f281,grow,True,stem,1,0.26864245612575804,3,3,0.03391456604003906,True,0.0,pedestal_box,pedestal box,electronics
+objaverse-23d3b25d47f74d7d9a96ee542914f281,rotate,True,stem,1,0.26864245612575804,3,3,0.05098724365234375,True,0.37895008294738397,pedestal_box,pedestal box,electronics
+objaverse-23d3b25d47f74d7d9a96ee542914f281,same,False,,0,0.0,3,3,0.0,False,0.0,pedestal_box,pedestal box,electronics
+objaverse-23d3b25d47f74d7d9a96ee542914f281,turn,False,,0,0.0,3,3,0.03613567352294922,True,0.0,pedestal_box,pedestal box,electronics
+objaverse-747c168a3adc47528e8cd6483f0dabba,remove,True,blade,18,0.09842734691869756,149,15,0.02035236358642578,True,1.2212453270876722e-15,windmill,windmill,machine or industrial
+objaverse-747c168a3adc47528e8cd6483f0dabba,float,True,spoke,18,0.029368181526372505,149,15,0.0781717300415039,True,-4.440892098500626e-16,windmill,windmill,machine or industrial
+objaverse-747c168a3adc47528e8cd6483f0dabba,shrink,True,blade,18,0.09842734691869756,149,15,0.018258094787597656,True,2.6645352591003757e-15,windmill,windmill,machine or industrial
+objaverse-747c168a3adc47528e8cd6483f0dabba,grow,True,pump_rod,1,0.013404676747206896,149,15,0.08179378509521484,True,-4.440892098500626e-16,windmill,windmill,machine or industrial
+objaverse-747c168a3adc47528e8cd6483f0dabba,rotate,True,pump_rod,1,0.013404676747206896,149,15,0.08533573150634766,True,-4.440892098500626e-16,windmill,windmill,machine or industrial
+objaverse-747c168a3adc47528e8cd6483f0dabba,same,False,,0,0.0,149,15,0.0,False,-4.440892098500626e-16,windmill,windmill,machine or industrial
+objaverse-747c168a3adc47528e8cd6483f0dabba,turn,False,,0,0.0,149,15,0.104949951171875,True,-6.661338147750939e-16,windmill,windmill,machine or industrial
+objaverse-8cf0476475f247428fb04c81811cbc91,remove,True,angular_foot,4,0.03765355156329415,7,4,0.13777446746826172,True,0.0,lounge_chair,lounge chair,furniture
+objaverse-8cf0476475f247428fb04c81811cbc91,float,True,angular_foot,4,0.03765355156329415,7,4,0.16909122467041016,True,0.037653551563294196,lounge_chair,lounge chair,furniture
+objaverse-8cf0476475f247428fb04c81811cbc91,shrink,True,angular_foot,4,0.03765355156329415,7,4,0.07561206817626953,True,0.0,lounge_chair,lounge chair,furniture
+objaverse-8cf0476475f247428fb04c81811cbc91,grow,True,frame,1,0.13995602804692833,7,4,0.17133140563964844,True,0.40805755354677475,lounge_chair,lounge chair,furniture
+objaverse-8cf0476475f247428fb04c81811cbc91,rotate,True,frame,1,0.13995602804692833,7,4,0.16872310638427734,True,0.037653551563294196,lounge_chair,lounge chair,furniture
+objaverse-8cf0476475f247428fb04c81811cbc91,same,False,,0,0.0,7,4,0.0,False,0.0,lounge_chair,lounge chair,furniture
+objaverse-8cf0476475f247428fb04c81811cbc91,turn,False,,0,0.0,7,4,0.16335582733154297,True,0.0,lounge_chair,lounge chair,furniture
