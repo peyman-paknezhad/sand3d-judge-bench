@@ -21,6 +21,8 @@ JUDGES = {"rule": "Geometry rule (loose part)", "clip": "CLIP text match", "qwen
 INK, MUTED, GRID = "#0b0b0b", "#52514e", "#e6e5e0"
 # ---------------
 os.makedirs(FIG, exist_ok=True)
+if not os.path.isdir(f"{RES}/thumbs"):          # the renders are shipped as one zip to keep the file count small
+    import zipfile; zipfile.ZipFile(f"{RES}/thumbs.zip").extractall(RES)
 pairs = pd.read_csv(f"{RES}/pairs.csv"); pairs["key"] = pairs.oid + "__" + pairs.kind
 j = pd.concat([pd.read_csv(f) for f in sorted(glob.glob(f"{RES}/judge_*.csv")) if "smoke" not in f])
 rule = pairs[["oid", "kind", "key"]].copy()

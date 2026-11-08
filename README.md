@@ -96,7 +96,7 @@ build_pairs.py    step 2: run programs, damage named part groups, render
 render.py         CPU renderer (4 clay views)
 judge.py          step 3: CLIP and Qwen2.5-VL judges
 analyze.py        step 4: numbers (results/summary.txt) and figures
-results/          pairs.csv, judge_*.csv, summary.txt, thumbs/ (200 px renders of every pair)
+results/          pairs.csv, judge_*.csv, summary.txt, thumbs.zip (200 px renders of every pair; analyze.py unzips it)
 figures/          the figures above
 ```
 
@@ -104,4 +104,4 @@ In `results/judge_*.csv`, `pref` is how strongly the judge prefers the original,
 
 ## Data
 
-Objects come from [Sandflow/sand3d-objaverse](https://huggingface.co/datasets/Sandflow/sand3d-objaverse) (CC-BY-4.0), built with the [sand3d](https://github.com/Sandflow-ai/sand3d) library from [Objaverse](https://arxiv.org/abs/2212.08051) objects. The original objects are credited row by row in the dataset. The renders in `results/thumbs/` are derived from them under the same license.
+Objects come from [Sandflow/sand3d-objaverse](https://huggingface.co/datasets/Sandflow/sand3d-objaverse) (CC-BY-4.0), built with the [sand3d](https://github.com/Sandflow-ai/sand3d) library from [Objaverse](https://arxiv.org/abs/2212.08051) objects. The original objects are credited row by row in the dataset. The renders in `results/thumbs.zip` are derived from them under the same license.
