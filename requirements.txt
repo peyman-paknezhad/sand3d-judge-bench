@@ -1,0 +1,19 @@
+# Building the pairs (Sand3D needs Python 3.13, it ships Blender's bpy)
+sand3d
+trimesh
+python-fcl
+rtree
+scipy
+numpy
+pandas
+pyarrow
+pillow
+huggingface_hub
+# Judges (GPU); tested with torch 2.11, torchvision 0.26, transformers 5.14
+torch
+torchvision
+transformers>=4.57
+accelerate
+open_clip_torch
+# Analysis (runs on a laptop)
+matplotlib
